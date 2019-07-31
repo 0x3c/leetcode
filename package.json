@@ -4,16 +4,17 @@
     "husky": "^3.0.2",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2",
-    "ts-lint": "^4.5.1",
     "ts-node": "^8.3.0",
+    "tslint": "^5.18.0",
     "typescript": "^3.5.3"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run test"
+      "pre-commit": "yarn run test && yarn run tslint"
     }
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "tslint": "tslint -p ./tsconfig.json"
   }
 }
