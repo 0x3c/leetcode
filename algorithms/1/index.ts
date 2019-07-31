@@ -1,6 +1,4 @@
-interface TwoSumFn {
-  (nums: number[], target: number): number[];
-}
+type TwoSumFn = (nums: number[], target: number) => number[];
 
 export const twoSumFn: TwoSumFn = (nums, target) => {
   let lp = 0,
