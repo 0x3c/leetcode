@@ -4,10 +4,11 @@ typescript solutions for Leetcode problems
 
 ### Topics
 
-[Array<sup>1</sup>](/)
+[Array<sup>2</sup>](/)
 
 ### Algorithms
 
-| Title                         | Topics | Difficulty |
-| ----------------------------- | ------ | ---------- |
-| [1. Two Sum](/algorithms/1) | Array  | Easy       |
+| #                        | Title                                   | Topics | Difficulty |
+| ------------------------ | --------------------------------------- | ------ | ---------- |
+| [1](/algorithms/1)       | [Two Sum](/algorithms/1)                | Array  | Easy       |
+| [1122](/algorithms/1122) | [Relative Sort Array](/algorithms/1122) | Array  | Easy       |
