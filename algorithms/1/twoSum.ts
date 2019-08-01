@@ -13,6 +13,3 @@ export const twoSumFn: TwoSumFn = (nums, target) => {
   }
   throw new Error("no result");
 };
-
-const result = twoSumFn([2, 7, 11, 15], 18);
-console.log(result);
