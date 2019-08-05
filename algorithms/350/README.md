@@ -28,6 +28,6 @@ Output: [4,9]
 
 ## Results
 
-| Runtime | Memory | Pass | submission_id |
-| ------- | ------ | ---- | ------------- |
-
+| Runtime | Memory  | Pass    | submission_id                                                   |
+| ------- | ------- | ------- | --------------------------------------------------------------- |
+| 60 ms   | 35.2 MB | 61 / 61 | [249005665](https://leetcode.com/submissions/detail/249005665/) |
