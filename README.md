@@ -5,12 +5,13 @@ typescript solutions for Leetcode problems
 ### Topics
 
 [Array<sup>2</sup>](/)
-[Hash Table<sup>1</sup>](/)
+[Hash Table<sup>2</sup>](/)
 
 ### Algorithms
 
-| #                        | Title                                         | Topics     | Difficulty |
-| ------------------------ | --------------------------------------------- | ---------- | ---------- |
-| [1](/algorithms/1)       | [Two Sum](/algorithms/1)                      | Array      | Easy       |
-| [349](/algorithms/349)   | [Intersection of Two Arrays](/algorithms/349) | Hash Table | Easy       |
-| [1122](/algorithms/1122) | [Relative Sort Array](/algorithms/1122)       | Array      | Easy       |
+| #                        | Title                                            | Topics     | Difficulty |
+| ------------------------ | ------------------------------------------------ | ---------- | ---------- |
+| [1](/algorithms/1)       | [Two Sum](/algorithms/1)                         | Array      | Easy       |
+| [349](/algorithms/349)   | [Intersection of Two Arrays](/algorithms/349)    | Hash Table | Easy       |
+| [350](/algorithms/350)   | [Intersection of Two Arrays II](/algorithms/350) | Hash Table | Easy       |
+| [1122](/algorithms/1122) | [Relative Sort Array](/algorithms/1122)          | Array      | Easy       |
