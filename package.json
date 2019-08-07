@@ -10,7 +10,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run test && yarn run tslint"
+      "pre-commit": "yarn run tslint"
     }
   },
   "scripts": {
