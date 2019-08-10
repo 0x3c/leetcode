@@ -40,4 +40,4 @@ Output: [[3,3],[-2,4]]
 
 | Runtime | Memory  | Pass    | submission_id                                                   |
 | ------- | ------- | ------- | --------------------------------------------------------------- |
-| 200 ms  | 57.5 MB | 83 / 83 | [250430722](https://leetcode.com/submissions/detail/250430722/) |
+| 188 ms  | 48.6 MB | 83 / 83 | [250432716](https://leetcode.com/submissions/detail/250432716/) |
