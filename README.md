@@ -7,7 +7,7 @@ typescript solutions for Leetcode problems
 - <strong>Array<sup>3</strong>
 - <strong>Hash Table<sup>2</strong>
 - <strong>Linked List<sup>1</strong>
-- <strong>Sort<sup>1</sup></strong>
+- <strong>Sort<sup>2</sup></strong>
 
 ### Algorithms
 
@@ -18,5 +18,6 @@ typescript solutions for Leetcode problems
 | [147](/algorithms/147)   | [Insertion Sort List](/algorithms/147)             | Linked List | Medium     |
 | [349](/algorithms/349)   | [Intersection of Two Arrays](/algorithms/349)      | Hash Table  | Easy       |
 | [350](/algorithms/350)   | [Intersection of Two Arrays II](/algorithms/350)   | Hash Table  | Easy       |
+| [973](/algorithms/973)   | [K Closest Points to Origin](/algorithms/973)      | Sort        | Medium     |
 | [1030](/algorithms/1030) | [Matrix Cells in Distance Order](/algorithms/1030) | Sort        | Easy       |
 | [1122](/algorithms/1122) | [Relative Sort Array](/algorithms/1122)            | Array       | Easy       |
