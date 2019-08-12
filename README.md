@@ -17,6 +17,7 @@ typescript solutions for Leetcode problems
 | [56](/algorithms/56)     | [Merge Intervals](/algorithms/56)                  | Array       | Medium     |
 | [147](/algorithms/147)   | [Insertion Sort List](/algorithms/147)             | Linked List | Medium     |
 | [242](/algorithms/242)   | [Valid Anagram](/algorithms/242)                   | Sort        | Easy       |
+| [274](/algorithms/274)   | [H-Index](/algorithms/274)                         | Sort        | Medium     |
 | [349](/algorithms/349)   | [Intersection of Two Arrays](/algorithms/349)      | Hash Table  | Easy       |
 | [350](/algorithms/350)   | [Intersection of Two Arrays II](/algorithms/350)   | Hash Table  | Easy       |
 | [973](/algorithms/973)   | [K Closest Points to Origin](/algorithms/973)      | Sort        | Medium     |
