@@ -12,12 +12,12 @@ export const hIndex: HIndexFn = citations => {
   if (citations[0] === 0) {
     return 0;
   }
-  const idx = citations.findIndex((a, idx) => idx + 1 > a);
+  const index = citations.findIndex((a, idx) => idx + 1 > a);
   if (citations[len - 1] >= len) {
     return len;
   }
-  if (idx > 0) {
-    return idx;
+  if (index > 0) {
+    return index;
   }
   return 0;
 };
