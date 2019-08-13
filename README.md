@@ -9,6 +9,7 @@ typescript solutions for Leetcode problems
 | [1](/algorithms/1)       | [Two Sum](/algorithms/1)                              | Easy       |
 | [26](/algorithms/26)     | [Remove Duplicates from Sorted Array](/algorithms/26) | Easy       |
 | [56](/algorithms/56)     | [Merge Intervals](/algorithms/56)                     | Medium     |
+| [75](/algorithms/75)     | [Sort Colors](/algorithms/75)                         | Medium     |
 | [147](/algorithms/147)   | [Insertion Sort List](/algorithms/147) t              | Medium     |
 | [242](/algorithms/242)   | [Valid Anagram](/algorithms/242)                      | Easy       |
 | [274](/algorithms/274)   | [H-Index](/algorithms/274)                            | Medium     |
