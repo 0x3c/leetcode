@@ -13,6 +13,7 @@ typescript solutions for Leetcode problems
 | [147](/algorithms/147)   | [Insertion Sort List](/algorithms/147) t              | Medium     |
 | [242](/algorithms/242)   | [Valid Anagram](/algorithms/242)                      | Easy       |
 | [274](/algorithms/274)   | [H-Index](/algorithms/274)                            | Medium     |
+| [345](/algorithms/345)   | [Reverse Vowels of a String](/algorithms/345)         | Easy       |
 | [349](/algorithms/349)   | [Intersection of Two Arrays](/algorithms/349) e       | Easy       |
 | [350](/algorithms/350)   | [Intersection of Two Arrays II](/algorithms/350) e    | Easy       |
 | [973](/algorithms/973)   | [K Closest Points to Origin](/algorithms/973)         | Medium     |
