@@ -7,6 +7,7 @@ typescript solutions for Leetcode problems
 | #                        | Title                                                 | Difficulty |
 | ------------------------ | ----------------------------------------------------- | ---------- |
 | [1](/algorithms/1)       | [Two Sum](/algorithms/1)                              | Easy       |
+| [11](/algorithms/11)     | [Container With Most Water](/algorithms/11)           | Medium     |
 | [26](/algorithms/26)     | [Remove Duplicates from Sorted Array](/algorithms/26) | Easy       |
 | [56](/algorithms/56)     | [Merge Intervals](/algorithms/56)                     | Medium     |
 | [75](/algorithms/75)     | [Sort Colors](/algorithms/75)                         | Medium     |
