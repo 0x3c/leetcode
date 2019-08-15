@@ -1,16 +1,14 @@
 {
   "devDependencies": {
     "husky": "^3.0.2",
-    "ts-node": "^8.3.0",
-    "tslint": "^5.18.0",
-    "typescript": "^3.5.3"
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "parse": "node scripts/parser.js"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run tslint"
+      "pre-commit": "yarn run parse && git add README.md"
     }
-  },
-  "scripts": {
-    "tslint": "tslint -p ./tsconfig.json"
   }
 }
