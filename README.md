@@ -4,22 +4,33 @@ javascript solutions for Leetcode problems
 
 ### Algorithms
 
-| #                                                  | Title                                                                |
-| -------------------------------------------------- | -------------------------------------------------------------------- |
-| [1](/algorithms/1.两数之和.js)                     | [两数之和](/algorithms/1.两数之和.js)                                |
-| [7](/algorithms/7.整数反转.js)                     | [整数反转](/algorithms/7.整数反转.js)                                |
-| [9](/algorithms/9.回文数.js)                       | [回文数](/algorithms/9.回文数.js)                                    |
-| [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                   |
-| [26](/algorithms/26.删除排序数组中的重复项.js)     | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)   |
-| [56](/algorithms/56.合并区间.js)                   | [合并区间](/algorithms/56.合并区间.js)                               |
-| [75](/algorithms/75.颜色分类.js)                   | [颜色分类](/algorithms/75.颜色分类.js)                               |
-| [147](/algorithms/147.对链表进行插入排序.js)       | [对链表进行插入排序](/algorithms/147.对链表进行插入排序.js)          |
-| [209](/algorithms/209.长度最小的子数组.js)         | [长度最小的子数组](/algorithms/209.长度最小的子数组.js)              |
-| [242](/algorithms/242.有效的字母异位词.js)         | [有效的字母异位词](/algorithms/242.有效的字母异位词.js)              |
-| [274](/algorithms/274.h指数.js)                    | [h 指数](/algorithms/274.h指数.js)                                   |
-| [345](/algorithms/345.反转字符串中的元音字母.js)   | [反转字符串中的元音字母](/algorithms/345.反转字符串中的元音字母.js)  |
-| [349](/algorithms/349.两个数组的交集.js)           | [两个数组的交集](/algorithms/349.两个数组的交集.js)                  |
-| [350](/algorithms/350.两个数组的交集-ii.js)        | [两个数组的交集-ii](/algorithms/350.两个数组的交集-ii.js)            |
-| [973](/algorithms/973.最接近原点的-k-个点.js)      | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)        |
-| [1030](/algorithms/1030.距离顺序排列矩阵单元格.js) | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js) |
-| [1122](/algorithms/1122.数组的相对排序.js)         | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                 |
+| #                                                  | Title                                                                    |
+| -------------------------------------------------- | ------------------------------------------------------------------------ |
+| [1](/algorithms/1.两数之和.js)                     | [两数之和](/algorithms/1.两数之和.js)                                    |
+| [7](/algorithms/7.整数反转.js)                     | [整数反转](/algorithms/7.整数反转.js)                                    |
+| [9](/algorithms/9.回文数.js)                       | [回文数](/algorithms/9.回文数.js)                                        |
+| [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                       |
+| [26](/algorithms/26.删除排序数组中的重复项.js)     | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)       |
+| [27](/algorithms/27.移除元素.js)                   | [移除元素](/algorithms/27.移除元素.js)                                   |
+| [35](/algorithms/35.搜索插入位置.js)               | [搜索插入位置](/algorithms/35.搜索插入位置.js)                           |
+| [53](/algorithms/53.最大子序和.js)                 | [最大子序和](/algorithms/53.最大子序和.js)                               |
+| [56](/algorithms/56.合并区间.js)                   | [合并区间](/algorithms/56.合并区间.js)                                   |
+| [66](/algorithms/66.加一.js)                       | [加一](/algorithms/66.加一.js)                                           |
+| [75](/algorithms/75.颜色分类.js)                   | [颜色分类](/algorithms/75.颜色分类.js)                                   |
+| [80](/algorithms/80.删除排序数组中的重复项-ii.js)  | [删除排序数组中的重复项-ii](/algorithms/80.删除排序数组中的重复项-ii.js) |
+| [88](/algorithms/88.合并两个有序数组.js)           | [合并两个有序数组](/algorithms/88.合并两个有序数组.js)                   |
+| [122](/algorithms/122.买卖股票的最佳时机-ii.js)    | [买卖股票的最佳时机-ii](/algorithms/122.买卖股票的最佳时机-ii.js)        |
+| [125](/algorithms/125.验证回文串.js)               | [验证回文串](/algorithms/125.验证回文串.js)                              |
+| [147](/algorithms/147.对链表进行插入排序.js)       | [对链表进行插入排序](/algorithms/147.对链表进行插入排序.js)              |
+| [167](/algorithms/167.两数之和-ii-输入有序数组.js) | [两数之和-ii-输入有序数组](/algorithms/167.两数之和-ii-输入有序数组.js)  |
+| [209](/algorithms/209.长度最小的子数组.js)         | [长度最小的子数组](/algorithms/209.长度最小的子数组.js)                  |
+| [215](/algorithms/215.数组中的第k个最大元素.js)    | [数组中的第 k 个最大元素](/algorithms/215.数组中的第k个最大元素.js)      |
+| [242](/algorithms/242.有效的字母异位词.js)         | [有效的字母异位词](/algorithms/242.有效的字母异位词.js)                  |
+| [274](/algorithms/274.h指数.js)                    | [h 指数](/algorithms/274.h指数.js)                                       |
+| [283](/algorithms/283.移动零.js)                   | [移动零](/algorithms/283.移动零.js)                                      |
+| [345](/algorithms/345.反转字符串中的元音字母.js)   | [反转字符串中的元音字母](/algorithms/345.反转字符串中的元音字母.js)      |
+| [349](/algorithms/349.两个数组的交集.js)           | [两个数组的交集](/algorithms/349.两个数组的交集.js)                      |
+| [350](/algorithms/350.两个数组的交集-ii.js)        | [两个数组的交集-ii](/algorithms/350.两个数组的交集-ii.js)                |
+| [973](/algorithms/973.最接近原点的-k-个点.js)      | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)            |
+| [1030](/algorithms/1030.距离顺序排列矩阵单元格.js) | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js)     |
+| [1122](/algorithms/1122.数组的相对排序.js)         | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                     |
