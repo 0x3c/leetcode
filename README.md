@@ -10,6 +10,7 @@ javascript solutions for Leetcode problems
 | [7](/algorithms/7.整数反转.js)                     | [整数反转](/algorithms/7.整数反转.js)                                    |
 | [9](/algorithms/9.回文数.js)                       | [回文数](/algorithms/9.回文数.js)                                        |
 | [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                       |
+| [20](/algorithms/20.有效的括号.js)                 | [有效的括号](/algorithms/20.有效的括号.js)                               |
 | [26](/algorithms/26.删除排序数组中的重复项.js)     | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)       |
 | [27](/algorithms/27.移除元素.js)                   | [移除元素](/algorithms/27.移除元素.js)                                   |
 | [35](/algorithms/35.搜索插入位置.js)               | [搜索插入位置](/algorithms/35.搜索插入位置.js)                           |
