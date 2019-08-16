@@ -32,6 +32,7 @@ javascript solutions for Leetcode problems
 | [345](/algorithms/345.反转字符串中的元音字母.js)   | [反转字符串中的元音字母](/algorithms/345.反转字符串中的元音字母.js)      |
 | [349](/algorithms/349.两个数组的交集.js)           | [两个数组的交集](/algorithms/349.两个数组的交集.js)                      |
 | [350](/algorithms/350.两个数组的交集-ii.js)        | [两个数组的交集-ii](/algorithms/350.两个数组的交集-ii.js)                |
+| [622](/algorithms/622.设计循环队列.js)             | [设计循环队列](/algorithms/622.设计循环队列.js)                          |
 | [973](/algorithms/973.最接近原点的-k-个点.js)      | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)            |
 | [1030](/algorithms/1030.距离顺序排列矩阵单元格.js) | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js)     |
 | [1122](/algorithms/1122.数组的相对排序.js)         | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                     |
