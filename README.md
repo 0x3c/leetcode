@@ -8,6 +8,7 @@ javascript solutions for Leetcode problems
 | -------------------------------------------------- | ------------------------------------------------------------------------ |
 | [1](/algorithms/1.两数之和.js)                     | [两数之和](/algorithms/1.两数之和.js)                                    |
 | [2](/algorithms/2.两数相加.js)                     | [两数相加](/algorithms/2.两数相加.js)                                    |
+| [3](/algorithms/3.无重复字符的最长子串.js)         | [无重复字符的最长子串](/algorithms/3.无重复字符的最长子串.js)            |
 | [7](/algorithms/7.整数反转.js)                     | [整数反转](/algorithms/7.整数反转.js)                                    |
 | [9](/algorithms/9.回文数.js)                       | [回文数](/algorithms/9.回文数.js)                                        |
 | [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                       |
