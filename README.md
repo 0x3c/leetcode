@@ -12,6 +12,7 @@ javascript solutions for Leetcode problems
 | [4](/algorithms/4.寻找两个有序数组的中位数.js)     | [寻找两个有序数组的中位数](/algorithms/4.寻找两个有序数组的中位数.js)    |
 | [6](/algorithms/6.z-字形变换.js)                   | [z-字形变换](/algorithms/6.z-字形变换.js)                                |
 | [7](/algorithms/7.整数反转.js)                     | [整数反转](/algorithms/7.整数反转.js)                                    |
+| [8](/algorithms/8.字符串转换整数-atoi.js)          | [字符串转换整数-atoi](/algorithms/8.字符串转换整数-atoi.js)              |
 | [9](/algorithms/9.回文数.js)                       | [回文数](/algorithms/9.回文数.js)                                        |
 | [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                       |
 | [20](/algorithms/20.有效的括号.js)                 | [有效的括号](/algorithms/20.有效的括号.js)                               |
