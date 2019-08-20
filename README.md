@@ -16,6 +16,7 @@ javascript solutions for Leetcode problems
 | [8](/algorithms/8.字符串转换整数-atoi.js)          | [字符串转换整数-atoi](/algorithms/8.字符串转换整数-atoi.js)              |
 | [9](/algorithms/9.回文数.js)                       | [回文数](/algorithms/9.回文数.js)                                        |
 | [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                       |
+| [14](/algorithms/14.最长公共前缀.js)               | [最长公共前缀](/algorithms/14.最长公共前缀.js)                           |
 | [20](/algorithms/20.有效的括号.js)                 | [有效的括号](/algorithms/20.有效的括号.js)                               |
 | [26](/algorithms/26.删除排序数组中的重复项.js)     | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)       |
 | [27](/algorithms/27.移除元素.js)                   | [移除元素](/algorithms/27.移除元素.js)                                   |
