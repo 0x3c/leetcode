@@ -18,6 +18,7 @@ javascript solutions for Leetcode problems
 | [11](/algorithms/11.盛最多水的容器.js)             | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                       |
 | [14](/algorithms/14.最长公共前缀.js)               | [最长公共前缀](/algorithms/14.最长公共前缀.js)                           |
 | [20](/algorithms/20.有效的括号.js)                 | [有效的括号](/algorithms/20.有效的括号.js)                               |
+| [22](/algorithms/22.括号生成.js)                   | [括号生成](/algorithms/22.括号生成.js)                                   |
 | [26](/algorithms/26.删除排序数组中的重复项.js)     | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)       |
 | [27](/algorithms/27.移除元素.js)                   | [移除元素](/algorithms/27.移除元素.js)                                   |
 | [28](/algorithms/28.实现-str-str.js)               | [实现-str-str](/algorithms/28.实现-str-str.js)                           |
