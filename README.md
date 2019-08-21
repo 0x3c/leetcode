@@ -23,6 +23,7 @@ javascript solutions for Leetcode problems
 | [26](/algorithms/26.删除排序数组中的重复项.js)     | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)       |
 | [27](/algorithms/27.移除元素.js)                   | [移除元素](/algorithms/27.移除元素.js)                                   |
 | [28](/algorithms/28.实现-str-str.js)               | [实现-str-str](/algorithms/28.实现-str-str.js)                           |
+| [32](/algorithms/32.最长有效括号.js)               | [最长有效括号](/algorithms/32.最长有效括号.js)                           |
 | [35](/algorithms/35.搜索插入位置.js)               | [搜索插入位置](/algorithms/35.搜索插入位置.js)                           |
 | [53](/algorithms/53.最大子序和.js)                 | [最大子序和](/algorithms/53.最大子序和.js)                               |
 | [56](/algorithms/56.合并区间.js)                   | [合并区间](/algorithms/56.合并区间.js)                                   |
