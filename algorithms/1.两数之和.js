@@ -27,6 +27,7 @@
  *
  */
 /**
+ * @description 双指针遍历查找
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
@@ -41,5 +42,25 @@ var twoSum = function(nums, target) {
       }
     }
     rp = ++lp;
+  }
+};
+
+/**
+ *@description 1. 建立map -> 2. 查找
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+  const hm = {};
+  const len = nums.length;
+  for (let i = 0; i < len; i++) {
+    !hm[nums[i]] && (hm[nums[i]] = i);
+  }
+  for (let i = 0; i < len; i++) {
+    const y = target - nums[i];
+    if (hm[y] !== undefined && hm[y] !== i) {
+      return [i, hm[y]];
+    }
   }
 };
