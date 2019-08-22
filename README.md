@@ -25,6 +25,7 @@ javascript solutions for Leetcode problems
 | [28](/algorithms/28.实现-str-str.js)               | [实现-str-str](/algorithms/28.实现-str-str.js)                           |
 | [32](/algorithms/32.最长有效括号.js)               | [最长有效括号](/algorithms/32.最长有效括号.js)                           |
 | [35](/algorithms/35.搜索插入位置.js)               | [搜索插入位置](/algorithms/35.搜索插入位置.js)                           |
+| [39](/algorithms/39.组合总和.js)                   | [组合总和](/algorithms/39.组合总和.js)                                   |
 | [53](/algorithms/53.最大子序和.js)                 | [最大子序和](/algorithms/53.最大子序和.js)                               |
 | [56](/algorithms/56.合并区间.js)                   | [合并区间](/algorithms/56.合并区间.js)                                   |
 | [66](/algorithms/66.加一.js)                       | [加一](/algorithms/66.加一.js)                                           |
