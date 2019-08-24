@@ -28,6 +28,7 @@ javascript solutions for Leetcode problems
 | [39](/algorithms/39.组合总和.js)                   | [组合总和](/algorithms/39.组合总和.js)                                   |
 | [40](/algorithms/40.组合总和-ii.js)                | [组合总和-ii](/algorithms/40.组合总和-ii.js)                             |
 | [46](/algorithms/46.全排列.js)                     | [全排列](/algorithms/46.全排列.js)                                       |
+| [47](/algorithms/47.全排列-ii.js)                  | [全排列-ii](/algorithms/47.全排列-ii.js)                                 |
 | [53](/algorithms/53.最大子序和.js)                 | [最大子序和](/algorithms/53.最大子序和.js)                               |
 | [56](/algorithms/56.合并区间.js)                   | [合并区间](/algorithms/56.合并区间.js)                                   |
 | [66](/algorithms/66.加一.js)                       | [加一](/algorithms/66.加一.js)                                           |
