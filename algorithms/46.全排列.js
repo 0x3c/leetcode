@@ -32,14 +32,22 @@
 
 /**
  *
- * @param {number[]} list
- * @param {number[]} temps
+ * @param {number} index
+ * @param {number[]} curr
  * @param {number[]} nums
+ * @param {number[]} list
  */
-function backtrack(list, temps, nums) {
-  if (!nums.length) return list.push(temps);
-  for (let i = 0; i < nums.length; i++) {
-    backtrack(list, [...temps, nums[i]], nums.filter((_, idx) => i !== idx));
+function backtrack(index, curr, nums, list) {
+  const len = nums.length;
+  if (curr.length === len) return list.push(curr);
+  for (let i = index; i < len; i++) {
+    curr.push(nums[i]);
+    const temps = nums.slice();
+    temps[i] = temps[index];
+    temps[index] = nums[i];
+    // 每递归一次, index + 1, 数组前 index 为已使用过的元素
+    backtrack(index + 1, curr.slice(), temps, list);
+    curr.pop();
   }
 }
 /**
@@ -48,6 +56,6 @@ function backtrack(list, temps, nums) {
  */
 var permute = function(nums) {
   const results = [];
-  backtrack(results, [], nums);
+  backtrack(0, [], nums, results);
   return results;
 };
