@@ -29,25 +29,35 @@
 
 /**
  *
- * @param {number[]} list
- * @param {number[]} temps
+ * @param {number} index
+ * @param {number[]} curr
  * @param {number[]} nums
+ * @param {number[]} list
+ * @param {number[][]} used
  */
-function backtrack(list, temps, nums) {
-  if (!nums.length) return list.push(temps);
-  for (let i = 0; i < nums.length; i++) {
-    backtrack(list, [...temps, nums[i]], nums.filter((_, idx) => i !== idx));
+function backtrack(index, curr, nums, list, used) {
+  const len = nums.length;
+  if (index === len) return list.push(curr);
+  for (let i = 0; i < len; i++) {
+    if (used[i]) continue;
+    // 去重, 重复元素选取必须从前到后, 若上一个重复元素未使用则跳过
+    if (nums[i] === nums[i - 1] && i > 0 && !used[i - 1]) continue;
+    used[i] = true;
+    curr.push(nums[i]);
+    // 每递归一次, 记录当前已使用的元素索引
+    backtrack(index + 1, curr.slice(), nums, list, used);
+    curr.pop();
+    used[i] = false;
   }
 }
-
 /**
  * @param {number[]} nums
  * @return {number[][]}
  */
 var permuteUnique = function(nums) {
   let results = [];
+  const used = Array.from({ length: nums.length }, Boolean);
   nums = nums.sort((a, b) => a - b);
-  backtrack(results, [], nums);
-  results = results.map(arr => arr.join(","));
-  return Array.from(new Set(results)).map(str => str.split(","));
+  backtrack(0, [], nums, results, used);
+  return results;
 };
