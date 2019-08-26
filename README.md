@@ -31,6 +31,7 @@ javascript solutions for Leetcode problems
 | [47](/algorithms/47.全排列-ii.js)                  | [全排列-ii](/algorithms/47.全排列-ii.js)                                 |
 | [53](/algorithms/53.最大子序和.js)                 | [最大子序和](/algorithms/53.最大子序和.js)                               |
 | [56](/algorithms/56.合并区间.js)                   | [合并区间](/algorithms/56.合并区间.js)                                   |
+| [60](/algorithms/60.第k个排列.js)                  | [第 k 个排列](/algorithms/60.第k个排列.js)                               |
 | [66](/algorithms/66.加一.js)                       | [加一](/algorithms/66.加一.js)                                           |
 | [75](/algorithms/75.颜色分类.js)                   | [颜色分类](/algorithms/75.颜色分类.js)                                   |
 | [77](/algorithms/77.组合.js)                       | [组合](/algorithms/77.组合.js)                                           |
