@@ -49,36 +49,31 @@
 
 /**
  *
- * @param {number[]} list
- * @param {string} str
- * @param {number} t
+ * @param {number} index
+ * @param {number[]} curr
  * @param {number[]} nums
+ * @param {number} t
+ * @param {number[]} list
  */
-function backtrack(list, str, t, nums) {
+function backtrack(index, curr, nums, t, list) {
   if (t < 0) return;
-  if (t === 0) {
-    list.push(str);
-    return;
-  }
-  if (!nums.length) return;
-  for (let i = 0; i < nums.length; i++) {
-    backtrack(
-      list,
-      `${str ? str + "," : ""}${nums[i]}`,
-      t - nums[i],
-      nums.filter((_, idx) => idx > i)
-    );
+  if (t === 0) return list.push(curr);
+  for (let i = index; i < nums.length; i++) {
+    if (nums[i - 1] === nums[i] && i > index) continue; // 重复元素只递归第一个, 避免产生重复结果
+    curr.push(nums[i]);
+    backtrack(i + 1, curr.slice(), nums, t - nums[i], list);
+    curr.pop();
   }
 }
 /**
- * @description 数组元素可以重复, 每个元素只能使用一次
+ * @description 排序, 递归查找
  * @param {number[]} candidates
  * @param {number} target
  * @return {number[][]}
  */
 var combinationSum2 = function(candidates, target) {
-  const results = [];
   const nums = candidates.sort((a, b) => a - b);
-  backtrack(results, "", target, nums);
-  return Array.from(new Set(results), v => v.split(","));
+  const results = [];
+  backtrack(0, [], nums, target, results);
+  return results;
 };
