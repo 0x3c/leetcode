@@ -45,6 +45,24 @@
  * ]
  *
  */
+
+/**
+ *
+ * @param {number} index
+ * @param {number[]} curr
+ * @param {number[]} nums
+ * @param {number} t
+ * @param {number[]} list
+ */
+function backtrack(index, curr, nums, t, list) {
+  if (t < 0) return;
+  if (t === 0) return list.push(curr);
+  for (let i = index; i < nums.length; i++) {
+    curr.push(nums[i]);
+    backtrack(i, curr.slice(), nums, t - nums[i], list);
+    curr.pop();
+  }
+}
 /**
  * @description 排序, 递归查找
  * @param {number[]} candidates
@@ -52,20 +70,8 @@
  * @return {number[][]}
  */
 var combinationSum = function(candidates, target) {
-  candidates = candidates.sort((a, b) => a - b);
+  const nums = candidates.sort((a, b) => a - b);
   const results = [];
-  const fn = (queue, arr, t) => {
-    if (t < 0) return;
-    if (t === 0) {
-      results.push(queue);
-      return;
-    }
-    if (!arr.length) return;
-    arr.forEach((n, i) => {
-      fn([...queue, n], arr.slice(i), t - n);
-    });
-  };
-
-  fn([], candidates, target);
+  backtrack(0, [], nums, target, results);
   return results;
 };
