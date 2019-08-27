@@ -38,6 +38,7 @@ javascript solutions for Leetcode problems
 | [78](/algorithms/78.子集.js)                       | [子集](/algorithms/78.子集.js)                                           |
 | [80](/algorithms/80.删除排序数组中的重复项-ii.js)  | [删除排序数组中的重复项-ii](/algorithms/80.删除排序数组中的重复项-ii.js) |
 | [88](/algorithms/88.合并两个有序数组.js)           | [合并两个有序数组](/algorithms/88.合并两个有序数组.js)                   |
+| [90](/algorithms/90.子集-ii.js)                    | [子集-ii](/algorithms/90.子集-ii.js)                                     |
 | [122](/algorithms/122.买卖股票的最佳时机-ii.js)    | [买卖股票的最佳时机-ii](/algorithms/122.买卖股票的最佳时机-ii.js)        |
 | [125](/algorithms/125.验证回文串.js)               | [验证回文串](/algorithms/125.验证回文串.js)                              |
 | [147](/algorithms/147.对链表进行插入排序.js)       | [对链表进行插入排序](/algorithms/147.对链表进行插入排序.js)              |
