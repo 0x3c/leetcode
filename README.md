@@ -35,6 +35,7 @@ javascript solutions for Leetcode problems
 | [66](/algorithms/66.加一.js)                       | [加一](/algorithms/66.加一.js)                                           |
 | [75](/algorithms/75.颜色分类.js)                   | [颜色分类](/algorithms/75.颜色分类.js)                                   |
 | [77](/algorithms/77.组合.js)                       | [组合](/algorithms/77.组合.js)                                           |
+| [78](/algorithms/78.子集.js)                       | [子集](/algorithms/78.子集.js)                                           |
 | [80](/algorithms/80.删除排序数组中的重复项-ii.js)  | [删除排序数组中的重复项-ii](/algorithms/80.删除排序数组中的重复项-ii.js) |
 | [88](/algorithms/88.合并两个有序数组.js)           | [合并两个有序数组](/algorithms/88.合并两个有序数组.js)                   |
 | [122](/algorithms/122.买卖股票的最佳时机-ii.js)    | [买卖股票的最佳时机-ii](/algorithms/122.买卖股票的最佳时机-ii.js)        |
