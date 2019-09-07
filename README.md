@@ -33,6 +33,7 @@ javascript solutions for Leetcode problems
 | [56](/algorithms/56.合并区间.js)                      | [合并区间](/algorithms/56.合并区间.js)                                        |
 | [60](/algorithms/60.第k个排列.js)                     | [第 k 个排列](/algorithms/60.第k个排列.js)                                    |
 | [62](/algorithms/62.不同路径.js)                      | [不同路径](/algorithms/62.不同路径.js)                                        |
+| [63](/algorithms/63.不同路径-ii.js)                   | [不同路径-ii](/algorithms/63.不同路径-ii.js)                                  |
 | [66](/algorithms/66.加一.js)                          | [加一](/algorithms/66.加一.js)                                                |
 | [75](/algorithms/75.颜色分类.js)                      | [颜色分类](/algorithms/75.颜色分类.js)                                        |
 | [77](/algorithms/77.组合.js)                          | [组合](/algorithms/77.组合.js)                                                |
