@@ -41,12 +41,18 @@
  * }
  */
 
+/**
+ *
+ * @param {TreeNode} head
+ * @param {number[]} arr
+ */
 function backtrack(head, arr) {
   if (!head.left && !head.right) return arr.push(head.val);
   if (head.left) backtrack(head.left, arr);
   if (head.right) backtrack(head.right, arr);
 }
 /**
+ * 回溯法
  * @param {TreeNode} root1
  * @param {TreeNode} root2
  * @return {boolean}
