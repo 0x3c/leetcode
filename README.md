@@ -65,5 +65,6 @@ javascript solutions for Leetcode problems
 | [872](/algorithms/872.叶子相似的树.js)                | [叶子相似的树](/algorithms/872.叶子相似的树.js)                               |
 | [892](/algorithms/892.三维形体的表面积.js)            | [三维形体的表面积](/algorithms/892.三维形体的表面积.js)                       |
 | [973](/algorithms/973.最接近原点的-k-个点.js)         | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)                 |
+| [1022](/algorithms/1022.从根到叶的二进制数之和.js)    | [从根到叶的二进制数之和](/algorithms/1022.从根到叶的二进制数之和.js)          |
 | [1030](/algorithms/1030.距离顺序排列矩阵单元格.js)    | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js)          |
 | [1122](/algorithms/1122.数组的相对排序.js)            | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                          |
