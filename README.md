@@ -35,6 +35,7 @@ javascript solutions for Leetcode problems
 | [62](/algorithms/62.不同路径.js)                      | [不同路径](/algorithms/62.不同路径.js)                                        |
 | [63](/algorithms/63.不同路径-ii.js)                   | [不同路径-ii](/algorithms/63.不同路径-ii.js)                                  |
 | [66](/algorithms/66.加一.js)                          | [加一](/algorithms/66.加一.js)                                                |
+| [67](/algorithms/67.二进制求和.js)                    | [二进制求和](/algorithms/67.二进制求和.js)                                    |
 | [75](/algorithms/75.颜色分类.js)                      | [颜色分类](/algorithms/75.颜色分类.js)                                        |
 | [77](/algorithms/77.组合.js)                          | [组合](/algorithms/77.组合.js)                                                |
 | [78](/algorithms/78.子集.js)                          | [子集](/algorithms/78.子集.js)                                                |
