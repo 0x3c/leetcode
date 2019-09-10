@@ -62,6 +62,7 @@ javascript solutions for Leetcode problems
 | [349](/algorithms/349.两个数组的交集.js)              | [两个数组的交集](/algorithms/349.两个数组的交集.js)                           |
 | [350](/algorithms/350.两个数组的交集-ii.js)           | [两个数组的交集-ii](/algorithms/350.两个数组的交集-ii.js)                     |
 | [401](/algorithms/401.二进制手表.js)                  | [二进制手表](/algorithms/401.二进制手表.js)                                   |
+| [405](/algorithms/405.数字转换为十六进制数.js)        | [数字转换为十六进制数](/algorithms/405.数字转换为十六进制数.js)               |
 | [622](/algorithms/622.设计循环队列.js)                | [设计循环队列](/algorithms/622.设计循环队列.js)                               |
 | [859](/algorithms/859.亲密字符串.js)                  | [亲密字符串](/algorithms/859.亲密字符串.js)                                   |
 | [872](/algorithms/872.叶子相似的树.js)                | [叶子相似的树](/algorithms/872.叶子相似的树.js)                               |
