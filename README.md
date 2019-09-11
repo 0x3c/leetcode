@@ -67,6 +67,7 @@ javascript solutions for Leetcode problems
 | [622](/algorithms/622.设计循环队列.js)                | [设计循环队列](/algorithms/622.设计循环队列.js)                               |
 | [693](/algorithms/693.交替位二进制数.js)              | [交替位二进制数](/algorithms/693.交替位二进制数.js)                           |
 | [859](/algorithms/859.亲密字符串.js)                  | [亲密字符串](/algorithms/859.亲密字符串.js)                                   |
+| [868](/algorithms/868.二进制间距.js)                  | [二进制间距](/algorithms/868.二进制间距.js)                                   |
 | [872](/algorithms/872.叶子相似的树.js)                | [叶子相似的树](/algorithms/872.叶子相似的树.js)                               |
 | [892](/algorithms/892.三维形体的表面积.js)            | [三维形体的表面积](/algorithms/892.三维形体的表面积.js)                       |
 | [973](/algorithms/973.最接近原点的-k-个点.js)         | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)                 |
