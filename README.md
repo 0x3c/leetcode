@@ -66,6 +66,7 @@ javascript solutions for Leetcode problems
 | [504](/algorithms/504.七进制数.js)                    | [七进制数](/algorithms/504.七进制数.js)                                       |
 | [622](/algorithms/622.设计循环队列.js)                | [设计循环队列](/algorithms/622.设计循环队列.js)                               |
 | [693](/algorithms/693.交替位二进制数.js)              | [交替位二进制数](/algorithms/693.交替位二进制数.js)                           |
+| [762](/algorithms/762.二进制表示中质数个计算置位.js)  | [二进制表示中质数个计算置位](/algorithms/762.二进制表示中质数个计算置位.js)   |
 | [859](/algorithms/859.亲密字符串.js)                  | [亲密字符串](/algorithms/859.亲密字符串.js)                                   |
 | [868](/algorithms/868.二进制间距.js)                  | [二进制间距](/algorithms/868.二进制间距.js)                                   |
 | [872](/algorithms/872.叶子相似的树.js)                | [叶子相似的树](/algorithms/872.叶子相似的树.js)                               |
