@@ -60,6 +60,7 @@
 
 /**
  *
+ * 深度优先，递归
  * @param {object} p
  * @param {object} q
  */
@@ -74,6 +75,27 @@ function dfs(p, q) {
  * @param {TreeNode} q
  * @return {boolean}
  */
-var isSameTree = function(p, q) {
+var isSameTree1 = function(p, q) {
   return dfs(p, q);
+};
+
+/**
+ * 广度优先, 比较并维护队列中的节点
+ * @param {TreeNode} p
+ * @param {TreeNode} q
+ * @return {boolean}
+ */
+var isSameTree = function(p, q) {
+  const quene = [[p, q]];
+  let tmp = null;
+
+  while ((tmp = quene.shift())) {
+    const [h1, h2] = tmp;
+    if (!h1 && !h2) continue;
+    if (!h1 || !h2) return false;
+    if (h1.val !== h2.val) return false;
+    quene.push([h1.left, h2.left]);
+    quene.push([h1.right, h2.right]);
+  }
+  return true;
 };
