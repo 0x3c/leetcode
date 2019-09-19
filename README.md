@@ -52,6 +52,7 @@ javascript solutions for Leetcode problems
 | [122](/algorithms/122.买卖股票的最佳时机-ii.js)                | [买卖股票的最佳时机-ii](/algorithms/122.买卖股票的最佳时机-ii.js)                            |
 | [125](/algorithms/125.验证回文串.js)                           | [验证回文串](/algorithms/125.验证回文串.js)                                                  |
 | [139](/algorithms/139.单词拆分.js)                             | [单词拆分](/algorithms/139.单词拆分.js)                                                      |
+| [141](/algorithms/141.环形链表.js)                             | [环形链表](/algorithms/141.环形链表.js)                                                      |
 | [147](/algorithms/147.对链表进行插入排序.js)                   | [对链表进行插入排序](/algorithms/147.对链表进行插入排序.js)                                  |
 | [167](/algorithms/167.两数之和-ii-输入有序数组.js)             | [两数之和-ii-输入有序数组](/algorithms/167.两数之和-ii-输入有序数组.js)                      |
 | [169](/algorithms/169.求众数.js)                               | [求众数](/algorithms/169.求众数.js)                                                          |
