@@ -42,6 +42,7 @@ javascript solutions for Leetcode problems
 | [80](/algorithms/80.删除排序数组中的重复项-ii.js)              | [删除排序数组中的重复项-ii](/algorithms/80.删除排序数组中的重复项-ii.js)                     |
 | [88](/algorithms/88.合并两个有序数组.js)                       | [合并两个有序数组](/algorithms/88.合并两个有序数组.js)                                       |
 | [90](/algorithms/90.子集-ii.js)                                | [子集-ii](/algorithms/90.子集-ii.js)                                                         |
+| [92](/algorithms/92.反转链表-ii.js)                            | [反转链表-ii](/algorithms/92.反转链表-ii.js)                                                 |
 | [100](/algorithms/100.相同的树.js)                             | [相同的树](/algorithms/100.相同的树.js)                                                      |
 | [101](/algorithms/101.对称二叉树.js)                           | [对称二叉树](/algorithms/101.对称二叉树.js)                                                  |
 | [102](/algorithms/102.二叉树的层次遍历.js)                     | [二叉树的层次遍历](/algorithms/102.二叉树的层次遍历.js)                                      |
