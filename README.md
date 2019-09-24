@@ -61,6 +61,7 @@ javascript solutions for Leetcode problems
 | [169](/algorithms/169.求众数.js)                               | [求众数](/algorithms/169.求众数.js)                                                          |
 | [179](/algorithms/179.最大数.js)                               | [最大数](/algorithms/179.最大数.js)                                                          |
 | [190](/algorithms/190.颠倒二进制位.js)                         | [颠倒二进制位](/algorithms/190.颠倒二进制位.js)                                              |
+| [206](/algorithms/206.反转链表.js)                             | [反转链表](/algorithms/206.反转链表.js)                                                      |
 | [208](/algorithms/208.实现-trie-前缀树.js)                     | [实现-trie-前缀树](/algorithms/208.实现-trie-前缀树.js)                                      |
 | [209](/algorithms/209.长度最小的子数组.js)                     | [长度最小的子数组](/algorithms/209.长度最小的子数组.js)                                      |
 | [211](/algorithms/211.添加与搜索单词-数据结构设计.js)          | [添加与搜索单词-数据结构设计](/algorithms/211.添加与搜索单词-数据结构设计.js)                |
