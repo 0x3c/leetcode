@@ -49,6 +49,7 @@ javascript solutions for Leetcode problems
 | [102](/algorithms/102.二叉树的层次遍历.js)                     | [二叉树的层次遍历](/algorithms/102.二叉树的层次遍历.js)                                      |
 | [103](/algorithms/103.二叉树的锯齿形层次遍历.js)               | [二叉树的锯齿形层次遍历](/algorithms/103.二叉树的锯齿形层次遍历.js)                          |
 | [104](/algorithms/104.二叉树的最大深度.js)                     | [二叉树的最大深度](/algorithms/104.二叉树的最大深度.js)                                      |
+| [114](/algorithms/114.二叉树展开为链表.js)                     | [二叉树展开为链表](/algorithms/114.二叉树展开为链表.js)                                      |
 | [118](/algorithms/118.杨辉三角.js)                             | [杨辉三角](/algorithms/118.杨辉三角.js)                                                      |
 | [119](/algorithms/119.杨辉三角-ii.js)                          | [杨辉三角-ii](/algorithms/119.杨辉三角-ii.js)                                                |
 | [122](/algorithms/122.买卖股票的最佳时机-ii.js)                | [买卖股票的最佳时机-ii](/algorithms/122.买卖股票的最佳时机-ii.js)                            |
