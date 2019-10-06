@@ -87,6 +87,7 @@ javascript solutions for Leetcode problems
 | [872](/algorithms/872.叶子相似的树.js)                         | [叶子相似的树](/algorithms/872.叶子相似的树.js)                                              |
 | [892](/algorithms/892.三维形体的表面积.js)                     | [三维形体的表面积](/algorithms/892.三维形体的表面积.js)                                      |
 | [973](/algorithms/973.最接近原点的-k-个点.js)                  | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)                                |
+| [987](/algorithms/987.二叉树的垂序遍历.js)                     | [二叉树的垂序遍历](/algorithms/987.二叉树的垂序遍历.js)                                      |
 | [1009](/algorithms/1009.十进制整数的反码.js)                   | [十进制整数的反码](/algorithms/1009.十进制整数的反码.js)                                     |
 | [1016](/algorithms/1016.子串能表示从-1-到-n-数字的二进制串.js) | [子串能表示从-1-到-n-数字的二进制串](/algorithms/1016.子串能表示从-1-到-n-数字的二进制串.js) |
 | [1017](/algorithms/1017.负二进制转换.js)                       | [负二进制转换](/algorithms/1017.负二进制转换.js)                                             |
