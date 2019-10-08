@@ -80,6 +80,7 @@ javascript solutions for Leetcode problems
 | [405](/algorithms/405.数字转换为十六进制数.js)                 | [数字转换为十六进制数](/algorithms/405.数字转换为十六进制数.js)                              |
 | [504](/algorithms/504.七进制数.js)                             | [七进制数](/algorithms/504.七进制数.js)                                                      |
 | [622](/algorithms/622.设计循环队列.js)                         | [设计循环队列](/algorithms/622.设计循环队列.js)                                              |
+| [654](/algorithms/654.最大二叉树.js)                           | [最大二叉树](/algorithms/654.最大二叉树.js)                                                  |
 | [693](/algorithms/693.交替位二进制数.js)                       | [交替位二进制数](/algorithms/693.交替位二进制数.js)                                          |
 | [762](/algorithms/762.二进制表示中质数个计算置位.js)           | [二进制表示中质数个计算置位](/algorithms/762.二进制表示中质数个计算置位.js)                  |
 | [859](/algorithms/859.亲密字符串.js)                           | [亲密字符串](/algorithms/859.亲密字符串.js)                                                  |
