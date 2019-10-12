@@ -83,6 +83,7 @@ javascript solutions for Leetcode problems
 | [401](/algorithms/401.二进制手表.js)                           | [二进制手表](/algorithms/401.二进制手表.js)                                                  |
 | [405](/algorithms/405.数字转换为十六进制数.js)                 | [数字转换为十六进制数](/algorithms/405.数字转换为十六进制数.js)                              |
 | [504](/algorithms/504.七进制数.js)                             | [七进制数](/algorithms/504.七进制数.js)                                                      |
+| [509](/algorithms/509.斐波那契数.js)                           | [斐波那契数](/algorithms/509.斐波那契数.js)                                                  |
 | [622](/algorithms/622.设计循环队列.js)                         | [设计循环队列](/algorithms/622.设计循环队列.js)                                              |
 | [654](/algorithms/654.最大二叉树.js)                           | [最大二叉树](/algorithms/654.最大二叉树.js)                                                  |
 | [693](/algorithms/693.交替位二进制数.js)                       | [交替位二进制数](/algorithms/693.交替位二进制数.js)                                          |
