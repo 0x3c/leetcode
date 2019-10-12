@@ -85,6 +85,7 @@ javascript solutions for Leetcode problems
 | [504](/algorithms/504.七进制数.js)                             | [七进制数](/algorithms/504.七进制数.js)                                                      |
 | [509](/algorithms/509.斐波那契数.js)                           | [斐波那契数](/algorithms/509.斐波那契数.js)                                                  |
 | [622](/algorithms/622.设计循环队列.js)                         | [设计循环队列](/algorithms/622.设计循环队列.js)                                              |
+| [633](/algorithms/633.平方数之和.js)                           | [平方数之和](/algorithms/633.平方数之和.js)                                                  |
 | [654](/algorithms/654.最大二叉树.js)                           | [最大二叉树](/algorithms/654.最大二叉树.js)                                                  |
 | [693](/algorithms/693.交替位二进制数.js)                       | [交替位二进制数](/algorithms/693.交替位二进制数.js)                                          |
 | [709](/algorithms/709.转换成小写字母.js)                       | [转换成小写字母](/algorithms/709.转换成小写字母.js)                                          |
