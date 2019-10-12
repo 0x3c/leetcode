@@ -60,6 +60,7 @@ javascript solutions for Leetcode problems
 | [139](/algorithms/139.单词拆分.js)                             | [单词拆分](/algorithms/139.单词拆分.js)                                                      |
 | [141](/algorithms/141.环形链表.js)                             | [环形链表](/algorithms/141.环形链表.js)                                                      |
 | [143](/algorithms/143.重排链表.js)                             | [重排链表](/algorithms/143.重排链表.js)                                                      |
+| [144](/algorithms/144.二叉树的前序遍历.js)                     | [二叉树的前序遍历](/algorithms/144.二叉树的前序遍历.js)                                      |
 | [147](/algorithms/147.对链表进行插入排序.js)                   | [对链表进行插入排序](/algorithms/147.对链表进行插入排序.js)                                  |
 | [148](/algorithms/148.排序链表.js)                             | [排序链表](/algorithms/148.排序链表.js)                                                      |
 | [167](/algorithms/167.两数之和-ii-输入有序数组.js)             | [两数之和-ii-输入有序数组](/algorithms/167.两数之和-ii-输入有序数组.js)                      |
