@@ -106,5 +106,6 @@ javascript solutions for Leetcode problems
 | [1018](/algorithms/1018.可被-5-整除的二进制前缀.js)            | [可被-5-整除的二进制前缀](/algorithms/1018.可被-5-整除的二进制前缀.js)                       |
 | [1022](/algorithms/1022.从根到叶的二进制数之和.js)             | [从根到叶的二进制数之和](/algorithms/1022.从根到叶的二进制数之和.js)                         |
 | [1030](/algorithms/1030.距离顺序排列矩阵单元格.js)             | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js)                         |
+| [1033](/algorithms/1033.移动石子直到连续.js)                   | [移动石子直到连续](/algorithms/1033.移动石子直到连续.js)                                     |
 | [1071](/algorithms/1071.字符串的最大公因子.js)                 | [字符串的最大公因子](/algorithms/1071.字符串的最大公因子.js)                                 |
 | [1122](/algorithms/1122.数组的相对排序.js)                     | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                                         |
