@@ -89,6 +89,7 @@ javascript solutions for Leetcode problems
 | [622](/algorithms/622.设计循环队列.js)                         | [设计循环队列](/algorithms/622.设计循环队列.js)                                              |
 | [633](/algorithms/633.平方数之和.js)                           | [平方数之和](/algorithms/633.平方数之和.js)                                                  |
 | [654](/algorithms/654.最大二叉树.js)                           | [最大二叉树](/algorithms/654.最大二叉树.js)                                                  |
+| [692](/algorithms/692.前k个高频单词.js)                        | [前 k 个高频单词](/algorithms/692.前k个高频单词.js)                                          |
 | [693](/algorithms/693.交替位二进制数.js)                       | [交替位二进制数](/algorithms/693.交替位二进制数.js)                                          |
 | [704](/algorithms/704.二分查找.js)                             | [二分查找](/algorithms/704.二分查找.js)                                                      |
 | [709](/algorithms/709.转换成小写字母.js)                       | [转换成小写字母](/algorithms/709.转换成小写字母.js)                                          |
