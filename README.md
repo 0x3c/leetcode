@@ -77,6 +77,7 @@ javascript solutions for Leetcode problems
 | [242](/algorithms/242.有效的字母异位词.js)                     | [有效的字母异位词](/algorithms/242.有效的字母异位词.js)                                      |
 | [274](/algorithms/274.h指数.js)                                | [h 指数](/algorithms/274.h指数.js)                                                           |
 | [283](/algorithms/283.移动零.js)                               | [移动零](/algorithms/283.移动零.js)                                                          |
+| [312](/algorithms/312.戳气球.js)                               | [戳气球](/algorithms/312.戳气球.js)                                                          |
 | [345](/algorithms/345.反转字符串中的元音字母.js)               | [反转字符串中的元音字母](/algorithms/345.反转字符串中的元音字母.js)                          |
 | [349](/algorithms/349.两个数组的交集.js)                       | [两个数组的交集](/algorithms/349.两个数组的交集.js)                                          |
 | [350](/algorithms/350.两个数组的交集-ii.js)                    | [两个数组的交集-ii](/algorithms/350.两个数组的交集-ii.js)                                    |
