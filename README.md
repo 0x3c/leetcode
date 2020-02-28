@@ -84,6 +84,7 @@ javascript solutions for Leetcode problems
 | [401](/algorithms/401.二进制手表.js)                           | [二进制手表](/algorithms/401.二进制手表.js)                                                  |
 | [405](/algorithms/405.数字转换为十六进制数.js)                 | [数字转换为十六进制数](/algorithms/405.数字转换为十六进制数.js)                              |
 | [441](/algorithms/441.排列硬币.js)                             | [排列硬币](/algorithms/441.排列硬币.js)                                                      |
+| [479](/algorithms/479.最大回文数乘积.js)                       | [最大回文数乘积](/algorithms/479.最大回文数乘积.js)                                          |
 | [504](/algorithms/504.七进制数.js)                             | [七进制数](/algorithms/504.七进制数.js)                                                      |
 | [509](/algorithms/509.斐波那契数.js)                           | [斐波那契数](/algorithms/509.斐波那契数.js)                                                  |
 | [575](/algorithms/575.分糖果.js)                               | [分糖果](/algorithms/575.分糖果.js)                                                          |
@@ -110,4 +111,5 @@ javascript solutions for Leetcode problems
 | [1030](/algorithms/1030.距离顺序排列矩阵单元格.js)             | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js)                         |
 | [1033](/algorithms/1033.移动石子直到连续.js)                   | [移动石子直到连续](/algorithms/1033.移动石子直到连续.js)                                     |
 | [1071](/algorithms/1071.字符串的最大公因子.js)                 | [字符串的最大公因子](/algorithms/1071.字符串的最大公因子.js)                                 |
+| [1094](/algorithms/1094.拼车.js)                               | [拼车](/algorithms/1094.拼车.js)                                                             |
 | [1122](/algorithms/1122.数组的相对排序.js)                     | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                                         |
