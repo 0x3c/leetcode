@@ -84,7 +84,6 @@ javascript solutions for Leetcode problems
 | [401](/algorithms/401.二进制手表.js)                           | [二进制手表](/algorithms/401.二进制手表.js)                                                  |
 | [405](/algorithms/405.数字转换为十六进制数.js)                 | [数字转换为十六进制数](/algorithms/405.数字转换为十六进制数.js)                              |
 | [441](/algorithms/441.排列硬币.js)                             | [排列硬币](/algorithms/441.排列硬币.js)                                                      |
-| [479](/algorithms/479.最大回文数乘积.js)                       | [最大回文数乘积](/algorithms/479.最大回文数乘积.js)                                          |
 | [504](/algorithms/504.七进制数.js)                             | [七进制数](/algorithms/504.七进制数.js)                                                      |
 | [509](/algorithms/509.斐波那契数.js)                           | [斐波那契数](/algorithms/509.斐波那契数.js)                                                  |
 | [575](/algorithms/575.分糖果.js)                               | [分糖果](/algorithms/575.分糖果.js)                                                          |
@@ -101,6 +100,7 @@ javascript solutions for Leetcode problems
 | [872](/algorithms/872.叶子相似的树.js)                         | [叶子相似的树](/algorithms/872.叶子相似的树.js)                                              |
 | [892](/algorithms/892.三维形体的表面积.js)                     | [三维形体的表面积](/algorithms/892.三维形体的表面积.js)                                      |
 | [897](/algorithms/897.递增顺序查找树.js)                       | [递增顺序查找树](/algorithms/897.递增顺序查找树.js)                                          |
+| [950](/algorithms/950.按递增顺序显示卡牌.js)                   | [按递增顺序显示卡牌](/algorithms/950.按递增顺序显示卡牌.js)                                  |
 | [973](/algorithms/973.最接近原点的-k-个点.js)                  | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)                                |
 | [987](/algorithms/987.二叉树的垂序遍历.js)                     | [二叉树的垂序遍历](/algorithms/987.二叉树的垂序遍历.js)                                      |
 | [1009](/algorithms/1009.十进制整数的反码.js)                   | [十进制整数的反码](/algorithms/1009.十进制整数的反码.js)                                     |
