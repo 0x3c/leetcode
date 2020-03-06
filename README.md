@@ -92,6 +92,7 @@ javascript solutions for Leetcode problems
 | [654](/algorithms/654.最大二叉树.js)                           | [最大二叉树](/algorithms/654.最大二叉树.js)                                                  |
 | [692](/algorithms/692.前k个高频单词.js)                        | [前 k 个高频单词](/algorithms/692.前k个高频单词.js)                                          |
 | [693](/algorithms/693.交替位二进制数.js)                       | [交替位二进制数](/algorithms/693.交替位二进制数.js)                                          |
+| [701](/algorithms/701.二叉搜索树中的插入操作.js)               | [二叉搜索树中的插入操作](/algorithms/701.二叉搜索树中的插入操作.js)                          |
 | [704](/algorithms/704.二分查找.js)                             | [二分查找](/algorithms/704.二分查找.js)                                                      |
 | [709](/algorithms/709.转换成小写字母.js)                       | [转换成小写字母](/algorithms/709.转换成小写字母.js)                                          |
 | [762](/algorithms/762.二进制表示中质数个计算置位.js)           | [二进制表示中质数个计算置位](/algorithms/762.二进制表示中质数个计算置位.js)                  |
