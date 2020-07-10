@@ -27,21 +27,40 @@
  * 
  */
 
-// @lc code=start
-class Solution {
+// 暴力
+class Solution1 {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int> &nums, int target) {
         vector<int> ans;
         for (int i = 0; i < nums.size() - 1; i++) {
             for (int j = i + 1; j < nums.size(); j++) {
                 if (nums[i] + nums[j] == target) {
                     ans.push_back(i);
                     ans.push_back(j);
-                   return ans;
+                    return ans;
                 }
             }
         }
-        return ans; 
+        return ans;
+    }
+}
+
+// @lc code=start
+// 哈希
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> ans;
+        unordered_map<int, int> map;
+        for (int i = 0; i < nums.size(); i++) {
+            if (map[target - nums[i]] && map[target - nums[i]] != i + 1) {
+                ans.push_back(map[target - nums[i]] - 1);
+                ans.push_back(i);
+                return ans;
+            }
+            map[nums[i]] = i + 1;
+         }
+         return ans;
     }
 };
 // @lc code=end
