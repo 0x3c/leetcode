@@ -1,10 +1,12 @@
 {
   "devDependencies": {
     "husky": "^3.0.2",
+    "node-fetch": "^2.6.0",
     "prettier": "^1.18.2"
   },
   "scripts": {
-    "parse": "node scripts/parser.js"
+    "parse": "yarn run cache && node scripts/parser.js",
+    "cache": "node scripts/list.js"
   },
   "husky": {
     "hooks": {

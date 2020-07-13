@@ -4,115 +4,114 @@ javascript solutions for Leetcode problems
 
 ### Algorithms
 
-| #                                                              | Title                                                                                        |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [1](/algorithms/1.两数之和.cpp)                                | [两数之和](/algorithms/1.两数之和.cpp)                                                       |
-| [1](/algorithms/1.两数之和.js)                                 | [两数之和](/algorithms/1.两数之和.js)                                                        |
-| [2](/algorithms/2.两数相加.js)                                 | [两数相加](/algorithms/2.两数相加.js)                                                        |
-| [3](/algorithms/3.无重复字符的最长子串.js)                     | [无重复字符的最长子串](/algorithms/3.无重复字符的最长子串.js)                                |
-| [4](/algorithms/4.寻找两个有序数组的中位数.js)                 | [寻找两个有序数组的中位数](/algorithms/4.寻找两个有序数组的中位数.js)                        |
-| [5](/algorithms/5.最长回文子串.js)                             | [最长回文子串](/algorithms/5.最长回文子串.js)                                                |
-| [6](/algorithms/6.z-字形变换.js)                               | [z-字形变换](/algorithms/6.z-字形变换.js)                                                    |
-| [7](/algorithms/7.整数反转.js)                                 | [整数反转](/algorithms/7.整数反转.js)                                                        |
-| [8](/algorithms/8.字符串转换整数-atoi.js)                      | [字符串转换整数-atoi](/algorithms/8.字符串转换整数-atoi.js)                                  |
-| [9](/algorithms/9.回文数.js)                                   | [回文数](/algorithms/9.回文数.js)                                                            |
-| [11](/algorithms/11.盛最多水的容器.js)                         | [盛最多水的容器](/algorithms/11.盛最多水的容器.js)                                           |
-| [14](/algorithms/14.最长公共前缀.js)                           | [最长公共前缀](/algorithms/14.最长公共前缀.js)                                               |
-| [15](/algorithms/15.三数之和.js)                               | [三数之和](/algorithms/15.三数之和.js)                                                       |
-| [16](/algorithms/16.最接近的三数之和.js)                       | [最接近的三数之和](/algorithms/16.最接近的三数之和.js)                                       |
-| [17](/algorithms/17.电话号码的字母组合.js)                     | [电话号码的字母组合](/algorithms/17.电话号码的字母组合.js)                                   |
-| [20](/algorithms/20.有效的括号.js)                             | [有效的括号](/algorithms/20.有效的括号.js)                                                   |
-| [21](/algorithms/21.合并两个有序链表.js)                       | [合并两个有序链表](/algorithms/21.合并两个有序链表.js)                                       |
-| [22](/algorithms/22.括号生成.js)                               | [括号生成](/algorithms/22.括号生成.js)                                                       |
-| [26](/algorithms/26.删除排序数组中的重复项.js)                 | [删除排序数组中的重复项](/algorithms/26.删除排序数组中的重复项.js)                           |
-| [27](/algorithms/27.移除元素.js)                               | [移除元素](/algorithms/27.移除元素.js)                                                       |
-| [28](/algorithms/28.实现-str-str.js)                           | [实现-str-str](/algorithms/28.实现-str-str.js)                                               |
-| [32](/algorithms/32.最长有效括号.js)                           | [最长有效括号](/algorithms/32.最长有效括号.js)                                               |
-| [35](/algorithms/35.搜索插入位置.js)                           | [搜索插入位置](/algorithms/35.搜索插入位置.js)                                               |
-| [39](/algorithms/39.组合总和.js)                               | [组合总和](/algorithms/39.组合总和.js)                                                       |
-| [40](/algorithms/40.组合总和-ii.js)                            | [组合总和-ii](/algorithms/40.组合总和-ii.js)                                                 |
-| [46](/algorithms/46.全排列.js)                                 | [全排列](/algorithms/46.全排列.js)                                                           |
-| [47](/algorithms/47.全排列-ii.js)                              | [全排列-ii](/algorithms/47.全排列-ii.js)                                                     |
-| [53](/algorithms/53.最大子序和.js)                             | [最大子序和](/algorithms/53.最大子序和.js)                                                   |
-| [56](/algorithms/56.合并区间.js)                               | [合并区间](/algorithms/56.合并区间.js)                                                       |
-| [60](/algorithms/60.第k个排列.js)                              | [第 k 个排列](/algorithms/60.第k个排列.js)                                                   |
-| [62](/algorithms/62.不同路径.js)                               | [不同路径](/algorithms/62.不同路径.js)                                                       |
-| [63](/algorithms/63.不同路径-ii.js)                            | [不同路径-ii](/algorithms/63.不同路径-ii.js)                                                 |
-| [66](/algorithms/66.加一.js)                                   | [加一](/algorithms/66.加一.js)                                                               |
-| [67](/algorithms/67.二进制求和.js)                             | [二进制求和](/algorithms/67.二进制求和.js)                                                   |
-| [75](/algorithms/75.颜色分类.js)                               | [颜色分类](/algorithms/75.颜色分类.js)                                                       |
-| [77](/algorithms/77.组合.js)                                   | [组合](/algorithms/77.组合.js)                                                               |
-| [78](/algorithms/78.子集.js)                                   | [子集](/algorithms/78.子集.js)                                                               |
-| [80](/algorithms/80.删除排序数组中的重复项-ii.js)              | [删除排序数组中的重复项-ii](/algorithms/80.删除排序数组中的重复项-ii.js)                     |
-| [88](/algorithms/88.合并两个有序数组.js)                       | [合并两个有序数组](/algorithms/88.合并两个有序数组.js)                                       |
-| [90](/algorithms/90.子集-ii.js)                                | [子集-ii](/algorithms/90.子集-ii.js)                                                         |
-| [92](/algorithms/92.反转链表-ii.js)                            | [反转链表-ii](/algorithms/92.反转链表-ii.js)                                                 |
-| [94](/algorithms/94.二叉树的中序遍历.js)                       | [二叉树的中序遍历](/algorithms/94.二叉树的中序遍历.js)                                       |
-| [98](/algorithms/98.验证二叉搜索树.js)                         | [验证二叉搜索树](/algorithms/98.验证二叉搜索树.js)                                           |
-| [100](/algorithms/100.相同的树.js)                             | [相同的树](/algorithms/100.相同的树.js)                                                      |
-| [101](/algorithms/101.对称二叉树.js)                           | [对称二叉树](/algorithms/101.对称二叉树.js)                                                  |
-| [102](/algorithms/102.二叉树的层次遍历.js)                     | [二叉树的层次遍历](/algorithms/102.二叉树的层次遍历.js)                                      |
-| [103](/algorithms/103.二叉树的锯齿形层次遍历.js)               | [二叉树的锯齿形层次遍历](/algorithms/103.二叉树的锯齿形层次遍历.js)                          |
-| [104](/algorithms/104.二叉树的最大深度.js)                     | [二叉树的最大深度](/algorithms/104.二叉树的最大深度.js)                                      |
-| [114](/algorithms/114.二叉树展开为链表.js)                     | [二叉树展开为链表](/algorithms/114.二叉树展开为链表.js)                                      |
-| [118](/algorithms/118.杨辉三角.js)                             | [杨辉三角](/algorithms/118.杨辉三角.js)                                                      |
-| [119](/algorithms/119.杨辉三角-ii.js)                          | [杨辉三角-ii](/algorithms/119.杨辉三角-ii.js)                                                |
-| [122](/algorithms/122.买卖股票的最佳时机-ii.js)                | [买卖股票的最佳时机-ii](/algorithms/122.买卖股票的最佳时机-ii.js)                            |
-| [125](/algorithms/125.验证回文串.js)                           | [验证回文串](/algorithms/125.验证回文串.js)                                                  |
-| [139](/algorithms/139.单词拆分.js)                             | [单词拆分](/algorithms/139.单词拆分.js)                                                      |
-| [141](/algorithms/141.环形链表.js)                             | [环形链表](/algorithms/141.环形链表.js)                                                      |
-| [143](/algorithms/143.重排链表.js)                             | [重排链表](/algorithms/143.重排链表.js)                                                      |
-| [144](/algorithms/144.二叉树的前序遍历.js)                     | [二叉树的前序遍历](/algorithms/144.二叉树的前序遍历.js)                                      |
-| [145](/algorithms/145.二叉树的后序遍历.js)                     | [二叉树的后序遍历](/algorithms/145.二叉树的后序遍历.js)                                      |
-| [147](/algorithms/147.对链表进行插入排序.js)                   | [对链表进行插入排序](/algorithms/147.对链表进行插入排序.js)                                  |
-| [148](/algorithms/148.排序链表.js)                             | [排序链表](/algorithms/148.排序链表.js)                                                      |
-| [167](/algorithms/167.两数之和-ii-输入有序数组.js)             | [两数之和-ii-输入有序数组](/algorithms/167.两数之和-ii-输入有序数组.js)                      |
-| [169](/algorithms/169.求众数.js)                               | [求众数](/algorithms/169.求众数.js)                                                          |
-| [179](/algorithms/179.最大数.js)                               | [最大数](/algorithms/179.最大数.js)                                                          |
-| [190](/algorithms/190.颠倒二进制位.js)                         | [颠倒二进制位](/algorithms/190.颠倒二进制位.js)                                              |
-| [206](/algorithms/206.反转链表.js)                             | [反转链表](/algorithms/206.反转链表.js)                                                      |
-| [208](/algorithms/208.实现-trie-前缀树.js)                     | [实现-trie-前缀树](/algorithms/208.实现-trie-前缀树.js)                                      |
-| [209](/algorithms/209.长度最小的子数组.js)                     | [长度最小的子数组](/algorithms/209.长度最小的子数组.js)                                      |
-| [211](/algorithms/211.添加与搜索单词-数据结构设计.js)          | [添加与搜索单词-数据结构设计](/algorithms/211.添加与搜索单词-数据结构设计.js)                |
-| [215](/algorithms/215.数组中的第k个最大元素.js)                | [数组中的第 k 个最大元素](/algorithms/215.数组中的第k个最大元素.js)                          |
-| [242](/algorithms/242.有效的字母异位词.js)                     | [有效的字母异位词](/algorithms/242.有效的字母异位词.js)                                      |
-| [274](/algorithms/274.h指数.js)                                | [h 指数](/algorithms/274.h指数.js)                                                           |
-| [283](/algorithms/283.移动零.js)                               | [移动零](/algorithms/283.移动零.js)                                                          |
-| [312](/algorithms/312.戳气球.js)                               | [戳气球](/algorithms/312.戳气球.js)                                                          |
-| [345](/algorithms/345.反转字符串中的元音字母.js)               | [反转字符串中的元音字母](/algorithms/345.反转字符串中的元音字母.js)                          |
-| [349](/algorithms/349.两个数组的交集.js)                       | [两个数组的交集](/algorithms/349.两个数组的交集.js)                                          |
-| [350](/algorithms/350.两个数组的交集-ii.js)                    | [两个数组的交集-ii](/algorithms/350.两个数组的交集-ii.js)                                    |
-| [401](/algorithms/401.二进制手表.js)                           | [二进制手表](/algorithms/401.二进制手表.js)                                                  |
-| [405](/algorithms/405.数字转换为十六进制数.js)                 | [数字转换为十六进制数](/algorithms/405.数字转换为十六进制数.js)                              |
-| [441](/algorithms/441.排列硬币.js)                             | [排列硬币](/algorithms/441.排列硬币.js)                                                      |
-| [504](/algorithms/504.七进制数.js)                             | [七进制数](/algorithms/504.七进制数.js)                                                      |
-| [509](/algorithms/509.斐波那契数.js)                           | [斐波那契数](/algorithms/509.斐波那契数.js)                                                  |
-| [575](/algorithms/575.分糖果.js)                               | [分糖果](/algorithms/575.分糖果.js)                                                          |
-| [622](/algorithms/622.设计循环队列.js)                         | [设计循环队列](/algorithms/622.设计循环队列.js)                                              |
-| [633](/algorithms/633.平方数之和.js)                           | [平方数之和](/algorithms/633.平方数之和.js)                                                  |
-| [654](/algorithms/654.最大二叉树.js)                           | [最大二叉树](/algorithms/654.最大二叉树.js)                                                  |
-| [692](/algorithms/692.前k个高频单词.js)                        | [前 k 个高频单词](/algorithms/692.前k个高频单词.js)                                          |
-| [693](/algorithms/693.交替位二进制数.js)                       | [交替位二进制数](/algorithms/693.交替位二进制数.js)                                          |
-| [701](/algorithms/701.二叉搜索树中的插入操作.js)               | [二叉搜索树中的插入操作](/algorithms/701.二叉搜索树中的插入操作.js)                          |
-| [704](/algorithms/704.二分查找.js)                             | [二分查找](/algorithms/704.二分查找.js)                                                      |
-| [709](/algorithms/709.转换成小写字母.js)                       | [转换成小写字母](/algorithms/709.转换成小写字母.js)                                          |
-| [762](/algorithms/762.二进制表示中质数个计算置位.js)           | [二进制表示中质数个计算置位](/algorithms/762.二进制表示中质数个计算置位.js)                  |
-| [859](/algorithms/859.亲密字符串.js)                           | [亲密字符串](/algorithms/859.亲密字符串.js)                                                  |
-| [868](/algorithms/868.二进制间距.js)                           | [二进制间距](/algorithms/868.二进制间距.js)                                                  |
-| [872](/algorithms/872.叶子相似的树.js)                         | [叶子相似的树](/algorithms/872.叶子相似的树.js)                                              |
-| [892](/algorithms/892.三维形体的表面积.js)                     | [三维形体的表面积](/algorithms/892.三维形体的表面积.js)                                      |
-| [897](/algorithms/897.递增顺序查找树.js)                       | [递增顺序查找树](/algorithms/897.递增顺序查找树.js)                                          |
-| [901](/algorithms/901.股票价格跨度.js)                         | [股票价格跨度](/algorithms/901.股票价格跨度.js)                                              |
-| [950](/algorithms/950.按递增顺序显示卡牌.js)                   | [按递增顺序显示卡牌](/algorithms/950.按递增顺序显示卡牌.js)                                  |
-| [973](/algorithms/973.最接近原点的-k-个点.js)                  | [最接近原点的-k-个点](/algorithms/973.最接近原点的-k-个点.js)                                |
-| [987](/algorithms/987.二叉树的垂序遍历.js)                     | [二叉树的垂序遍历](/algorithms/987.二叉树的垂序遍历.js)                                      |
-| [1009](/algorithms/1009.十进制整数的反码.js)                   | [十进制整数的反码](/algorithms/1009.十进制整数的反码.js)                                     |
-| [1016](/algorithms/1016.子串能表示从-1-到-n-数字的二进制串.js) | [子串能表示从-1-到-n-数字的二进制串](/algorithms/1016.子串能表示从-1-到-n-数字的二进制串.js) |
-| [1017](/algorithms/1017.负二进制转换.js)                       | [负二进制转换](/algorithms/1017.负二进制转换.js)                                             |
-| [1018](/algorithms/1018.可被-5-整除的二进制前缀.js)            | [可被-5-整除的二进制前缀](/algorithms/1018.可被-5-整除的二进制前缀.js)                       |
-| [1022](/algorithms/1022.从根到叶的二进制数之和.js)             | [从根到叶的二进制数之和](/algorithms/1022.从根到叶的二进制数之和.js)                         |
-| [1030](/algorithms/1030.距离顺序排列矩阵单元格.js)             | [距离顺序排列矩阵单元格](/algorithms/1030.距离顺序排列矩阵单元格.js)                         |
-| [1033](/algorithms/1033.移动石子直到连续.js)                   | [移动石子直到连续](/algorithms/1033.移动石子直到连续.js)                                     |
-| [1071](/algorithms/1071.字符串的最大公因子.js)                 | [字符串的最大公因子](/algorithms/1071.字符串的最大公因子.js)                                 |
-| [1094](/algorithms/1094.拼车.js)                               | [拼车](/algorithms/1094.拼车.js)                                                             |
-| [1122](/algorithms/1122.数组的相对排序.js)                     | [数组的相对排序](/algorithms/1122.数组的相对排序.js)                                         |
+| #    | Title                                                                                                                                   | Solution                                                                            | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- |
+| 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum)                                                                                     | [C++](./algorithms/cpp/1.两数之和.cpp), [javascript](./algorithms/js/1.两数之和.js) | Easy       |
+| 2    | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers)                                                                     | [javascript](./algorithms/js/2.两数相加.js)                                         | Medium     |
+| 3    | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)       | [javascript](./algorithms/js/3.无重复字符的最长子串.js)                             | Medium     |
+| 4    | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)                                             | [javascript](./algorithms/js/4.寻找两个有序数组的中位数.js)                         | Hard       |
+| 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)                                         | [javascript](./algorithms/js/5.最长回文子串.js)                                     | Medium     |
+| 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)                                                                 | [javascript](./algorithms/js/6.z-字形变换.js)                                       | Medium     |
+| 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)                                                                     | [javascript](./algorithms/js/7.整数反转.js)                                         | Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                     | [javascript](./algorithms/js/8.字符串转换整数-atoi.js)                              | Medium     |
+| 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)                                                                 | [javascript](./algorithms/js/9.回文数.js)                                           | Easy       |
+| 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water)                                                 | [javascript](./algorithms/js/11.盛最多水的容器.js)                                  | Medium     |
+| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix)                                                         | [javascript](./algorithms/js/14.最长公共前缀.js)                                    | Easy       |
+| 15   | [3Sum](https://leetcode-cn.com/problems/3sum)                                                                                           | [javascript](./algorithms/js/15.三数之和.js)                                        | Medium     |
+| 16   | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest)                                                                           | [javascript](./algorithms/js/16.最接近的三数之和.js)                                | Medium     |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)                         | [javascript](./algorithms/js/17.电话号码的字母组合.js)                              | Medium     |
+| 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)                                                                 | [javascript](./algorithms/js/20.有效的括号.js)                                      | Easy       |
+| 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)                                                       | [javascript](./algorithms/js/21.合并两个有序链表.js)                                | Easy       |
+| 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses)                                                           | [javascript](./algorithms/js/22.括号生成.js)                                        | Medium     |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)                             | [javascript](./algorithms/js/26.删除排序数组中的重复项.js)                          | Easy       |
+| 27   | [Remove Element](https://leetcode-cn.com/problems/remove-element)                                                                       | [javascript](./algorithms/js/27.移除元素.js)                                        | Easy       |
+| 28   | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr)                                                                 | [javascript](./algorithms/js/28.实现-str-str.js)                                    | Easy       |
+| 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)                                                 | [javascript](./algorithms/js/32.最长有效括号.js)                                    | Hard       |
+| 35   | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position)                                                       | [javascript](./algorithms/js/35.搜索插入位置.js)                                    | Easy       |
+| 39   | [Combination Sum](https://leetcode-cn.com/problems/combination-sum)                                                                     | [javascript](./algorithms/js/39.组合总和.js)                                        | Medium     |
+| 40   | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii)                                                               | [javascript](./algorithms/js/40.组合总和-ii.js)                                     | Medium     |
+| 46   | [Permutations](https://leetcode-cn.com/problems/permutations)                                                                           | [javascript](./algorithms/js/46.全排列.js)                                          | Medium     |
+| 47   | [Permutations II](https://leetcode-cn.com/problems/permutations-ii)                                                                     | [javascript](./algorithms/js/47.全排列-ii.js)                                       | Medium     |
+| 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                   | [javascript](./algorithms/js/53.最大子序和.js)                                      | Easy       |
+| 56   | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals)                                                                     | [javascript](./algorithms/js/56.合并区间.js)                                        | Medium     |
+| 60   | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence)                                                           | [javascript](./algorithms/js/60.第k个排列.js)                                       | Medium     |
+| 62   | [Unique Paths](https://leetcode-cn.com/problems/unique-paths)                                                                           | [javascript](./algorithms/js/62.不同路径.js)                                        | Medium     |
+| 63   | [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii)                                                                     | [javascript](./algorithms/js/63.不同路径-ii.js)                                     | Medium     |
+| 66   | [Plus One](https://leetcode-cn.com/problems/plus-one)                                                                                   | [javascript](./algorithms/js/66.加一.js)                                            | Easy       |
+| 67   | [Add Binary](https://leetcode-cn.com/problems/add-binary)                                                                               | [javascript](./algorithms/js/67.二进制求和.js)                                      | Easy       |
+| 75   | [Sort Colors](https://leetcode-cn.com/problems/sort-colors)                                                                             | [javascript](./algorithms/js/75.颜色分类.js)                                        | Medium     |
+| 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                           | [javascript](./algorithms/js/77.组合.js)                                            | Medium     |
+| 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                     | [javascript](./algorithms/js/78.子集.js)                                            | Medium     |
+| 80   | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)                       | [javascript](./algorithms/js/80.删除排序数组中的重复项-ii.js)                       | Medium     |
+| 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array)                                                               | [javascript](./algorithms/js/88.合并两个有序数组.js)                                | Easy       |
+| 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii)                                                                               | [javascript](./algorithms/js/90.子集-ii.js)                                         | Medium     |
+| 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii)                                                       | [javascript](./algorithms/js/92.反转链表-ii.js)                                     | Medium     |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                         | [javascript](./algorithms/js/94.二叉树的中序遍历.js)                                | Medium     |
+| 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree)                                             | [javascript](./algorithms/js/98.验证二叉搜索树.js)                                  | Medium     |
+| 100  | [Same Tree](https://leetcode-cn.com/problems/same-tree)                                                                                 | [javascript](./algorithms/js/100.相同的树.js)                                       | Easy       |
+| 101  | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree)                                                                       | [javascript](./algorithms/js/101.对称二叉树.js)                                     | Easy       |
+| 102  | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)                                 | [javascript](./algorithms/js/102.二叉树的层次遍历.js)                               | Medium     |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)                   | [javascript](./algorithms/js/103.二叉树的锯齿形层次遍历.js)                         | Medium     |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)                                           | [javascript](./algorithms/js/104.二叉树的最大深度.js)                               | Easy       |
+| 114  | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)                               | [javascript](./algorithms/js/114.二叉树展开为链表.js)                               | Medium     |
+| 118  | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle)                                                                  | [javascript](./algorithms/js/118.杨辉三角.js)                                       | Easy       |
+| 119  | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii)                                                            | [javascript](./algorithms/js/119.杨辉三角-ii.js)                                    | Easy       |
+| 122  | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)                               | [javascript](./algorithms/js/122.买卖股票的最佳时机-ii.js)                          | Easy       |
+| 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                   | [javascript](./algorithms/js/125.验证回文串.js)                                     | Easy       |
+| 139  | [Word Break](https://leetcode-cn.com/problems/word-break)                                                                               | [javascript](./algorithms/js/139.单词拆分.js)                                       | Medium     |
+| 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)                                                                 | [javascript](./algorithms/js/141.环形链表.js)                                       | Easy       |
+| 143  | [Reorder List](https://leetcode-cn.com/problems/reorder-list)                                                                           | [javascript](./algorithms/js/143.重排链表.js)                                       | Medium     |
+| 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)                                       | [javascript](./algorithms/js/144.二叉树的前序遍历.js)                               | Medium     |
+| 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)                                     | [javascript](./algorithms/js/145.二叉树的后序遍历.js)                               | Hard       |
+| 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                             | [javascript](./algorithms/js/147.对链表进行插入排序.js)                             | Medium     |
+| 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                 | [javascript](./algorithms/js/148.排序链表.js)                                       | Medium     |
+| 167  | [Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                 | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                       | Easy       |
+| 169  | [Majority Element](https://leetcode-cn.com/problems/majority-element)                                                                   | [javascript](./algorithms/js/169.求众数.js)                                         | Easy       |
+| 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                       | [javascript](./algorithms/js/179.最大数.js)                                         | Medium     |
+| 190  | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits)                                                                           | [javascript](./algorithms/js/190.颠倒二进制位.js)                                   | Easy       |
+| 206  | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list)                                                             | [javascript](./algorithms/js/206.反转链表.js)                                       | Easy       |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)                                             | [javascript](./algorithms/js/208.实现-trie-前缀树.js)                               | Medium     |
+| 209  | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)                                                 | [javascript](./algorithms/js/209.长度最小的子数组.js)                               | Medium     |
+| 211  | [Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design)               | [javascript](./algorithms/js/211.添加与搜索单词-数据结构设计.js)                    | Medium     |
+| 215  | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)                                     | [javascript](./algorithms/js/215.数组中的第k个最大元素.js)                          | Medium     |
+| 242  | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram)                                                                         | [javascript](./algorithms/js/242.有效的字母异位词.js)                               | Easy       |
+| 274  | [H-Index](https://leetcode-cn.com/problems/h-index)                                                                                     | [javascript](./algorithms/js/274.h指数.js)                                          | Medium     |
+| 283  | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)                                                                             | [javascript](./algorithms/js/283.移动零.js)                                         | Easy       |
+| 312  | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons)                                                                       | [javascript](./algorithms/js/312.戳气球.js)                                         | Hard       |
+| 345  | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)                                               | [javascript](./algorithms/js/345.反转字符串中的元音字母.js)                         | Easy       |
+| 349  | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays)                                               | [javascript](./algorithms/js/349.两个数组的交集.js)                                 | Easy       |
+| 350  | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)                                         | [javascript](./algorithms/js/350.两个数组的交集-ii.js)                              | Easy       |
+| 401  | [Binary Watch](https://leetcode-cn.com/problems/binary-watch)                                                                           | [javascript](./algorithms/js/401.二进制手表.js)                                     | Easy       |
+| 405  | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)                                     | [javascript](./algorithms/js/405.数字转换为十六进制数.js)                           | Easy       |
+| 441  | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins)                                                                     | [javascript](./algorithms/js/441.排列硬币.js)                                       | Easy       |
+| 504  | [Base 7](https://leetcode-cn.com/problems/base-7)                                                                                       | [javascript](./algorithms/js/504.七进制数.js)                                       | Easy       |
+| 509  | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number)                                                                   | [javascript](./algorithms/js/509.斐波那契数.js)                                     | Easy       |
+| 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                               | [javascript](./algorithms/js/575.分糖果.js)                                         | Easy       |
+| 622  | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue)                                                         | [javascript](./algorithms/js/622.设计循环队列.js)                                   | Medium     |
+| 633  | [Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)                                                         | [javascript](./algorithms/js/633.平方数之和.js)                                     | Easy       |
+| 654  | [Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree)                                                             | [javascript](./algorithms/js/654.最大二叉树.js)                                     | Medium     |
+| 692  | [Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words)                                                           | [javascript](./algorithms/js/692.前k个高频单词.js)                                  | Medium     |
+| 693  | [Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)                             | [javascript](./algorithms/js/693.交替位二进制数.js)                                 | Easy       |
+| 701  | [Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)                                   | [javascript](./algorithms/js/701.二叉搜索树中的插入操作.js)                         | Medium     |
+| 704  | [Binary Search](https://leetcode-cn.com/problems/binary-search)                                                                         | [javascript](./algorithms/js/704.二分查找.js)                                       | Easy       |
+| 709  | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case)                                                                         | [javascript](./algorithms/js/709.转换成小写字母.js)                                 | Easy       |
+| 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) | [javascript](./algorithms/js/762.二进制表示中质数个计算置位.js)                     | Easy       |
+| 859  | [Buddy Strings](https://leetcode-cn.com/problems/buddy-strings)                                                                         | [javascript](./algorithms/js/859.亲密字符串.js)                                     | Easy       |
+| 868  | [Binary Gap](https://leetcode-cn.com/problems/binary-gap)                                                                               | [javascript](./algorithms/js/868.二进制间距.js)                                     | Easy       |
+| 872  | [Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees)                                                               | [javascript](./algorithms/js/872.叶子相似的树.js)                                   | Easy       |
+| 892  | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)                                                 | [javascript](./algorithms/js/892.三维形体的表面积.js)                               | Easy       |
+| 897  | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree)                                           | [javascript](./algorithms/js/897.递增顺序查找树.js)                                 | Easy       |
+| 901  | [Online Stock Span](https://leetcode-cn.com/problems/online-stock-span)                                                                 | [javascript](./algorithms/js/901.股票价格跨度.js)                                   | Medium     |
+| 950  | [Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)                                   | [javascript](./algorithms/js/950.按递增顺序显示卡牌.js)                             | Medium     |
+| 973  | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin)                                               | [javascript](./algorithms/js/973.最接近原点的-k-个点.js)                            | Medium     |
+| 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)                 | [javascript](./algorithms/js/987.二叉树的垂序遍历.js)                               | Medium     |
+| 1009 | [Complement of Base 10 Integer](https://leetcode-cn.com/problems/complement-of-base-10-integer)                                         | [javascript](./algorithms/js/1009.十进制整数的反码.js)                              | Easy       |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n) | [javascript](./algorithms/js/1016.子串能表示从-1-到-n-数字的二进制串.js)            | Medium     |
+| 1017 | [Convert to Base -2](https://leetcode-cn.com/problems/convert-to-base-2)                                                                | [javascript](./algorithms/js/1017.负二进制转换.js)                                  | Medium     |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5)                                           | [javascript](./algorithms/js/1018.可被-5-整除的二进制前缀.js)                       | Easy       |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers)                               | [javascript](./algorithms/js/1022.从根到叶的二进制数之和.js)                        | Easy       |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order)                                       | [javascript](./algorithms/js/1030.距离顺序排列矩阵单元格.js)                        | Easy       |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive)                                     | [javascript](./algorithms/js/1033.移动石子直到连续.js)                              | Easy       |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings)                               | [javascript](./algorithms/js/1071.字符串的最大公因子.js)                            | Easy       |
+| 1094 | [Car Pooling](https://leetcode-cn.com/problems/car-pooling)                                                                             | [javascript](./algorithms/js/1094.拼车.js)                                          | Medium     |
+| 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array)                                                             | [javascript](./algorithms/js/1122.数组的相对排序.js)                                | Easy       |
