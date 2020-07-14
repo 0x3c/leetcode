@@ -60,3 +60,24 @@ var lengthOfLongestSubstring = function(s) {
   }
   return max;
 };
+
+// use hash
+// @lc code=start
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function(s) {
+  let len = 0,
+    set = new Set();
+  for (let i = 0, j = 0; i < s.length; i++) {
+    for (; j < s.length; j++) {
+      if (set.has(s[j])) break;
+      set.add(s[j]);
+    }
+    set.delete(s[i]);
+    len = j - i > len ? j - i : len;
+  }
+  return len;
+};
+// @lc code=end
