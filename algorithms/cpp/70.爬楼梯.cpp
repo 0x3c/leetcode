@@ -43,15 +43,14 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int arr[9999] = {0};
-        arr[0] = 1;
-        arr[1] = 1;
-        for (int i = 2; i < n+1; i++) {
-            arr[i] = arr[i - 1] + arr[i - 2];
+        int n1 = 1, n2 = 1, temp;
+        while (--n) {
+            temp = n1;
+            n1 = n1 + n2;
+            n2 = temp;
         }
-        return arr[n];
+        return n1;
     }
-
 };
 // @lc code=end
 

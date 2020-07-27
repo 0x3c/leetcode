@@ -45,12 +45,15 @@
  * @return {number}
  */
 var climbStairs = function(n) {
-  const arr = [1, 1];
-  arr.length = n + 1;
-  for (let i = 2; i < n + 1; i++) {
-    arr[i] = arr[i - 1] + arr[i - 2];
+  let n1 = 1,
+    n2 = 1,
+    oldn1;
+  while (--n) {
+    oldn1 = n1;
+    n1 = n1 + n2;
+    n2 = oldn1;
   }
-  return arr[n];
+  return n1;
 };
 
 // @lc code=end
