@@ -36,17 +36,13 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-  const queue = [];
-  while (head) {
-    queue.push(head);
-    head = head.next;
-    queue[queue.length - 1].next = null;
+  let prev = null;
+  let cur = head;
+  while (cur) {
+    let tmp = cur.next;
+    cur.next = prev;
+    prev = cur;
+    cur = tmp;
   }
-  head = new ListNode(null);
-  let pointer = head;
-  while (queue.length) {
-    pointer.next = queue.pop();
-    pointer = pointer.next;
-  }
-  return head.next;
+  return prev;
 };
