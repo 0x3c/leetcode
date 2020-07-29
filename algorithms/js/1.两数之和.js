@@ -26,41 +26,19 @@
  *
  *
  */
-/**
- * @description 双指针遍历查找
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
-var twoSum = function(nums, target) {
-  let lp = 0,
-    rp = 0;
-  while (lp < nums.length - 1) {
-    while (++rp < nums.length) {
-      if (nums[lp] + nums[rp] === target) {
-        return [lp, rp];
-      }
-    }
-    rp = ++lp;
-  }
-};
 
 /**
- *@description 1. 建立map -> 2. 查找
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-  const hm = {};
+  const hash = {};
   const len = nums.length;
   for (let i = 0; i < len; i++) {
-    !hm[nums[i]] && (hm[nums[i]] = i);
-  }
-  for (let i = 0; i < len; i++) {
-    const y = target - nums[i];
-    if (hm[y] !== undefined && hm[y] !== i) {
-      return [i, hm[y]];
+    if (hash[target - nums[i]] !== undefined) {
+      return [hash[target - nums[i]], i];
     }
+    hash[nums[i]] = i;
   }
 };
