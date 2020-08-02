@@ -55,20 +55,17 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-        unordered_map<int, int> hashA;
-        unordered_map<int, int> hashB;
-        int bulls = 0;
+        unordered_map<char, int> hashA;
+        unordered_map<char, int> hashB;
+        int bulls = 0, cows = 0;
         for (int i = 0; i < secret.length(); i++) {
-            hashA[secret[i]] = hashA.count(secret[i]) ? hashA[secret[i]] + 1 : 1;
-            hashB[guess[i]] = hashB.count(guess[i]) ? hashB[guess[i]] + 1 : 1;
-            if (secret[i] == guess[i]) {
-                bulls++;
-            }
+            hashA[secret[i]]++;
+            hashB[guess[i]]++;
+            bulls += secret[i] == guess[i];
         }
-        int cows = -bulls;
-        for (auto iter = hashB.begin(); iter != hashB.end(); iter++) {
-            int a = hashA.count(iter->first) ? hashA.at(iter->first) : 0;
-            cows += min(a, iter->second);
+        cows -= bulls;
+        for (auto &iter:hashB) {
+            cows += min(hashA[iter.first], hashB[iter.first]);
         }
         return to_string(bulls) + "A" + to_string(cows) + "B";
     }
