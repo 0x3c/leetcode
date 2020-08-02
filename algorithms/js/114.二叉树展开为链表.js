@@ -38,37 +38,29 @@
  * ⁠         6
  *
  */
+
+// @lc code=start
 /**
  * Definition for a binary tree node.
- * function TreeNode(val) {
- *     this.val = val;
- *     this.left = this.right = null;
- * }
+ *
  */
-function backtrack(head, queue) {
-  if (!head) return;
-  const { left, right } = head;
-  queue.push(head.val);
-  if (left) {
-    backtrack(left, queue);
-  }
-  if (right) {
-    backtrack(right, queue);
-  }
-}
 /**
- * 按从左到右顺序回溯所有数字, 按顺序生成新树。
  * @param {TreeNode} root
  * @return {void} Do not return anything, modify root in-place instead.
  */
 var flatten = function(root) {
-  const queue = [];
-  backtrack(root, queue);
-  let p = root;
-  queue.shift();
-  while (queue.length) {
-    p.right = new TreeNode(queue.shift());
-    p.left = null;
-    p = p.right;
+  while (root) {
+    if (!root.left) {
+    } else {
+      let prev = root.left;
+      while (prev.right) {
+        prev = prev.right;
+      }
+      prev.right = root.right;
+      root.right = root.left;
+      root.left = null;
+    }
+    root = root.right;
   }
 };
+// @lc code=end
