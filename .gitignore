@@ -9,3 +9,7 @@ yarn-error.log*
 node_modules/
 # Cache
 cache/
+
+/**/*/.DS_Store
+
+.vscode
