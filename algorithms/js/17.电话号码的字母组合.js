@@ -30,29 +30,32 @@
  *
  */
 /**
- * @description 递归
  * @param {string} digits
  * @return {string[]}
  */
+const hash = {
+  2: ["a", "b", "c"],
+  3: ["d", "e", "f"],
+  4: ["g", "h", "i"],
+  5: ["j", "k", "l"],
+  6: ["m", "n", "o"],
+  7: ["p", "q", "r", "s"],
+  8: ["t", "u", "v"],
+  9: ["w", "x", "y", "z"],
+};
+function dfs(str, i, curAns, ans) {
+  if (i == str.length) {
+    ans.push(curAns);
+    return;
+  }
+  hash[str[i]].forEach((char) => {
+    dfs(str, i + 1, curAns + char, ans);
+  });
+}
+
 var letterCombinations = function(digits) {
-  const dict = {
-    1: ["*"],
-    2: ["a", "b", "c"],
-    3: ["d", "e", "f"],
-    4: ["g", "h", "i"],
-    5: ["j", "k", "l"],
-    6: ["m", "n", "o"],
-    7: ["p", "q", "r", "s"],
-    8: ["t", "u", "v"],
-    9: ["w", "x", "y", "z"]
-  };
-  if (!digits[0]) return [];
-  const results = [];
-  const fn = (ch, st, str) => {
-    const arr = dict[ch];
-    if (!ch && !st) return results.push(str);
-    arr.map(c => fn(st[0], st[1] ? st.substring(1) : "", str + c));
-  };
-  fn(digits[0], digits.substring(1), "");
-  return results;
+  if (digits.length === 0) return [];
+  const ans = [];
+  dfs(digits, 0, "", ans);
+  return ans;
 };
