@@ -29,25 +29,26 @@
  *
  *
  */
-/**
- * @param {number[]} nums
- * @return {number}
- */
-var majorityElement = function(nums) {
-  let max = 0,
-    hashmap = {},
-    majority = Number.MIN_VALUE;
-  for (let n of nums) {
-    if (!hashmap[n]) {
-      hashmap[n] = 1;
-      !max && ((max = 1), (majority = n));
-      continue;
-    }
-    hashmap[n] += 1;
-    if (hashmap[n] > max) {
-      majority = n;
-      max = hashmap[n];
-    }
+
+function countNum(nums, num, start, end) {
+  let count = 0;
+  for (let i = start; i <= end; i++) {
+    if (num === nums[i]) count++;
   }
-  return majority;
+  return count;
+}
+
+function dfs(nums, start, end) {
+  if (start === end) return nums[start];
+  const mid = start + Math.floor((end - start) / 2);
+  const left = dfs(nums, start, mid);
+  const right = dfs(nums, mid + 1, end);
+  if (left == right) return left;
+  const leftCount = countNum(nums, left, start, end);
+  const rightCount = countNum(nums, right, start, end);
+  return leftCount > rightCount ? left : right;
+}
+
+var majorityElement = function(nums) {
+  return dfs(nums, 0, nums.length - 1);
 };
