@@ -67,30 +67,13 @@ class Solution {
     if (root == nullptr) {
       return 0;
     }
-    int left = 0, right = 0;
-    if (root->left == nullptr && root->right == nullptr) {
-      return 1;
-    }
-    if (root->left != nullptr) {
-      left = dfs(root->left);
-    }
-    if (root->right != nullptr) {
-      right = dfs(root->right);
-    }
-
+    int left = dfs(root->left);
+    int right = dfs(root->right);
     if (abs(right - left) > 1 || left == -1 || right == -1) {
       return -1;
     }
-
-    return max(right + 1, left + 1);
+    return max(right, left) + 1;
   }
-  bool isBalanced(TreeNode *root) {
-    int level = dfs(root);
-    if (level == -1)
-      return false;
-    else {
-      return true;
-    }
-  }
+  bool isBalanced(TreeNode *root) { return dfs(root) >= 0; }
 };
 // @lc code=end
