@@ -16,7 +16,6 @@ class Solution {
  public:
   vector<string> letterCombinations(string digits) {
     vector<string> ans;
-    if (digits.size() == 0) return ans;
     dfs(digits, 0, "", ans);
     return ans;
   }
@@ -26,17 +25,16 @@ class Solution {
       {'2', "abc"}, {'3', "def"},  {'4', "ghi"}, {'5', "jkl"},
       {'6', "mno"}, {'7', "pqrs"}, {'8', "tuv"}, {'9', "wxyz"},
   };
-
-  void dfs(string str, int i, string curAns, vector<string> &ans) {
-    if (str.size() == i) {
-      ans.push_back(curAns);
+  void dfs(const string& digits, int i, const string& cur_ans,
+           vector<string>& ans) {
+    if (i >= digits.size() && !cur_ans.empty()) {
+      ans.push_back(cur_ans);
       return;
     }
-    string str1 = hash[str[i]];
-    auto iter = begin(str1);
-    while (iter != end(str1)) {
-      dfs(str, i + 1, curAns + (*iter++), ans);
+    string cur_str = hash[digits[i]];
+    for (int j = 0; j < cur_str.size(); j++) {
+      dfs(digits, i + 1, cur_ans + cur_str[j], ans);
     }
-  };
+  }
 };
 // @lc code=end
