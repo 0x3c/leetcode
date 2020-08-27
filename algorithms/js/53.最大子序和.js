@@ -32,16 +32,15 @@
  * @return {number}
  */
 var maxSubArray = function(nums) {
-  let max = Number.MIN_SAFE_INTEGER,
-    lp = 0,
+  let max = nums[0],
     sum = 0;
-  while (lp < nums.length) {
-    sum = 0;
-    for (let rp = lp; rp < nums.length; rp++) {
-      sum += nums[rp];
-      sum > max && (max = sum);
+  for (let i = 0; i < nums.length; i++) {
+    if (sum > 0) {
+      sum += nums[i];
+    } else {
+      sum = nums[i];
     }
-    lp++;
+    max = Math.max(max, sum);
   }
   return max;
 };
