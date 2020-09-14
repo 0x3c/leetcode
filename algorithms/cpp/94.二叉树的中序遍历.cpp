@@ -21,20 +21,20 @@ class TreeNode {
  */
 // @lc code=start
 class Solution {
- public:
+ private:
   void dfs(TreeNode* root, vector<int>& ans) {
+    // terminator
     if (root == NULL) return;
-    if (root->left != NULL) {
-      dfs(root->left, ans);
-    }
+    // process current logic
+    // drill down
+    dfs(root->left, ans);
     ans.push_back(root->val);
-    if (root->right != NULL) {
-      dfs(root->right, ans);
-    }
+    dfs(root->right, ans);
   }
+
+ public:
   vector<int> inorderTraversal(TreeNode* root) {
     vector<int> ans;
-    if (root == NULL) return ans;
     dfs(root, ans);
     return ans;
   }
