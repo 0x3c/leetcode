@@ -58,11 +58,13 @@
 /**
  * 递归
  * @param {number} N
+ * @param {number[]} memo
  * @return {number}
  */
-var fib = function(N) {
-  if (N === 0) return 0;
-  if (N === 1) return 1;
-  return fib(N - 1) + fib(N - 2);
+var fib = function(N, memo = [0, 1]) {
+  if (N >= memo.length) {
+    memo.push(fib(N - 1, memo) + fib(N - 2, memo));
+  }
+  return memo[N];
 };
 // @lc code=end
