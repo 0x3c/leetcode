@@ -10,18 +10,21 @@ using namespace std;
 
 // @lc code=start
 class Solution {
- private:
-  vector<int> dp;
-
  public:
+  /**
+   * 状态数组: opt[i] 表示经过第 i 个房子偷到的最大金额
+   * dp 方程: dp[i] = max(dp[i-1],dp[i-2] + nums[i])
+   * */
   int rob(vector<int>& nums) {
-    int ans = 0;
-    dp.resize(nums.size() + 1);
+    int len = nums.size();
+    if (!len) return 0;
+    vector<int> dp(len + 1);
     dp[0] = 0;
-    for (int i = 0; i < nums.size(); i++) {
-      dp[i + 1] = max(dp[i], (i - 1 < 0 ? 0 : dp[i - 1]) + nums[i]);
+    dp[1] = nums[0];
+    for (int i = 2; i < len + 1; i++) {
+      dp[i] = max(dp[i - 1], dp[i - 2] + nums[i - 1]);
     }
-    return dp.back();
+    return dp[len];
   }
 };
 // @lc code=end
