@@ -18,12 +18,12 @@ class Solution {
   int rob(vector<int>& nums) {
     int len = nums.size();
     if (!len) return 0;
-    vector<int> dp(len + 1, 0);
-    dp[1] = nums[0];
-    for (int i = 2; i < len + 1; i++) {
-      dp[i] = max(dp[i - 1], dp[i - 2] + nums[i - 1]);
+    if (len == 1) return nums[0];
+    nums[1] = max(nums[0], nums[1]);
+    for (int i = 2; i < len; i++) {
+      nums[i] = max(nums[i - 1], nums[i - 2] + nums[i]);
     }
-    return dp[len];
+    return nums[len - 1];
   }
 };
 // @lc code=end
