@@ -16,14 +16,13 @@ class Solution {
    * dp 方程: dp[i] = max(dp[i-1],dp[i-2] + nums[i])
    * */
   int rob(vector<int>& nums) {
-    int len = nums.size();
-    if (!len) return 0;
-    if (len == 1) return nums[0];
-    nums[1] = max(nums[0], nums[1]);
-    for (int i = 2; i < len; i++) {
-      nums[i] = max(nums[i - 1], nums[i - 2] + nums[i]);
+    int pre = 0, cur = 0, tmp = 0;
+    for (int i = 0; i < nums.size(); i++) {
+      tmp = cur;
+      cur = max(pre + nums[i], cur);
+      pre = tmp;
     }
-    return nums[len - 1];
+    return cur;
   }
 };
 // @lc code=end
