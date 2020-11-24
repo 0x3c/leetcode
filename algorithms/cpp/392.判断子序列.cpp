@@ -8,6 +8,10 @@ using namespace std;
  */
 
 // @lc code=start
+/**
+ * using two pointer
+ * 时间复杂度: O(m)
+ */
 class Solution {
  public:
   bool isSubsequence(string s, string t) {
