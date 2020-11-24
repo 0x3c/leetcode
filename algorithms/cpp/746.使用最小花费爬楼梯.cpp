@@ -6,7 +6,6 @@ using namespace std;
  * [746] 使用最小花费爬楼梯
  */
 
-// @lc code=start
 /**
  * using dp
  * dp[i] 为到达第 i 阶的最小花费
@@ -14,7 +13,7 @@ using namespace std;
  * 时间复杂度: O(n)
  * 空间复杂度: O(n)
  */
-class Solution {
+class Solution_DP {
  public:
   int minCostClimbingStairs(vector<int>& cost) {
     int size = cost.size();
@@ -25,6 +24,25 @@ class Solution {
       dp[i] = min(dp[i - 1], dp[i - 2]) + cost[i];
     }
     return min(dp[size - 1], dp[size - 2]);
+  }
+};
+// @lc code=start
+/**
+ * dp 优化, 只保留需要的两个状态
+ * 时间复杂度: O(n)
+ * 空间复杂度: O(1)
+ */
+class Solution {
+ public:
+  int minCostClimbingStairs(vector<int>& cost) {
+    int pre = cost[0];
+    int cur = cost[1];
+    for (int i = 2; i < cost.size(); i++) {
+      int temp = cur;
+      cur = min(pre, cur) + cost[i];
+      pre = temp;
+    }
+    return min(cur, pre);
   }
 };
 // @lc code=end
