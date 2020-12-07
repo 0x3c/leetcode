@@ -2,6 +2,7 @@ const path = require("path");
 const fs = require("fs");
 const rootDir = path.resolve(__dirname, "../");
 const prettier = require("prettier");
+const { getCountTableStr } = require("./analysis");
 
 const SOLUTION_DIR_NAME = "algorithms";
 const CPP_DIR_NAME = "cpp";
@@ -84,7 +85,7 @@ const generateReadme = (readmePath, markdownStr) => {
 
 const generateTable = (solutions) => {
   const tables = [];
-  const header = [`|#|Title|Solution|Difficulty`];
+  const header = [`#### 详情\n|#|Title|Solution|Difficulty`];
   const divider = [`|---|---|---|---|`];
   const solutionToLabel = (solution) => {
     return `[${solution.type}](${solution.url})`;
@@ -98,13 +99,17 @@ const generateTable = (solutions) => {
   });
   return tables.join("\n");
 };
-const app = () => {
+const app = async () => {
   const solutions = getSolutioins();
   const TemplateStr = getTemp(templatePath);
   const solutionsTable = generateTable(solutions);
-  const formatted = prettier.format(TemplateStr + solutionsTable, {
-    parser: "markdown",
-  });
+  const countTableStr = await getCountTableStr();
+  const formatted = prettier.format(
+    TemplateStr + countTableStr + solutionsTable,
+    {
+      parser: "markdown",
+    }
+  );
   generateReadme(readmePath, formatted);
   templatePath;
 };

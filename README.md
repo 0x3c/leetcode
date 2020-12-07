@@ -4,6 +4,43 @@ Leetcode solutions
 
 ### Algorithms
 
+####  统计
+
+<table>
+<thead><tr><td>languages</td><td>Difficulty</td><td>count</td></tr></thead>
+<tbody>
+<tr>
+	<td rowspan=3>cpp</td>
+	<td>Easy</td>
+	<td>26</td>
+</tr>
+<tr>
+	<td>Medium</td>
+	<td>40</td>
+</tr>
+<tr>
+	<td>Hard</td>
+	<td>5</td>
+</tr>
+</tr><tr>
+	<td rowspan=3>javascript</td>
+	<td>Easy</td>
+	<td>60</td>
+</tr>
+<tr>
+	<td>Medium</td>
+	<td>69</td>
+</tr>
+<tr>
+	<td>Hard</td>
+	<td>6</td>
+</tr>
+</tr>
+</tbody>
+</table>
+
+#### 详情
+
 | #    | Title                                                                                                                                                   | Solution                                                                                                               | Difficulty |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum)                                                                                                     | [C++](./algorithms/cpp/1.两数之和.cpp), [javascript](./algorithms/js/1.两数之和.js)                                    | Easy       |

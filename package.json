@@ -2,15 +2,17 @@
   "devDependencies": {
     "husky": "^3.0.2",
     "node-fetch": "^2.6.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "ts-node": "^9.1.0",
+    "typescript": "^4.1.2"
   },
   "scripts": {
-    "parse": "yarn run cache && node scripts/parser.js",
+    "parse": "yarn run cache && ts-node scripts/parser.js",
     "cache": "node scripts/list.js"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn run parse && git add README.md"
+      "1pre-commit": "yarn run parse && git add README.md"
     }
   }
 }
