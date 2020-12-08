@@ -25,11 +25,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>60</td><td rowspan=3>135</td>
+	<td>60</td><td rowspan=3>136</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>69</td>
+	<td>70</td>
 </tr>
 <tr>
 	<td>Hard</td>
