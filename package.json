@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "@types/node": "^14.14.10",
+    "@types/node-fetch": "^2.5.7",
+    "@types/prettier": "^2.1.5",
     "husky": "^3.0.2",
     "node-fetch": "^2.6.1",
     "prettier": "^1.18.2",
@@ -7,8 +10,8 @@
     "typescript": "^4.1.2"
   },
   "scripts": {
-    "parse": "yarn run cache && ts-node scripts/parser.js",
-    "cache": "node scripts/list.js"
+    "parse": "yarn run cache && ts-node scripts/parser.ts",
+    "cache": "ts-node scripts/list.ts"
   },
   "husky": {
     "hooks": {

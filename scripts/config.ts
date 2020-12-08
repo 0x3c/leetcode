@@ -2,9 +2,9 @@
  * @Author: Samuel Chia
  * @Date: 2020-12-03 15:18:58
  * @Last Modified by: Samuel Chia
- * @Last Modified time: 2020-12-03 15:22:52
+ * @Last Modified time: 2020-12-08 14:01:34
  */
-const path = require("path");
+import path from "path";
 const rootDir = path.resolve(__dirname, "../");
 
 const SOLUTION_DIR_NAME = "algorithms";
@@ -17,10 +17,6 @@ const publicDir = path.resolve(rootDir, "public");
 const CPP_DIR = path.resolve(rootDir, leetcodeDir, CPP_DIR_NAME);
 const JAVASCRIPT_DIR = path.resolve(rootDir, leetcodeDir, JS_DIR_NAME);
 
-const questions = require("../cache/leetcode.json");
+export const questions = require("../cache/leetcode.json");
 
-const SOLUTION_DIRS = [CPP_DIR, JAVASCRIPT_DIR];
-
-module.exports = {
-  SOLUTION_DIRS,
-};
+export const SOLUTION_DIRS = [CPP_DIR, JAVASCRIPT_DIR];

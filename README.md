@@ -7,12 +7,12 @@ Leetcode solutions
 ####  统计
 
 <table>
-<thead><tr><td>languages</td><td>Difficulty</td><td>count</td></tr></thead>
+<thead><tr><td>languages</td><td>Difficulty</td><td>count</td><td>total</td></tr></thead>
 <tbody>
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>26</td>
+	<td>26</td><td rowspan=3>71</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -25,7 +25,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>60</td>
+	<td>60</td><td rowspan=3>135</td>
 </tr>
 <tr>
 	<td>Medium</td>
