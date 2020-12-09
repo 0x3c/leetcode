@@ -12,11 +12,11 @@ Leetcode solutions
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>27</td><td rowspan=3>72</td>
+	<td>27</td><td rowspan=3>73</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>40</td>
+	<td>41</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -79,7 +79,7 @@ Leetcode solutions
 | 55   | [Jump Game](https://leetcode-cn.com/problems/jump-game)                                                                                                 | [C++](./algorithms/cpp/55.跳跃游戏.cpp), [javascript](./algorithms/js/55.跳跃游戏.js)                                  | Medium     |
 | 56   | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals)                                                                                     | [javascript](./algorithms/js/56.合并区间.js)                                                                           | Medium     |
 | 60   | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence)                                                                           | [javascript](./algorithms/js/60.第k个排列.js)                                                                          | Hard       |
-| 62   | [Unique Paths](https://leetcode-cn.com/problems/unique-paths)                                                                                           | [javascript](./algorithms/js/62.不同路径.js)                                                                           | Medium     |
+| 62   | [Unique Paths](https://leetcode-cn.com/problems/unique-paths)                                                                                           | [C++](./algorithms/cpp/62.不同路径.cpp), [javascript](./algorithms/js/62.不同路径.js)                                  | Medium     |
 | 63   | [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii)                                                                                     | [javascript](./algorithms/js/63.不同路径-ii.js)                                                                        | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum)                                                                                   | [C++](./algorithms/cpp/64.最小路径和.cpp)                                                                              | Medium     |
 | 66   | [Plus One](https://leetcode-cn.com/problems/plus-one)                                                                                                   | [C++](./algorithms/cpp/66.加一.cpp), [javascript](./algorithms/js/66.加一.js)                                          | Easy       |
