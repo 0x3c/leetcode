@@ -12,7 +12,7 @@ Leetcode solutions
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>26</td><td rowspan=3>71</td>
+	<td>27</td><td rowspan=3>72</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -107,6 +107,7 @@ Leetcode solutions
 | 118  | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle)                                                                                  | [javascript](./algorithms/js/118.杨辉三角.js)                                                                          | Easy       |
 | 119  | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii)                                                                            | [javascript](./algorithms/js/119.杨辉三角-ii.js)                                                                       | Easy       |
 | 120  | [Triangle](https://leetcode-cn.com/problems/triangle)                                                                                                   | [javascript](./algorithms/js/120.三角形最小路径和.js)                                                                  | Medium     |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)                                                     | [C++](./algorithms/cpp/121.买卖股票的最佳时机.cpp)                                                                     | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)                                               | [C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp), [javascript](./algorithms/js/122.买卖股票的最佳时机-ii.js)      | Easy       |
 | 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                                   | [javascript](./algorithms/js/125.验证回文串.js)                                                                        | Easy       |
 | 127  | [Word Ladder](https://leetcode-cn.com/problems/word-ladder)                                                                                             | [C++](./algorithms/cpp/127.单词接龙.cpp)                                                                               | Medium     |
