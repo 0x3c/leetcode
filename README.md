@@ -12,11 +12,11 @@ Leetcode solutions
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>27</td><td rowspan=3>73</td>
+	<td>27</td><td rowspan=3>74</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>41</td>
+	<td>42</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -148,6 +148,7 @@ Leetcode solutions
 | 349  | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays)                                                               | [javascript](./algorithms/js/349.两个数组的交集.js)                                                                    | Easy       |
 | 350  | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)                                                         | [javascript](./algorithms/js/350.两个数组的交集-ii.js)                                                                 | Easy       |
 | 367  | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square)                                                                           | [C++](./algorithms/cpp/367.有效的完全平方数.cpp)                                                                       | Easy       |
+| 376  | [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence)                                                                               | [C++](./algorithms/cpp/376.摆动序列.cpp)                                                                               | Medium     |
 | 392  | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence)                                                                                       | [C++](./algorithms/cpp/392.判断子序列.cpp)                                                                             | Easy       |
 | 401  | [Binary Watch](https://leetcode-cn.com/problems/binary-watch)                                                                                           | [javascript](./algorithms/js/401.二进制手表.js)                                                                        | Easy       |
 | 405  | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)                                                     | [javascript](./algorithms/js/405.数字转换为十六进制数.js)                                                              | Easy       |
