@@ -12,7 +12,7 @@ Leetcode solutions
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>28</td><td rowspan=3>75</td>
+	<td>29</td><td rowspan=3>76</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -149,6 +149,7 @@ Leetcode solutions
 | 350  | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)                                                         | [javascript](./algorithms/js/350.两个数组的交集-ii.js)                                                                 | Easy       |
 | 367  | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square)                                                                           | [C++](./algorithms/cpp/367.有效的完全平方数.cpp)                                                                       | Easy       |
 | 376  | [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence)                                                                               | [C++](./algorithms/cpp/376.摆动序列.cpp)                                                                               | Medium     |
+| 387  | [First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string)                                               | [C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp)                                                               | Easy       |
 | 389  | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference)                                                                             | [C++](./algorithms/cpp/389.找不同.cpp)                                                                                 | Easy       |
 | 392  | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence)                                                                                       | [C++](./algorithms/cpp/392.判断子序列.cpp)                                                                             | Easy       |
 | 401  | [Binary Watch](https://leetcode-cn.com/problems/binary-watch)                                                                                           | [javascript](./algorithms/js/401.二进制手表.js)                                                                        | Easy       |
