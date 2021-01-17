@@ -16,11 +16,11 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>42</td>
+	<td>41</td>
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>5</td>
+	<td>6</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>javascript</td>
@@ -34,6 +34,11 @@ Leetcode solutions
 <tr>
 	<td>Hard</td>
 	<td>6</td>
+</tr>
+</tr><tr>
+	<td rowspan=1>golang</td>
+	<td>Easy</td>
+	<td>1</td><td rowspan=1>1</td>
 </tr>
 </tr>
 </tbody>
@@ -110,7 +115,7 @@ Leetcode solutions
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)                                                     | [C++](./algorithms/cpp/121.买卖股票的最佳时机.cpp)                                                                     | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)                                               | [C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp), [javascript](./algorithms/js/122.买卖股票的最佳时机-ii.js)      | Easy       |
 | 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                                   | [javascript](./algorithms/js/125.验证回文串.js)                                                                        | Easy       |
-| 127  | [Word Ladder](https://leetcode-cn.com/problems/word-ladder)                                                                                             | [C++](./algorithms/cpp/127.单词接龙.cpp)                                                                               | Medium     |
+| 127  | [Word Ladder](https://leetcode-cn.com/problems/word-ladder)                                                                                             | [C++](./algorithms/cpp/127.单词接龙.cpp)                                                                               | Hard       |
 | 139  | [Word Break](https://leetcode-cn.com/problems/word-break)                                                                                               | [javascript](./algorithms/js/139.单词拆分.js)                                                                          | Medium     |
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)                                                                                 | [C++](./algorithms/cpp/141.环形链表.cpp), [javascript](./algorithms/js/141.环形链表.js)                                | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii)                                                                           | [C++](./algorithms/cpp/142.环形链表-ii.cpp), [javascript](./algorithms/js/142.环形链表-ii.js)                          | Medium     |
@@ -162,7 +167,7 @@ Leetcode solutions
 | 504  | [Base 7](https://leetcode-cn.com/problems/base-7)                                                                                                       | [javascript](./algorithms/js/504.七进制数.js)                                                                          | Easy       |
 | 509  | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number)                                                                                   | [javascript](./algorithms/js/509.斐波那契数.js)                                                                        | Easy       |
 | 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                             | [C++](./algorithms/cpp/529.扫雷游戏.cpp)                                                                               | Medium     |
-| 547  | [Friend Circles](https://leetcode-cn.com/problems/friend-circles)                                                                                       | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                    | Medium     |
+| 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                             | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                    | Medium     |
 | 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                         | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp)                                                                 | Easy       |
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                               | [javascript](./algorithms/js/575.分糖果.js)                                                                            | Easy       |
 | 622  | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue)                                                                         | [javascript](./algorithms/js/622.设计循环队列.js)                                                                      | Medium     |
@@ -208,3 +213,4 @@ Leetcode solutions
 | 1094 | [Car Pooling](https://leetcode-cn.com/problems/car-pooling)                                                                                             | [javascript](./algorithms/js/1094.拼车.js)                                                                             | Medium     |
 | 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array)                                                                             | [javascript](./algorithms/js/1122.数组的相对排序.js)                                                                   | Easy       |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)                                                               | [C++](./algorithms/cpp/1143.最长公共子序列.cpp), [javascript](./algorithms/js/1143.最长公共子序列.js)                  | Medium     |
+| 1232 | [Check If It Is a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)                                                       | [golang](./algorithms/golang/1232.缀点成线.go)                                                                         | Easy       |

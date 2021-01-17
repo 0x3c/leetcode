@@ -7,6 +7,9 @@ export const languages = {
   cpp: {
     suffix: ["cpp", "cc"],
   },
+  golang: {
+    suffix: ["go"],
+  },
 };
 export { default as questions } from "../cache/leetcode.json";
 

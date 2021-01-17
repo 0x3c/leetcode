@@ -9,11 +9,13 @@ import { readmePath, templatePath } from "../configs/path_config";
 const SOLUTION_DIR_NAME = "algorithms";
 const CPP_DIR_NAME = "cpp";
 const JS_DIR_NAME = "js";
+const GOLANG_DIR_NAME = "golang";
 
 const leetcodeDir = path.resolve(rootDir, SOLUTION_DIR_NAME);
 
 const CPP_DIR = path.resolve(rootDir, leetcodeDir, CPP_DIR_NAME);
 const JAVASCRIPT_DIR = path.resolve(rootDir, leetcodeDir, JS_DIR_NAME);
+const GOLANG_DIR = path.resolve(rootDir, leetcodeDir, GOLANG_DIR_NAME);
 
 interface SolutionSet {
   title: string;
@@ -37,6 +39,12 @@ const languageConfig = {
     baseDir: JAVASCRIPT_DIR,
     relativeDir: `./${SOLUTION_DIR_NAME}/${JS_DIR_NAME}`,
     suffix: ["js"],
+  },
+  golang: {
+    title: "golang",
+    baseDir: GOLANG_DIR,
+    relativeDir: `./${SOLUTION_DIR_NAME}/${GOLANG_DIR_NAME}`,
+    suffix: ["go"],
   },
 };
 
