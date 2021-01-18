@@ -36,9 +36,13 @@ Leetcode solutions
 	<td>6</td>
 </tr>
 </tr><tr>
-	<td rowspan=1>golang</td>
+	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>1</td><td rowspan=1>1</td>
+	<td>1</td><td rowspan=2>2</td>
+</tr>
+<tr>
+	<td>Medium</td>
+	<td>1</td>
 </tr>
 </tr>
 </tbody>
@@ -53,7 +57,7 @@ Leetcode solutions
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)                       | [C++](./algorithms/cpp/3.无重复字符的最长子串.cpp), [javascript](./algorithms/js/3.无重复字符的最长子串.js)            | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)                                                             | [javascript](./algorithms/js/4.寻找两个有序数组的中位数.js)                                                            | Hard       |
 | 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)                                                         | [javascript](./algorithms/js/5.最长回文子串.js)                                                                        | Medium     |
-| 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)                                                                                 | [javascript](./algorithms/js/6.z-字形变换.js)                                                                          | Medium     |
+| 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)                                                                                 | [javascript](./algorithms/js/6.z-字形变换.js), [golang](./algorithms/golang/6.z-字形变换.go)                           | Medium     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)                                                                                     | [javascript](./algorithms/js/7.整数反转.js)                                                                            | Easy       |
 | 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                                     | [javascript](./algorithms/js/8.字符串转换整数-atoi.js)                                                                 | Medium     |
 | 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)                                                                                 | [javascript](./algorithms/js/9.回文数.js)                                                                              | Easy       |
