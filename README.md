@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>1</td><td rowspan=2>2</td>
+	<td>1</td><td rowspan=2>3</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>1</td>
+	<td>2</td>
 </tr>
 </tr>
 </tbody>
@@ -170,6 +170,7 @@ Leetcode solutions
 | 491  | [Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences)                                                                     | [C++](./algorithms/cpp/491.递增子序列.cpp)                                                                             | Medium     |
 | 504  | [Base 7](https://leetcode-cn.com/problems/base-7)                                                                                                       | [javascript](./algorithms/js/504.七进制数.js)                                                                          | Easy       |
 | 509  | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number)                                                                                   | [javascript](./algorithms/js/509.斐波那契数.js)                                                                        | Easy       |
+| 528  | [Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight)                                                                     | [golang](./algorithms/golang/528.按权重随机选择.go)                                                                    | Medium     |
 | 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                             | [C++](./algorithms/cpp/529.扫雷游戏.cpp)                                                                               | Medium     |
 | 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                             | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                    | Medium     |
 | 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                         | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp)                                                                 | Easy       |
