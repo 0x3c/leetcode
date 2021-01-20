@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>2</td><td rowspan=2>4</td>
+	<td>3</td><td rowspan=2>5</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -136,6 +136,7 @@ Leetcode solutions
 | 190  | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits)                                                                                           | [C++](./algorithms/cpp/190.颠倒二进制位.cpp), [javascript](./algorithms/js/190.颠倒二进制位.js)                        | Easy       |
 | 198  | [House Robber](https://leetcode-cn.com/problems/house-robber)                                                                                           | [C++](./algorithms/cpp/198.打家劫舍.cpp), [javascript](./algorithms/js/198.打家劫舍.js)                                | Medium     |
 | 200  | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands)                                                                                 | [javascript](./algorithms/js/200.岛屿数量.js)                                                                          | Medium     |
+| 203  | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements)                                                             | [golang](./algorithms/golang/203.移除链表元素.go)                                                                      | Easy       |
 | 206  | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list)                                                                             | [C++](./algorithms/cpp/206.反转链表.cpp), [javascript](./algorithms/js/206.反转链表.js)                                | Easy       |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)                                                             | [C++](./algorithms/cpp/208.实现-trie-前缀树.cpp), [javascript](./algorithms/js/208.实现-trie-前缀树.js)                | Medium     |
 | 209  | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)                                                                 | [javascript](./algorithms/js/209.长度最小的子数组.js)                                                                  | Medium     |
