@@ -12,11 +12,11 @@ Leetcode solutions
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>29</td><td rowspan=3>76</td>
+	<td>28</td><td rowspan=3>76</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>41</td>
+	<td>42</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -25,11 +25,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>60</td><td rowspan=3>136</td>
+	<td>59</td><td rowspan=3>136</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>70</td>
+	<td>71</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>1</td><td rowspan=2>3</td>
+	<td>2</td><td rowspan=2>4</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -134,7 +134,7 @@ Leetcode solutions
 | 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                                       | [javascript](./algorithms/js/179.最大数.js)                                                                            | Medium     |
 | 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array)                                                                                           | [C++](./algorithms/cpp/189.旋转数组.cpp), [javascript](./algorithms/js/189.旋转数组.js)                                | Medium     |
 | 190  | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits)                                                                                           | [C++](./algorithms/cpp/190.颠倒二进制位.cpp), [javascript](./algorithms/js/190.颠倒二进制位.js)                        | Easy       |
-| 198  | [House Robber](https://leetcode-cn.com/problems/house-robber)                                                                                           | [C++](./algorithms/cpp/198.打家劫舍.cpp), [javascript](./algorithms/js/198.打家劫舍.js)                                | Easy       |
+| 198  | [House Robber](https://leetcode-cn.com/problems/house-robber)                                                                                           | [C++](./algorithms/cpp/198.打家劫舍.cpp), [javascript](./algorithms/js/198.打家劫舍.js)                                | Medium     |
 | 200  | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands)                                                                                 | [javascript](./algorithms/js/200.岛屿数量.js)                                                                          | Medium     |
 | 206  | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list)                                                                             | [C++](./algorithms/cpp/206.反转链表.cpp), [javascript](./algorithms/js/206.反转链表.js)                                | Easy       |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)                                                             | [C++](./algorithms/cpp/208.实现-trie-前缀树.cpp), [javascript](./algorithms/js/208.实现-trie-前缀树.js)                | Medium     |
@@ -176,6 +176,7 @@ Leetcode solutions
 | 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                         | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp)                                                                 | Easy       |
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                               | [javascript](./algorithms/js/575.分糖果.js)                                                                            | Easy       |
 | 622  | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue)                                                                         | [javascript](./algorithms/js/622.设计循环队列.js)                                                                      | Medium     |
+| 628  | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)                                                   | [golang](./algorithms/golang/628.三个数的最大乘积.go)                                                                  | Easy       |
 | 633  | [Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)                                                                         | [javascript](./algorithms/js/633.平方数之和.js)                                                                        | Medium     |
 | 641  | [Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque)                                                                         | [C++](./algorithms/cpp/641.设计循环双端队列.cpp), [javascript](./algorithms/js/641.设计循环双端队列.js)                | Medium     |
 | 646  | [Maximum Length of Pair Chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain)                                                           | [C++](./algorithms/cpp/646.最长数对链.cpp), [javascript](./algorithms/js/646.最长数对链.js)                            | Medium     |
