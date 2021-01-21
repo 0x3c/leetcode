@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>3</td><td rowspan=2>5</td>
+	<td>4</td><td rowspan=2>6</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -174,7 +174,7 @@ Leetcode solutions
 | 528  | [Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight)                                                                     | [golang](./algorithms/golang/528.按权重随机选择.go)                                                                    | Medium     |
 | 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                             | [C++](./algorithms/cpp/529.扫雷游戏.cpp)                                                                               | Medium     |
 | 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                             | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                    | Medium     |
-| 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                         | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp)                                                                 | Easy       |
+| 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                         | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp), [golang](./algorithms/golang/557.反转字符串中的单词-iii.go)    | Easy       |
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                               | [javascript](./algorithms/js/575.分糖果.js)                                                                            | Easy       |
 | 622  | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue)                                                                         | [javascript](./algorithms/js/622.设计循环队列.js)                                                                      | Medium     |
 | 628  | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)                                                   | [golang](./algorithms/golang/628.三个数的最大乘积.go)                                                                  | Easy       |
