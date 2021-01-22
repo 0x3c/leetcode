@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>5</td><td rowspan=2>8</td>
+	<td>6</td><td rowspan=2>9</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -193,6 +193,7 @@ Leetcode solutions
 | 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings)                                   | [C++](./algorithms/cpp/712.两个字符串的最小ascii删除和.cpp)                                                                                  | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)                                                                   | [C++](./algorithms/cpp/746.使用最小花费爬楼梯.cpp)                                                                                           | Easy       |
 | 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)                 | [javascript](./algorithms/js/762.二进制表示中质数个计算置位.js)                                                                              | Easy       |
+| 771  | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones)                                                                                 | [golang](./algorithms/golang/771.宝石与石头.go)                                                                                              | Easy       |
 | 841  | [Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms)                                                                                       | [C++](./algorithms/cpp/841.钥匙和房间.cpp)                                                                                                   | Medium     |
 | 859  | [Buddy Strings](https://leetcode-cn.com/problems/buddy-strings)                                                                                         | [javascript](./algorithms/js/859.亲密字符串.js)                                                                                              | Easy       |
 | 860  | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change)                                                                                     | [C++](./algorithms/cpp/860.柠檬水找零.cpp), [javascript](./algorithms/js/860.柠檬水找零.js)                                                  | Easy       |
