@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>6</td><td rowspan=2>9</td>
+	<td>6</td><td rowspan=2>10</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>3</td>
+	<td>4</td>
 </tr>
 </tr>
 </tbody>
@@ -153,6 +153,7 @@ Leetcode solutions
 | 312  | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons)                                                                                       | [javascript](./algorithms/js/312.戳气球.js)                                                                                                  | Hard       |
 | 322  | [Coin Change](https://leetcode-cn.com/problems/coin-change)                                                                                             | [C++](./algorithms/cpp/322.零钱兑换.cpp)                                                                                                     | Medium     |
 | 334  | [Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence)                                                       | [C++](./algorithms/cpp/334.递增的三元子序列.cpp)                                                                                             | Medium     |
+| 343  | [Integer Break](https://leetcode-cn.com/problems/integer-break)                                                                                         | [golang](./algorithms/golang/343.整数拆分.go)                                                                                                | Medium     |
 | 345  | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)                                                               | [javascript](./algorithms/js/345.反转字符串中的元音字母.js)                                                                                  | Easy       |
 | 347  | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements)                                                                     | [C++](./algorithms/cpp/347.前K个高频元素.cpp), [javascript](./algorithms/js/347.前-k-个高频元素.js)                                          | Medium     |
 | 349  | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays)                                                               | [javascript](./algorithms/js/349.两个数组的交集.js)                                                                                          | Easy       |
