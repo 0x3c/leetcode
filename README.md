@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>4</td><td rowspan=2>7</td>
+	<td>5</td><td rowspan=2>8</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -206,6 +206,7 @@ Leetcode solutions
 | 950  | [Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)                                                   | [javascript](./algorithms/js/950.按递增顺序显示卡牌.js)                                                                                      | Medium     |
 | 973  | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin)                                                               | [javascript](./algorithms/js/973.最接近原点的-k-个点.js)                                                                                     | Medium     |
 | 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)                                 | [javascript](./algorithms/js/987.二叉树的垂序遍历.js)                                                                                        | Medium     |
+| 989  | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer)                                                           | [golang](./algorithms/golang/989.数组形式的整数加法.go)                                                                                      | Easy       |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters)                                                                       | [C++](./algorithms/cpp/1002.查找常用字符.cpp)                                                                                                | Easy       |
 | 1009 | [Complement of Base 10 Integer](https://leetcode-cn.com/problems/complement-of-base-10-integer)                                                         | [javascript](./algorithms/js/1009.十进制整数的反码.js)                                                                                       | Easy       |
 | 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n)                 | [javascript](./algorithms/js/1016.子串能表示从-1-到-n-数字的二进制串.js)                                                                     | Medium     |
