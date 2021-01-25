@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>6</td><td rowspan=2>10</td>
+	<td>7</td><td rowspan=2>11</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -205,6 +205,7 @@ Leetcode solutions
 | 892  | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)                                                                 | [javascript](./algorithms/js/892.三维形体的表面积.js)                                                                                        | Easy       |
 | 897  | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree)                                                           | [javascript](./algorithms/js/897.递增顺序查找树.js)                                                                                          | Easy       |
 | 901  | [Online Stock Span](https://leetcode-cn.com/problems/online-stock-span)                                                                                 | [javascript](./algorithms/js/901.股票价格跨度.js)                                                                                            | Medium     |
+| 933  | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls)                                                                       | [golang](./algorithms/golang/933.最近的请求次数.go)                                                                                          | Easy       |
 | 950  | [Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)                                                   | [javascript](./algorithms/js/950.按递增顺序显示卡牌.js)                                                                                      | Medium     |
 | 973  | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin)                                                               | [javascript](./algorithms/js/973.最接近原点的-k-个点.js)                                                                                     | Medium     |
 | 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)                                 | [javascript](./algorithms/js/987.二叉树的垂序遍历.js)                                                                                        | Medium     |
