@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>8</td><td rowspan=2>14</td>
+	<td>9</td><td rowspan=2>15</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -167,6 +167,7 @@ Leetcode solutions
 | 392  | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence)                                                                                       | [C++](./algorithms/cpp/392.判断子序列.cpp)                                                                                                   | Easy       |
 | 401  | [Binary Watch](https://leetcode-cn.com/problems/binary-watch)                                                                                           | [javascript](./algorithms/js/401.二进制手表.js)                                                                                              | Easy       |
 | 405  | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)                                                     | [javascript](./algorithms/js/405.数字转换为十六进制数.js)                                                                                    | Easy       |
+| 412  | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)                                                                                                 | [golang](./algorithms/golang/412.fizz-buzz.go)                                                                                               | Easy       |
 | 415  | [Add Strings](https://leetcode-cn.com/problems/add-strings)                                                                                             | [javascript](./algorithms/js/415.字符串相加.js)                                                                                              | Easy       |
 | 429  | [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)                                                   | [C++](./algorithms/cpp/429.n叉树的层序遍历.cpp), [javascript](./algorithms/js/429.n叉树的层序遍历.js)                                        | Medium     |
 | 441  | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins)                                                                                     | [javascript](./algorithms/js/441.排列硬币.js)                                                                                                | Easy       |
