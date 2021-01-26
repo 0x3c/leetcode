@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>8</td><td rowspan=2>13</td>
+	<td>8</td><td rowspan=2>14</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>5</td>
+	<td>6</td>
 </tr>
 </tr>
 </tbody>
@@ -148,6 +148,7 @@ Leetcode solutions
 | 258  | [Add Digits](https://leetcode-cn.com/problems/add-digits)                                                                                               | [C++](./algorithms/cpp/258.各位相加.cpp)                                                                                                     | Easy       |
 | 274  | [H-Index](https://leetcode-cn.com/problems/h-index)                                                                                                     | [javascript](./algorithms/js/274.h指数.js)                                                                                                   | Medium     |
 | 283  | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)                                                                                             | [C++](./algorithms/cpp/283.移动零.cpp), [javascript](./algorithms/js/283.移动零.js)                                                          | Easy       |
+| 287  | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number)                                                                 | [golang](./algorithms/golang/287.寻找重复数.go)                                                                                              | Medium     |
 | 299  | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows)                                                                                       | [C++](./algorithms/cpp/299.猜数字游戏.cpp), [javascript](./algorithms/js/299.猜数字游戏.js), [golang](./algorithms/golang/299.猜数字游戏.go) | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence)                                                       | [C++](./algorithms/cpp/300.最长上升子序列.cpp), [javascript](./algorithms/js/300.最长上升子序列.js)                                          | Medium     |
 | 312  | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons)                                                                                       | [javascript](./algorithms/js/312.戳气球.js)                                                                                                  | Hard       |
