@@ -37,12 +37,12 @@ Leetcode solutions
 </tr>
 </tr><tr>
 	<td rowspan=2>golang</td>
-	<td>Easy</td>
-	<td>9</td><td rowspan=2>15</td>
+	<td>Medium</td>
+	<td>7</td><td rowspan=2>16</td>
 </tr>
 <tr>
-	<td>Medium</td>
-	<td>6</td>
+	<td>Easy</td>
+	<td>9</td>
 </tr>
 </tr>
 </tbody>
@@ -222,6 +222,7 @@ Leetcode solutions
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order)                                                       | [javascript](./algorithms/js/1030.距离顺序排列矩阵单元格.js)                                                                                 | Easy       |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive)                                                     | [javascript](./algorithms/js/1033.移动石子直到连续.js)                                                                                       | Easy       |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings)                                               | [javascript](./algorithms/js/1071.字符串的最大公因子.js)                                                                                     | Easy       |
+| 1079 | [Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities)                                                                 | [golang](./algorithms/golang/1079.活字印刷.go)                                                                                               | Medium     |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)                             | [C++](./algorithms/cpp/1081.不同字符的最小子序列.cpp)                                                                                        | Medium     |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix)                                                       | [C++](./algorithms/cpp/1091.二进制矩阵中的最短路径.cpp)                                                                                      | Medium     |
 | 1094 | [Car Pooling](https://leetcode-cn.com/problems/car-pooling)                                                                                             | [javascript](./algorithms/js/1094.拼车.js)                                                                                                   | Medium     |
