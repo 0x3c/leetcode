@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Easy</td>
-	<td>7</td><td rowspan=2>11</td>
+	<td>7</td><td rowspan=2>12</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>4</td>
+	<td>5</td>
 </tr>
 </tr>
 </tbody>
@@ -160,6 +160,7 @@ Leetcode solutions
 | 350  | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)                                                         | [javascript](./algorithms/js/350.两个数组的交集-ii.js)                                                                                       | Easy       |
 | 367  | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square)                                                                           | [C++](./algorithms/cpp/367.有效的完全平方数.cpp)                                                                                             | Easy       |
 | 376  | [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence)                                                                               | [C++](./algorithms/cpp/376.摆动序列.cpp)                                                                                                     | Medium     |
+| 380  | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)                                                             | [golang](./algorithms/golang/380.常数时间插入、删除和获取随机元素.go)                                                                        | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string)                                               | [C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp)                                                                                     | Easy       |
 | 389  | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference)                                                                             | [C++](./algorithms/cpp/389.找不同.cpp)                                                                                                       | Easy       |
 | 392  | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence)                                                                                       | [C++](./algorithms/cpp/392.判断子序列.cpp)                                                                                                   | Easy       |
