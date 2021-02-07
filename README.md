@@ -29,20 +29,20 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>71</td>
+	<td>70</td>
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>6</td>
+	<td>7</td>
 </tr>
 </tr><tr>
 	<td rowspan=2>golang</td>
 	<td>Medium</td>
-	<td>8</td><td rowspan=2>18</td>
+	<td>8</td><td rowspan=2>19</td>
 </tr>
 <tr>
 	<td>Easy</td>
-	<td>10</td>
+	<td>11</td>
 </tr>
 </tr>
 </tbody>
@@ -206,13 +206,14 @@ Leetcode solutions
 | 868  | [Binary Gap](https://leetcode-cn.com/problems/binary-gap)                                                                                               | [javascript](./algorithms/js/868.二进制间距.js)                                                                                                                | Easy       |
 | 872  | [Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees)                                                                               | [javascript](./algorithms/js/872.叶子相似的树.js)                                                                                                              | Easy       |
 | 874  | [Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation)                                                                   | [C++](./algorithms/cpp/874.模拟行走机器人.cpp)                                                                                                                 | Easy       |
+| 888  | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap)                                                                                     | [golang](./algorithms/golang/888.公平的糖果交换.go)                                                                                                            | Easy       |
 | 892  | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)                                                                 | [javascript](./algorithms/js/892.三维形体的表面积.js)                                                                                                          | Easy       |
 | 897  | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree)                                                           | [javascript](./algorithms/js/897.递增顺序查找树.js)                                                                                                            | Easy       |
 | 901  | [Online Stock Span](https://leetcode-cn.com/problems/online-stock-span)                                                                                 | [javascript](./algorithms/js/901.股票价格跨度.js)                                                                                                              | Medium     |
 | 933  | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls)                                                                       | [golang](./algorithms/golang/933.最近的请求次数.go)                                                                                                            | Easy       |
 | 950  | [Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)                                                   | [javascript](./algorithms/js/950.按递增顺序显示卡牌.js)                                                                                                        | Medium     |
 | 973  | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin)                                                               | [javascript](./algorithms/js/973.最接近原点的-k-个点.js)                                                                                                       | Medium     |
-| 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)                                 | [javascript](./algorithms/js/987.二叉树的垂序遍历.js)                                                                                                          | Medium     |
+| 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)                                 | [javascript](./algorithms/js/987.二叉树的垂序遍历.js)                                                                                                          | Hard       |
 | 989  | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer)                                                           | [golang](./algorithms/golang/989.数组形式的整数加法.go)                                                                                                        | Easy       |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters)                                                                       | [C++](./algorithms/cpp/1002.查找常用字符.cpp)                                                                                                                  | Easy       |
 | 1009 | [Complement of Base 10 Integer](https://leetcode-cn.com/problems/complement-of-base-10-integer)                                                         | [javascript](./algorithms/js/1009.十进制整数的反码.js)                                                                                                         | Easy       |
