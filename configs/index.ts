@@ -10,6 +10,9 @@ export const languages = {
   golang: {
     suffix: ["go"],
   },
+  rust: {
+    suffix: ["rs"],
+  },
 };
 export { default as questions } from "../cache/leetcode.json";
 

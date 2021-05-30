@@ -12,7 +12,7 @@ Leetcode solutions
 <tr>
 	<td rowspan=3>cpp</td>
 	<td>Easy</td>
-	<td>28</td><td rowspan=3>76</td>
+	<td>29</td><td rowspan=3>76</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -20,16 +20,16 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>6</td>
+	<td>5</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>59</td><td rowspan=3>136</td>
+	<td>62</td><td rowspan=3>136</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>70</td>
+	<td>67</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -43,6 +43,11 @@ Leetcode solutions
 <tr>
 	<td>Easy</td>
 	<td>12</td>
+</tr>
+</tr><tr>
+	<td rowspan=1>rust</td>
+	<td>Easy</td>
+	<td>1</td><td rowspan=1>1</td>
 </tr>
 </tr>
 </tbody>
@@ -80,7 +85,7 @@ Leetcode solutions
 | 37   | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver)                                                                                         | [C++](./algorithms/cpp/37.解数独.cpp), [javascript](./algorithms/js/37.解数独.js)                                                                              | Hard       |
 | 39   | [Combination Sum](https://leetcode-cn.com/problems/combination-sum)                                                                                     | [javascript](./algorithms/js/39.组合总和.js)                                                                                                                   | Medium     |
 | 40   | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii)                                                                               | [javascript](./algorithms/js/40.组合总和-ii.js)                                                                                                                | Medium     |
-| 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                           | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp)                                                                                                                     | Hard       |
+| 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                           | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp)                                                                                                                     | Medium     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations)                                                                                           | [javascript](./algorithms/js/46.全排列.js)                                                                                                                     | Medium     |
 | 47   | [Permutations II](https://leetcode-cn.com/problems/permutations-ii)                                                                                     | [javascript](./algorithms/js/47.全排列-ii.js)                                                                                                                  | Medium     |
 | 51   | [N-Queens](https://leetcode-cn.com/problems/n-queens)                                                                                                   | [C++](./algorithms/cpp/51.n-皇后.cpp), [C++](./algorithms/cpp/51.n皇后.cpp), [javascript](./algorithms/js/51.n皇后.js)                                         | Hard       |
@@ -102,7 +107,7 @@ Leetcode solutions
 | 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array)                                                                               | [javascript](./algorithms/js/88.合并两个有序数组.js)                                                                                                           | Easy       |
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii)                                                                                               | [javascript](./algorithms/js/90.子集-ii.js)                                                                                                                    | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii)                                                                       | [javascript](./algorithms/js/92.反转链表-ii.js)                                                                                                                | Medium     |
-| 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                                         | [C++](./algorithms/cpp/94.二叉树的中序遍历.cpp), [javascript](./algorithms/js/94.二叉树的中序遍历.js)                                                          | Medium     |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                                         | [C++](./algorithms/cpp/94.二叉树的中序遍历.cpp), [javascript](./algorithms/js/94.二叉树的中序遍历.js)                                                          | Easy       |
 | 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree)                                                             | [javascript](./algorithms/js/98.验证二叉搜索树.js)                                                                                                             | Medium     |
 | 100  | [Same Tree](https://leetcode-cn.com/problems/same-tree)                                                                                                 | [javascript](./algorithms/js/100.相同的树.js)                                                                                                                  | Easy       |
 | 101  | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree)                                                                                       | [javascript](./algorithms/js/101.对称二叉树.js)                                                                                                                | Easy       |
@@ -124,8 +129,8 @@ Leetcode solutions
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)                                                                                 | [C++](./algorithms/cpp/141.环形链表.cpp), [javascript](./algorithms/js/141.环形链表.js)                                                                        | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii)                                                                           | [C++](./algorithms/cpp/142.环形链表-ii.cpp), [javascript](./algorithms/js/142.环形链表-ii.js)                                                                  | Medium     |
 | 143  | [Reorder List](https://leetcode-cn.com/problems/reorder-list)                                                                                           | [javascript](./algorithms/js/143.重排链表.js)                                                                                                                  | Medium     |
-| 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)                                                       | [javascript](./algorithms/js/144.二叉树的前序遍历.js)                                                                                                          | Medium     |
-| 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)                                                     | [javascript](./algorithms/js/145.二叉树的后序遍历.js)                                                                                                          | Medium     |
+| 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)                                                       | [javascript](./algorithms/js/144.二叉树的前序遍历.js)                                                                                                          | Easy       |
+| 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)                                                     | [javascript](./algorithms/js/145.二叉树的后序遍历.js)                                                                                                          | Easy       |
 | 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                                             | [javascript](./algorithms/js/147.对链表进行插入排序.js)                                                                                                        | Medium     |
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                 | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                  | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                   | [C++](./algorithms/cpp/152.乘积最大子数组.cpp)                                                                                                                 | Medium     |
