@@ -10,12 +10,14 @@ const SOLUTION_DIR_NAME = "algorithms";
 const CPP_DIR_NAME = "cpp";
 const JS_DIR_NAME = "js";
 const GOLANG_DIR_NAME = "golang";
+const RUST_DIR_NAME = "rs";
 
 const leetcodeDir = path.resolve(rootDir, SOLUTION_DIR_NAME);
 
 const CPP_DIR = path.resolve(rootDir, leetcodeDir, CPP_DIR_NAME);
 const JAVASCRIPT_DIR = path.resolve(rootDir, leetcodeDir, JS_DIR_NAME);
 const GOLANG_DIR = path.resolve(rootDir, leetcodeDir, GOLANG_DIR_NAME);
+const RUST_DIR = path.resolve(rootDir, leetcodeDir, RUST_DIR_NAME);
 
 interface SolutionSet {
   title: string;
@@ -45,6 +47,12 @@ const languageConfig = {
     baseDir: GOLANG_DIR,
     relativeDir: `./${SOLUTION_DIR_NAME}/${GOLANG_DIR_NAME}`,
     suffix: ["go"],
+  },
+  rust: {
+    title: "rust",
+    baseDir: RUST_DIR,
+    relativeDir: `./${SOLUTION_DIR_NAME}/${RUST_DIR_NAME}`,
+    suffix: ["rs"],
   },
 };
 
