@@ -47,7 +47,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=1>rust</td>
 	<td>Easy</td>
-	<td>1</td><td rowspan=1>1</td>
+	<td>2</td><td rowspan=1>2</td>
 </tr>
 </tr>
 </tbody>
@@ -98,7 +98,7 @@ Leetcode solutions
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum)                                                                                   | [C++](./algorithms/cpp/64.最小路径和.cpp)                                                                                                                      | Medium     |
 | 66   | [Plus One](https://leetcode-cn.com/problems/plus-one)                                                                                                   | [C++](./algorithms/cpp/66.加一.cpp), [javascript](./algorithms/js/66.加一.js)                                                                                  | Easy       |
 | 67   | [Add Binary](https://leetcode-cn.com/problems/add-binary)                                                                                               | [javascript](./algorithms/js/67.二进制求和.js)                                                                                                                 | Easy       |
-| 70   | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs)                                                                                     | [C++](./algorithms/cpp/70.爬楼梯.cpp), [javascript](./algorithms/js/70.爬楼梯.js)                                                                              | Easy       |
+| 70   | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs)                                                                                     | [C++](./algorithms/cpp/70.爬楼梯.cpp), [javascript](./algorithms/js/70.爬楼梯.js), [rust](./algorithms/rs/70.爬楼梯.rs)                                        | Easy       |
 | 75   | [Sort Colors](https://leetcode-cn.com/problems/sort-colors)                                                                                             | [javascript](./algorithms/js/75.颜色分类.js)                                                                                                                   | Medium     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                                           | [C++](./algorithms/cpp/77.组合.cpp), [javascript](./algorithms/js/77.组合.js)                                                                                  | Medium     |
 | 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                                     | [C++](./algorithms/cpp/78.子集.cpp), [javascript](./algorithms/js/78.子集.js)                                                                                  | Medium     |
