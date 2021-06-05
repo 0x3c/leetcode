@@ -47,7 +47,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=1>rust</td>
 	<td>Easy</td>
-	<td>5</td><td rowspan=1>5</td>
+	<td>6</td><td rowspan=1>6</td>
 </tr>
 </tr>
 </tbody>
@@ -134,6 +134,7 @@ Leetcode solutions
 | 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                                             | [javascript](./algorithms/js/147.对链表进行插入排序.js)                                                                                                        | Medium     |
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                 | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                  | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                   | [C++](./algorithms/cpp/152.乘积最大子数组.cpp)                                                                                                                 | Medium     |
+| 155  | [Min Stack](https://leetcode-cn.com/problems/min-stack)                                                                                                 | [rust](./algorithms/rs/155.最小栈.rs)                                                                                                                          | Easy       |
 | 167  | [Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                                 | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                                                                                                  | Easy       |
 | 169  | [Majority Element](https://leetcode-cn.com/problems/majority-element)                                                                                   | [C++](./algorithms/cpp/169.多数元素.cpp), [javascript](./algorithms/js/169.求众数.js)                                                                          | Easy       |
 | 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                                       | [javascript](./algorithms/js/179.最大数.js)                                                                                                                    | Medium     |
