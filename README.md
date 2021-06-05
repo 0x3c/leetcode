@@ -47,7 +47,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=1>rust</td>
 	<td>Easy</td>
-	<td>4</td><td rowspan=1>4</td>
+	<td>5</td><td rowspan=1>5</td>
 </tr>
 </tr>
 </tbody>
@@ -76,7 +76,7 @@ Leetcode solutions
 | 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)                                                                       | [C++](./algorithms/cpp/21.合并两个有序链表.cpp), [javascript](./algorithms/js/21.合并两个有序链表.js)                                                          | Easy       |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses)                                                                           | [C++](./algorithms/cpp/22.括号生成.cpp), [javascript](./algorithms/js/22.括号生成.js)                                                                          | Medium     |
 | 24   | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs)                                                                             | [C++](./algorithms/cpp/24.两两交换链表中的节点.cpp), [javascript](./algorithms/js/24.两两交换链表中的节点.js)                                                  | Medium     |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)                                             | [javascript](./algorithms/js/26.删除排序数组中的重复项.js)                                                                                                     | Easy       |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)                                             | [javascript](./algorithms/js/26.删除排序数组中的重复项.js), [rust](./algorithms/rs/26.删除有序数组中的重复项.rs)                                               | Easy       |
 | 27   | [Remove Element](https://leetcode-cn.com/problems/remove-element)                                                                                       | [javascript](./algorithms/js/27.移除元素.js)                                                                                                                   | Easy       |
 | 28   | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr)                                                                                 | [javascript](./algorithms/js/28.实现-str-str.js)                                                                                                               | Easy       |
 | 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)                                                                 | [javascript](./algorithms/js/32.最长有效括号.js)                                                                                                               | Hard       |
