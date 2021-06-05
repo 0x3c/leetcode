@@ -47,7 +47,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=1>rust</td>
 	<td>Easy</td>
-	<td>2</td><td rowspan=1>2</td>
+	<td>3</td><td rowspan=1>3</td>
 </tr>
 </tr>
 </tbody>
@@ -152,7 +152,7 @@ Leetcode solutions
 | 242  | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram)                                                                                         | [javascript](./algorithms/js/242.有效的字母异位词.js)                                                                                                          | Easy       |
 | 258  | [Add Digits](https://leetcode-cn.com/problems/add-digits)                                                                                               | [C++](./algorithms/cpp/258.各位相加.cpp)                                                                                                                       | Easy       |
 | 274  | [H-Index](https://leetcode-cn.com/problems/h-index)                                                                                                     | [javascript](./algorithms/js/274.h指数.js)                                                                                                                     | Medium     |
-| 283  | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)                                                                                             | [C++](./algorithms/cpp/283.移动零.cpp), [javascript](./algorithms/js/283.移动零.js)                                                                            | Easy       |
+| 283  | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)                                                                                             | [C++](./algorithms/cpp/283.移动零.cpp), [javascript](./algorithms/js/283.移动零.js), [rust](./algorithms/rs/283.移动零.rs)                                     | Easy       |
 | 287  | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number)                                                                 | [golang](./algorithms/golang/287.寻找重复数.go)                                                                                                                | Medium     |
 | 299  | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows)                                                                                       | [C++](./algorithms/cpp/299.猜数字游戏.cpp), [javascript](./algorithms/js/299.猜数字游戏.js), [golang](./algorithms/golang/299.猜数字游戏.go)                   | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence)                                                       | [C++](./algorithms/cpp/300.最长上升子序列.cpp), [javascript](./algorithms/js/300.最长上升子序列.js)                                                            | Medium     |
