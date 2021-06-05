@@ -47,7 +47,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=1>rust</td>
 	<td>Easy</td>
-	<td>6</td><td rowspan=1>6</td>
+	<td>7</td><td rowspan=1>7</td>
 </tr>
 </tr>
 </tbody>
@@ -72,7 +72,7 @@ Leetcode solutions
 | 16   | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest)                                                                                           | [javascript](./algorithms/js/16.最接近的三数之和.js)                                                                                                           | Medium     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)                                         | [C++](./algorithms/cpp/17.电话号码的字母组合.cpp), [javascript](./algorithms/js/17.电话号码的字母组合.js)                                                      | Medium     |
 | 18   | [4Sum](https://leetcode-cn.com/problems/4sum)                                                                                                           | [C++](./algorithms/cpp/18.四数之和.cpp)                                                                                                                        | Medium     |
-| 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)                                                                                 | [javascript](./algorithms/js/20.有效的括号.js)                                                                                                                 | Easy       |
+| 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)                                                                                 | [javascript](./algorithms/js/20.有效的括号.js), [rust](./algorithms/rs/20.有效的括号.rs)                                                                       | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)                                                                       | [C++](./algorithms/cpp/21.合并两个有序链表.cpp), [javascript](./algorithms/js/21.合并两个有序链表.js)                                                          | Easy       |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses)                                                                           | [C++](./algorithms/cpp/22.括号生成.cpp), [javascript](./algorithms/js/22.括号生成.js)                                                                          | Medium     |
 | 24   | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs)                                                                             | [C++](./algorithms/cpp/24.两两交换链表中的节点.cpp), [javascript](./algorithms/js/24.两两交换链表中的节点.js)                                                  | Medium     |
