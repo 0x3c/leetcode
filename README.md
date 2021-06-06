@@ -45,12 +45,16 @@ Leetcode solutions
 	<td>12</td>
 </tr>
 </tr><tr>
-	<td rowspan=2>rust</td>
+	<td rowspan=3>rust</td>
 	<td>Easy</td>
-	<td>8</td><td rowspan=2>9</td>
+	<td>8</td><td rowspan=3>10</td>
 </tr>
 <tr>
 	<td>Hard</td>
+	<td>1</td>
+</tr>
+<tr>
+	<td>Medium</td>
 	<td>1</td>
 </tr>
 </tr>
@@ -92,6 +96,7 @@ Leetcode solutions
 | 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                           | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp)                                                                                                                     | Medium     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations)                                                                                           | [javascript](./algorithms/js/46.全排列.js)                                                                                                                     | Medium     |
 | 47   | [Permutations II](https://leetcode-cn.com/problems/permutations-ii)                                                                                     | [javascript](./algorithms/js/47.全排列-ii.js)                                                                                                                  | Medium     |
+| 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams)                                                                                       | [rust](./algorithms/rs/49.字母异位词分组.rs)                                                                                                                   | Medium     |
 | 51   | [N-Queens](https://leetcode-cn.com/problems/n-queens)                                                                                                   | [C++](./algorithms/cpp/51.n-皇后.cpp), [C++](./algorithms/cpp/51.n皇后.cpp), [javascript](./algorithms/js/51.n皇后.js)                                         | Hard       |
 | 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                                   | [C++](./algorithms/cpp/53.最大子序和.cpp), [javascript](./algorithms/js/53.最大子序和.js)                                                                      | Easy       |
 | 55   | [Jump Game](https://leetcode-cn.com/problems/jump-game)                                                                                                 | [C++](./algorithms/cpp/55.跳跃游戏.cpp), [javascript](./algorithms/js/55.跳跃游戏.js)                                                                          | Medium     |
