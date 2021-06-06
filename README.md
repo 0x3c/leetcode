@@ -47,7 +47,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=2>rust</td>
 	<td>Easy</td>
-	<td>7</td><td rowspan=2>8</td>
+	<td>8</td><td rowspan=2>9</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -155,7 +155,7 @@ Leetcode solutions
 | 213  | [House Robber II](https://leetcode-cn.com/problems/house-robber-ii)                                                                                     | [C++](./algorithms/cpp/213.打家劫舍-ii.cpp), [javascript](./algorithms/js/213.打家劫舍-ii.js)                                                                  | Medium     |
 | 215  | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)                                                     | [javascript](./algorithms/js/215.数组中的第k个最大元素.js)                                                                                                     | Medium     |
 | 239  | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum)                                                                       | [rust](./algorithms/rs/239.滑动窗口最大值.rs)                                                                                                                  | Hard       |
-| 242  | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram)                                                                                         | [javascript](./algorithms/js/242.有效的字母异位词.js)                                                                                                          | Easy       |
+| 242  | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram)                                                                                         | [javascript](./algorithms/js/242.有效的字母异位词.js), [rust](./algorithms/rs/242.有效的字母异位词.rs)                                                         | Easy       |
 | 258  | [Add Digits](https://leetcode-cn.com/problems/add-digits)                                                                                               | [C++](./algorithms/cpp/258.各位相加.cpp)                                                                                                                       | Easy       |
 | 274  | [H-Index](https://leetcode-cn.com/problems/h-index)                                                                                                     | [javascript](./algorithms/js/274.h指数.js)                                                                                                                     | Medium     |
 | 283  | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)                                                                                             | [C++](./algorithms/cpp/283.移动零.cpp), [javascript](./algorithms/js/283.移动零.js), [rust](./algorithms/rs/283.移动零.rs)                                     | Easy       |
