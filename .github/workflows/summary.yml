@@ -1,0 +1,37 @@
+name: Update README.md
+on: push
+
+jobs:
+  updateReadme:
+    name: upadte readme.md
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@main
+
+    - name: Echo msg
+      env:
+        LAST_NAME: Octocat
+      run: |
+        echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
+    
+    - name: list files
+      run: ls -lah
+
+    - name: npm install
+      run: npm install
+    
+    - name: Create cache file
+      run:  mkdir cache && echo "{}" > ./cache/leetcode.json
+    
+    - name: Update README
+      run: npm run parse
+    
+    - name: git status
+      run: git status
+
+    - name: commit readme.md
+      run: git add README.md && git commit -m "update README.md"
+
+    - name: push
+      run: git push origin test/workflow
