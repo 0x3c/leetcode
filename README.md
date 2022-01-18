@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>19</td><td rowspan=3>34</td>
+	<td>19</td><td rowspan=3>35</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>14</td>
+	<td>15</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -152,7 +152,7 @@ Leetcode solutions
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                                 | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                                                                                                                | Easy       |
 | 169  | [Majority Element](https://leetcode-cn.com/problems/majority-element)                                                                                   | [C++](./algorithms/cpp/169.多数元素.cpp), [javascript](./algorithms/js/169.求众数.js)                                                                                        | Easy       |
 | 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                                       | [javascript](./algorithms/js/179.最大数.js)                                                                                                                                  | Medium     |
-| 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array)                                                                                           | [C++](./algorithms/cpp/189.旋转数组.cpp), [javascript](./algorithms/js/189.旋转数组.js)                                                                                      | Medium     |
+| 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array)                                                                                           | [C++](./algorithms/cpp/189.旋转数组.cpp), [javascript](./algorithms/js/189.旋转数组.js), [golang](./algorithms/golang/189.轮转数组.go)                                       | Medium     |
 | 190  | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits)                                                                                           | [C++](./algorithms/cpp/190.颠倒二进制位.cpp), [javascript](./algorithms/js/190.颠倒二进制位.js)                                                                              | Easy       |
 | 198  | [House Robber](https://leetcode-cn.com/problems/house-robber)                                                                                           | [C++](./algorithms/cpp/198.打家劫舍.cpp), [javascript](./algorithms/js/198.打家劫舍.js)                                                                                      | Medium     |
 | 200  | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands)                                                                                 | [javascript](./algorithms/js/200.岛屿数量.js)                                                                                                                                | Medium     |
