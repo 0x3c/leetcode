@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>18</td><td rowspan=3>33</td>
+	<td>19</td><td rowspan=3>34</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -118,7 +118,7 @@ Leetcode solutions
 | 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                                     | [C++](./algorithms/cpp/78.子集.cpp), [javascript](./algorithms/js/78.子集.js)                                                                                                | Medium     |
 | 79   | [Word Search](https://leetcode-cn.com/problems/word-search)                                                                                             | [C++](./algorithms/cpp/79.单词搜索.cpp), [javascript](./algorithms/js/79.单词搜索.js)                                                                                        | Medium     |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)                                       | [javascript](./algorithms/js/80.删除排序数组中的重复项-ii.js)                                                                                                                | Medium     |
-| 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array)                                                                               | [javascript](./algorithms/js/88.合并两个有序数组.js)                                                                                                                         | Easy       |
+| 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array)                                                                               | [javascript](./algorithms/js/88.合并两个有序数组.js), [golang](./algorithms/golang/88.合并两个有序数组.go)                                                                   | Easy       |
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii)                                                                                               | [javascript](./algorithms/js/90.子集-ii.js)                                                                                                                                  | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii)                                                                       | [javascript](./algorithms/js/92.反转链表-ii.js)                                                                                                                              | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                                         | [C++](./algorithms/cpp/94.二叉树的中序遍历.cpp), [javascript](./algorithms/js/94.二叉树的中序遍历.js)                                                                        | Easy       |
