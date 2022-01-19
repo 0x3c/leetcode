@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>19</td><td rowspan=3>35</td>
+	<td>20</td><td rowspan=3>36</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -85,7 +85,7 @@ Leetcode solutions
 | 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)                                         | [C++](./algorithms/cpp/17.电话号码的字母组合.cpp), [javascript](./algorithms/js/17.电话号码的字母组合.js)                                                                    | Medium     |
 | 18   | [4Sum](https://leetcode-cn.com/problems/4sum)                                                                                                           | [C++](./algorithms/cpp/18.四数之和.cpp)                                                                                                                                      | Medium     |
 | 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)                                                                                 | [javascript](./algorithms/js/20.有效的括号.js), [rust](./algorithms/rs/20.有效的括号.rs)                                                                                     | Easy       |
-| 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)                                                                       | [C++](./algorithms/cpp/21.合并两个有序链表.cpp), [javascript](./algorithms/js/21.合并两个有序链表.js)                                                                        | Easy       |
+| 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)                                                                       | [C++](./algorithms/cpp/21.合并两个有序链表.cpp), [javascript](./algorithms/js/21.合并两个有序链表.js), [golang](./algorithms/golang/21.合并两个有序链表.go)                  | Easy       |
 | 22   | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses)                                                                           | [C++](./algorithms/cpp/22.括号生成.cpp), [javascript](./algorithms/js/22.括号生成.js)                                                                                        | Medium     |
 | 24   | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs)                                                                             | [C++](./algorithms/cpp/24.两两交换链表中的节点.cpp), [javascript](./algorithms/js/24.两两交换链表中的节点.js), [golang](./algorithms/golang/24.两两交换链表中的节点.go)      | Medium     |
 | 25   | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)                                                                   | [golang](./algorithms/golang/25.k-个一组翻转链表.go)                                                                                                                         | Hard       |
