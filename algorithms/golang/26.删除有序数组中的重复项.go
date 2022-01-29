@@ -10,16 +10,16 @@ func removeDuplicates(nums []int) int {
 	if size < 2 {
 		return size
 	}
-	cur := 0
-	for index := 1; index < size; index++ {
-		if nums[index] == nums[cur] {
+	n := 1
+	for i := 1; i < size; i++ {
+		if nums[i] == nums[n-1] {
 			continue
+		} else {
+			nums[n] = nums[i]
+			n++
 		}
-		cur++
-		nums[cur], nums[index] = nums[index], nums[cur]
-
 	}
-	return cur + 1
+	return n
 }
 
 // @lc code=end

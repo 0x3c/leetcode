@@ -6,12 +6,10 @@
 
 // @lc code=start
 func moveZeroes(nums []int) {
-	for i, j, size := 0, 0, 0; i+size < len(nums); j++ {
-		if nums[j] != 0 {
-			nums[i], nums[j] = nums[j], nums[i]
-			i++
-		} else {
-			size++
+	for p, i := 0, 0; i < len(nums); i++ {
+		if nums[i] != 0 {
+			nums[i], nums[p] = nums[p], nums[i]
+			p++
 		}
 	}
 }

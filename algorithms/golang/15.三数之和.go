@@ -29,14 +29,14 @@ func threeSum(nums []int) [][]int {
 				// 找到答案后继续寻找并去重
 				// 如 当i=0, nums[i]=-3时, [-3,-2,-1,0,1,2,3,4,5]
 				// 有四组答案
-				for right-1 > left && nums[right-1] == nums[right] {
-					right--
-				}
-				for left+1 < right && nums[left+1] == nums[left] {
-					left++
-				}
 				left++
 				right--
+				for left < right && nums[right-1] == nums[right] {
+					right--
+				}
+				for left < right && nums[left+1] == nums[left] {
+					left++
+				}
 			}
 		}
 	}

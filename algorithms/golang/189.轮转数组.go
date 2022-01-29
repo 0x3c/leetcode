@@ -21,19 +21,19 @@ func rotate_1(nums []int, k int) {
 // @lc code=start
 // 2. 翻转数组
 //    时间复杂度 O(n)，空间复杂度O(1)。
-func reserve(nums []int, from, to int) {
-	for i, j := from, to; i < j; {
-		nums[i], nums[j] = nums[j], nums[i]
-		i++
-		j--
+func reverse(nums []int, start, end int) {
+	for start < end {
+		nums[start], nums[end] = nums[end], nums[start]
+		start++
+		end--
 	}
 }
 func rotate(nums []int, k int) {
 	size := len(nums)
 	k = k % size
-	reserve(nums, 0, size-1)
-	reserve(nums, 0, k-1)
-	reserve(nums, k, size-1)
+	reverse(nums, 0, size-1)
+	reverse(nums, 0, k-1)
+	reverse(nums, k, size-1)
 }
 
 // @lc code=end

@@ -18,18 +18,12 @@ func merge_1(nums1 []int, m int, nums2 []int, n int) {
 	arr := make([]int, m+n)
 
 	for i, j := 0, 0; i < m || j < n; {
-		if i == m {
+		if i == m || j != n && nums1[i] > nums2[j] {
 			arr[i+j] = nums2[j]
 			j++
-		} else if j == n {
-			arr[i+j] = nums1[i]
-			i++
-		} else if nums1[i] < nums2[j] {
-			arr[i+j] = nums1[i]
-			i++
 		} else {
-			arr[i+j] = nums2[j]
-			j++
+			arr[i+j] = nums1[i]
+			i++
 		}
 
 	}
@@ -43,18 +37,12 @@ func merge_1(nums1 []int, m int, nums2 []int, n int) {
 //    时间复杂度 O(m+n), 空间复杂度 O(1)
 func merge(nums1 []int, m int, nums2 []int, n int) {
 	for i, j := m-1, n-1; i > -1 || j > -1; {
-		if i == -1 {
+		if i == -1 || j != -1 && nums1[i] < nums2[j] {
 			nums1[i+j+1] = nums2[j]
 			j--
-		} else if j == -1 {
-			nums1[i+j+1] = nums1[i]
-			i--
-		} else if nums1[i] > nums2[j] {
-			nums1[i+j+1] = nums1[i]
-			i--
 		} else {
-			nums1[i+j+1] = nums2[j]
-			j--
+			nums1[i+j+1] = nums1[i]
+			i--
 		}
 	}
 }
