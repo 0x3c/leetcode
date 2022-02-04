@@ -25,11 +25,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>59</td><td rowspan=3>136</td>
+	<td>58</td><td rowspan=3>136</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>70</td>
+	<td>71</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>22</td><td rowspan=3>38</td>
+	<td>22</td><td rowspan=3>39</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -46,7 +46,7 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>1</td>
+	<td>2</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>rust</td>
@@ -118,6 +118,7 @@ Leetcode solutions
 | 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                                     | [C++](./algorithms/cpp/78.子集.cpp), [javascript](./algorithms/js/78.子集.js)                                                                                                | Medium     |
 | 79   | [Word Search](https://leetcode-cn.com/problems/word-search)                                                                                             | [C++](./algorithms/cpp/79.单词搜索.cpp), [javascript](./algorithms/js/79.单词搜索.js)                                                                                        | Medium     |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)                                       | [javascript](./algorithms/js/80.删除排序数组中的重复项-ii.js)                                                                                                                | Medium     |
+| 84   | [Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram)                                                       | [golang](./algorithms/golang/84.柱状图中最大的矩形.go)                                                                                                                       | Hard       |
 | 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array)                                                                               | [javascript](./algorithms/js/88.合并两个有序数组.js), [golang](./algorithms/golang/88.合并两个有序数组.go)                                                                   | Easy       |
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii)                                                                                               | [javascript](./algorithms/js/90.子集-ii.js)                                                                                                                                  | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii)                                                                       | [javascript](./algorithms/js/92.反转链表-ii.js)                                                                                                                              | Medium     |
@@ -149,7 +150,7 @@ Leetcode solutions
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                 | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                                | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                   | [C++](./algorithms/cpp/152.乘积最大子数组.cpp)                                                                                                                               | Medium     |
 | 155  | [Min Stack](https://leetcode-cn.com/problems/min-stack)                                                                                                 | [golang](./algorithms/golang/155.最小栈.go), [rust](./algorithms/rs/155.最小栈.rs)                                                                                           | Easy       |
-| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                                 | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                                                                                                                | Easy       |
+| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                                 | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                                                                                                                | Medium     |
 | 169  | [Majority Element](https://leetcode-cn.com/problems/majority-element)                                                                                   | [C++](./algorithms/cpp/169.多数元素.cpp), [javascript](./algorithms/js/169.求众数.js)                                                                                        | Easy       |
 | 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                                       | [javascript](./algorithms/js/179.最大数.js)                                                                                                                                  | Medium     |
 | 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array)                                                                                           | [C++](./algorithms/cpp/189.旋转数组.cpp), [javascript](./algorithms/js/189.旋转数组.js), [golang](./algorithms/golang/189.轮转数组.go)                                       | Medium     |
