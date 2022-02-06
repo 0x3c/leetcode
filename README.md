@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>27</td><td rowspan=3>46</td>
+	<td>27</td><td rowspan=3>47</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>16</td>
+	<td>17</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -191,7 +191,7 @@ Leetcode solutions
 | 405  | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)                                                     | [javascript](./algorithms/js/405.数字转换为十六进制数.js)                                                                                                                    | Easy       |
 | 412  | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)                                                                                                 | [golang](./algorithms/golang/412.fizz-buzz.go)                                                                                                                               | Easy       |
 | 415  | [Add Strings](https://leetcode-cn.com/problems/add-strings)                                                                                             | [javascript](./algorithms/js/415.字符串相加.js)                                                                                                                              | Easy       |
-| 429  | [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)                                                   | [C++](./algorithms/cpp/429.n叉树的层序遍历.cpp), [javascript](./algorithms/js/429.n叉树的层序遍历.js)                                                                        | Medium     |
+| 429  | [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)                                                   | [C++](./algorithms/cpp/429.n叉树的层序遍历.cpp), [javascript](./algorithms/js/429.n叉树的层序遍历.js), [golang](./algorithms/golang/429.n-叉树的层序遍历.go)                 | Medium     |
 | 441  | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins)                                                                                     | [javascript](./algorithms/js/441.排列硬币.js)                                                                                                                                | Easy       |
 | 459  | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern)                                                               | [C++](./algorithms/cpp/459.重复的子字符串.cpp), [javascript](./algorithms/js/459.重复的子字符串.js)                                                                          | Easy       |
 | 491  | [Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences)                                                                     | [C++](./algorithms/cpp/491.递增子序列.cpp)                                                                                                                                   | Medium     |
