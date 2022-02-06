@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>23</td><td rowspan=3>42</td>
+	<td>24</td><td rowspan=3>43</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -122,7 +122,7 @@ Leetcode solutions
 | 88   | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array)                                                                               | [javascript](./algorithms/js/88.合并两个有序数组.js), [golang](./algorithms/golang/88.合并两个有序数组.go)                                                                   | Easy       |
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii)                                                                                               | [javascript](./algorithms/js/90.子集-ii.js)                                                                                                                                  | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii)                                                                       | [javascript](./algorithms/js/92.反转链表-ii.js)                                                                                                                              | Medium     |
-| 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                                         | [C++](./algorithms/cpp/94.二叉树的中序遍历.cpp), [javascript](./algorithms/js/94.二叉树的中序遍历.js)                                                                        | Easy       |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                                         | [C++](./algorithms/cpp/94.二叉树的中序遍历.cpp), [javascript](./algorithms/js/94.二叉树的中序遍历.js), [golang](./algorithms/golang/94.二叉树的中序遍历.go)                  | Easy       |
 | 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree)                                                             | [javascript](./algorithms/js/98.验证二叉搜索树.js)                                                                                                                           | Medium     |
 | 100  | [Same Tree](https://leetcode-cn.com/problems/same-tree)                                                                                                 | [javascript](./algorithms/js/100.相同的树.js)                                                                                                                                | Easy       |
 | 101  | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree)                                                                                       | [javascript](./algorithms/js/101.对称二叉树.js)                                                                                                                              | Easy       |
