@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>25</td><td rowspan=3>44</td>
+	<td>26</td><td rowspan=3>45</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -202,6 +202,7 @@ Leetcode solutions
 | 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                             | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                                                                          | Medium     |
 | 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                         | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp), [golang](./algorithms/golang/557.反转字符串中的单词-iii.go)                                                          | Easy       |
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                               | [javascript](./algorithms/js/575.分糖果.js)                                                                                                                                  | Easy       |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)                                                       | [golang](./algorithms/golang/590.n-叉树的后序遍历.go)                                                                                                                        | Easy       |
 | 622  | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue)                                                                         | [javascript](./algorithms/js/622.设计循环队列.js)                                                                                                                            | Medium     |
 | 628  | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)                                                   | [golang](./algorithms/golang/628.三个数的最大乘积.go)                                                                                                                        | Easy       |
 | 633  | [Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)                                                                         | [javascript](./algorithms/js/633.平方数之和.js)                                                                                                                              | Medium     |
