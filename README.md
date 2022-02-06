@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>24</td><td rowspan=3>43</td>
+	<td>25</td><td rowspan=3>44</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -144,7 +144,7 @@ Leetcode solutions
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)                                                                                 | [C++](./algorithms/cpp/141.环形链表.cpp), [javascript](./algorithms/js/141.环形链表.js), [golang](./algorithms/golang/141.环形链表.go)                                       | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii)                                                                           | [C++](./algorithms/cpp/142.环形链表-ii.cpp), [javascript](./algorithms/js/142.环形链表-ii.js), [golang](./algorithms/golang/142.环形链表-ii.go)                              | Medium     |
 | 143  | [Reorder List](https://leetcode-cn.com/problems/reorder-list)                                                                                           | [javascript](./algorithms/js/143.重排链表.js)                                                                                                                                | Medium     |
-| 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)                                                       | [javascript](./algorithms/js/144.二叉树的前序遍历.js)                                                                                                                        | Easy       |
+| 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)                                                       | [javascript](./algorithms/js/144.二叉树的前序遍历.js), [golang](./algorithms/golang/144.二叉树的前序遍历.go)                                                                 | Easy       |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)                                                     | [javascript](./algorithms/js/145.二叉树的后序遍历.js)                                                                                                                        | Easy       |
 | 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                                             | [javascript](./algorithms/js/147.对链表进行插入排序.js)                                                                                                                      | Medium     |
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                 | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                                | Medium     |
