@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>27</td><td rowspan=3>47</td>
+	<td>27</td><td rowspan=3>48</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>17</td>
+	<td>18</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -258,3 +258,4 @@ Leetcode solutions
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs)                                                 | [golang](./algorithms/golang/1128.等价多米诺骨牌对的数量.go)                                                                                                                 | Easy       |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)                                                               | [C++](./algorithms/cpp/1143.最长公共子序列.cpp), [javascript](./algorithms/js/1143.最长公共子序列.js)                                                                        | Medium     |
 | 1232 | [Check If It Is a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)                                                       | [golang](./algorithms/golang/1232.缀点成线.go)                                                                                                                               | Easy       |
+| 1405 | [Longest Happy String](https://leetcode-cn.com/problems/longest-happy-string)                                                                           | [golang](./algorithms/golang/1405.最长快乐字符串.go)                                                                                                                         | Medium     |
