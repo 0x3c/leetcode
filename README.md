@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>27</td><td rowspan=3>49</td>
+	<td>28</td><td rowspan=3>50</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -165,6 +165,7 @@ Leetcode solutions
 | 212  | [Word Search II](https://leetcode-cn.com/problems/word-search-ii)                                                                                       | [C++](./algorithms/cpp/212.单词搜索-ii.cpp)                                                                                                                                  | Hard       |
 | 213  | [House Robber II](https://leetcode-cn.com/problems/house-robber-ii)                                                                                     | [C++](./algorithms/cpp/213.打家劫舍-ii.cpp), [javascript](./algorithms/js/213.打家劫舍-ii.js)                                                                                | Medium     |
 | 215  | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)                                                     | [javascript](./algorithms/js/215.数组中的第k个最大元素.js)                                                                                                                   | Medium     |
+| 226  | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree)                                                                               | [golang](./algorithms/golang/226.翻转二叉树.go)                                                                                                                              | Easy       |
 | 239  | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum)                                                                       | [golang](./algorithms/golang/239.滑动窗口最大值.go), [rust](./algorithms/rs/239.滑动窗口最大值.rs)                                                                           | Hard       |
 | 242  | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram)                                                                                         | [javascript](./algorithms/js/242.有效的字母异位词.js), [golang](./algorithms/golang/242.有效的字母异位词.go), [rust](./algorithms/rs/242.有效的字母异位词.rs)                | Easy       |
 | 258  | [Add Digits](https://leetcode-cn.com/problems/add-digits)                                                                                               | [C++](./algorithms/cpp/258.各位相加.cpp)                                                                                                                                     | Easy       |
