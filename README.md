@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>29</td><td rowspan=3>51</td>
+	<td>29</td><td rowspan=3>52</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>19</td>
+	<td>20</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -123,7 +123,7 @@ Leetcode solutions
 | 90   | [Subsets II](https://leetcode-cn.com/problems/subsets-ii)                                                                                               | [javascript](./algorithms/js/90.子集-ii.js)                                                                                                                                  | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii)                                                                       | [javascript](./algorithms/js/92.反转链表-ii.js)                                                                                                                              | Medium     |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)                                                         | [C++](./algorithms/cpp/94.二叉树的中序遍历.cpp), [javascript](./algorithms/js/94.二叉树的中序遍历.js), [golang](./algorithms/golang/94.二叉树的中序遍历.go)                  | Easy       |
-| 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree)                                                             | [javascript](./algorithms/js/98.验证二叉搜索树.js)                                                                                                                           | Medium     |
+| 98   | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree)                                                             | [javascript](./algorithms/js/98.验证二叉搜索树.js), [golang](./algorithms/golang/98.验证二叉搜索树.go)                                                                       | Medium     |
 | 100  | [Same Tree](https://leetcode-cn.com/problems/same-tree)                                                                                                 | [javascript](./algorithms/js/100.相同的树.js)                                                                                                                                | Easy       |
 | 101  | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree)                                                                                       | [javascript](./algorithms/js/101.对称二叉树.js)                                                                                                                              | Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)                                                 | [C++](./algorithms/cpp/102.二叉树的层次遍历.cpp), [javascript](./algorithms/js/102.二叉树的层次遍历.js), [golang](./algorithms/golang/102.二叉树的层序遍历.go)               | Medium     |
