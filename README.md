@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>28</td><td rowspan=3>50</td>
+	<td>29</td><td rowspan=3>51</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -260,3 +260,4 @@ Leetcode solutions
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)                                                               | [C++](./algorithms/cpp/1143.最长公共子序列.cpp), [javascript](./algorithms/js/1143.最长公共子序列.js)                                                                        | Medium     |
 | 1232 | [Check If It Is a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)                                                       | [golang](./algorithms/golang/1232.缀点成线.go)                                                                                                                               | Easy       |
 | 1405 | [Longest Happy String](https://leetcode-cn.com/problems/longest-happy-string)                                                                           | [golang](./algorithms/golang/1405.最长快乐字符串.go)                                                                                                                         | Medium     |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [golang](./algorithms/golang/1984.学生分数的最小差值.go)                                                                                                                     | Easy       |
