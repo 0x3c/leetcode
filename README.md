@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>30</td><td rowspan=3>53</td>
+	<td>31</td><td rowspan=3>54</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -131,7 +131,7 @@ Leetcode solutions
 | 104  | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)                                                           | [javascript](./algorithms/js/104.二叉树的最大深度.js), [golang](./algorithms/golang/104.二叉树的最大深度.go)                                                                 | Easy       |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C++](./algorithms/cpp/105.从前序与中序遍历序列构造二叉树.cpp)                                                                                                               | Medium     |
 | 110  | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree)                                                                           | [C++](./algorithms/cpp/110.平衡二叉树.cpp), [javascript](./algorithms/js/110.平衡二叉树.js)                                                                                  | Easy       |
-| 111  | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)                                                           | [C++](./algorithms/cpp/111.二叉树的最小深度.cpp)                                                                                                                             | Easy       |
+| 111  | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)                                                           | [C++](./algorithms/cpp/111.二叉树的最小深度.cpp), [golang](./algorithms/golang/111.二叉树的最小深度.go)                                                                      | Easy       |
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)                                               | [C++](./algorithms/cpp/114.二叉树展开为链表.cpp), [javascript](./algorithms/js/114.二叉树展开为链表.js)                                                                      | Medium     |
 | 118  | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle)                                                                                  | [javascript](./algorithms/js/118.杨辉三角.js)                                                                                                                                | Easy       |
 | 119  | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii)                                                                            | [javascript](./algorithms/js/119.杨辉三角-ii.js)                                                                                                                             | Easy       |
