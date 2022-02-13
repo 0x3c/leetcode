@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>29</td><td rowspan=3>52</td>
+	<td>30</td><td rowspan=3>53</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -128,7 +128,7 @@ Leetcode solutions
 | 101  | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree)                                                                                       | [javascript](./algorithms/js/101.对称二叉树.js)                                                                                                                              | Easy       |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)                                                 | [C++](./algorithms/cpp/102.二叉树的层次遍历.cpp), [javascript](./algorithms/js/102.二叉树的层次遍历.js), [golang](./algorithms/golang/102.二叉树的层序遍历.go)               | Medium     |
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)                                   | [javascript](./algorithms/js/103.二叉树的锯齿形层次遍历.js)                                                                                                                  | Medium     |
-| 104  | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)                                                           | [javascript](./algorithms/js/104.二叉树的最大深度.js)                                                                                                                        | Easy       |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)                                                           | [javascript](./algorithms/js/104.二叉树的最大深度.js), [golang](./algorithms/golang/104.二叉树的最大深度.go)                                                                 | Easy       |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C++](./algorithms/cpp/105.从前序与中序遍历序列构造二叉树.cpp)                                                                                                               | Medium     |
 | 110  | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree)                                                                           | [C++](./algorithms/cpp/110.平衡二叉树.cpp), [javascript](./algorithms/js/110.平衡二叉树.js)                                                                                  | Easy       |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)                                                           | [C++](./algorithms/cpp/111.二叉树的最小深度.cpp)                                                                                                                             | Easy       |
