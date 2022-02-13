@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>31</td><td rowspan=3>54</td>
+	<td>31</td><td rowspan=3>55</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>20</td>
+	<td>21</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -114,7 +114,7 @@ Leetcode solutions
 | 67   | [Add Binary](https://leetcode-cn.com/problems/add-binary)                                                                                               | [javascript](./algorithms/js/67.二进制求和.js)                                                                                                                               | Easy       |
 | 70   | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs)                                                                                     | [C++](./algorithms/cpp/70.爬楼梯.cpp), [javascript](./algorithms/js/70.爬楼梯.js), [golang](./algorithms/golang/70.爬楼梯.go), [rust](./algorithms/rs/70.爬楼梯.rs)          | Easy       |
 | 75   | [Sort Colors](https://leetcode-cn.com/problems/sort-colors)                                                                                             | [javascript](./algorithms/js/75.颜色分类.js)                                                                                                                                 | Medium     |
-| 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                                           | [C++](./algorithms/cpp/77.组合.cpp), [javascript](./algorithms/js/77.组合.js)                                                                                                | Medium     |
+| 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                                           | [C++](./algorithms/cpp/77.组合.cpp), [javascript](./algorithms/js/77.组合.js), [golang](./algorithms/golang/77.组合.go)                                                      | Medium     |
 | 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                                     | [C++](./algorithms/cpp/78.子集.cpp), [javascript](./algorithms/js/78.子集.js)                                                                                                | Medium     |
 | 79   | [Word Search](https://leetcode-cn.com/problems/word-search)                                                                                             | [C++](./algorithms/cpp/79.单词搜索.cpp), [javascript](./algorithms/js/79.单词搜索.js)                                                                                        | Medium     |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)                                       | [javascript](./algorithms/js/80.删除排序数组中的重复项-ii.js)                                                                                                                | Medium     |
