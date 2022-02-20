@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>31</td><td rowspan=3>55</td>
+	<td>32</td><td rowspan=3>56</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -221,6 +221,7 @@ Leetcode solutions
 | 704  | [Binary Search](https://leetcode-cn.com/problems/binary-search)                                                                                         | [javascript](./algorithms/js/704.二分查找.js)                                                                                                                                | Easy       |
 | 709  | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case)                                                                                         | [javascript](./algorithms/js/709.转换成小写字母.js)                                                                                                                          | Easy       |
 | 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings)                                   | [C++](./algorithms/cpp/712.两个字符串的最小ascii删除和.cpp)                                                                                                                  | Medium     |
+| 717  | [1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)                                                               | [golang](./algorithms/golang/717.1-比特与-2-比特字符.go)                                                                                                                     | Easy       |
 | 724  | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index)                                                                                   | [golang](./algorithms/golang/724.寻找数组的中心索引.go)                                                                                                                      | Easy       |
 | 746  | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)                                                                   | [C++](./algorithms/cpp/746.使用最小花费爬楼梯.cpp)                                                                                                                           | Easy       |
 | 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)                 | [javascript](./algorithms/js/762.二进制表示中质数个计算置位.js)                                                                                                              | Easy       |
