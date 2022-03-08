@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>32</td><td rowspan=3>58</td>
+	<td>32</td><td rowspan=3>59</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>23</td>
+	<td>24</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -116,7 +116,7 @@ Leetcode solutions
 | 70   | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs)                                                                                     | [C++](./algorithms/cpp/70.爬楼梯.cpp), [javascript](./algorithms/js/70.爬楼梯.js), [golang](./algorithms/golang/70.爬楼梯.go), [rust](./algorithms/rs/70.爬楼梯.rs)          | Easy       |
 | 75   | [Sort Colors](https://leetcode-cn.com/problems/sort-colors)                                                                                             | [javascript](./algorithms/js/75.颜色分类.js)                                                                                                                                 | Medium     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                                           | [C++](./algorithms/cpp/77.组合.cpp), [javascript](./algorithms/js/77.组合.js), [golang](./algorithms/golang/77.组合.go)                                                      | Medium     |
-| 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                                     | [C++](./algorithms/cpp/78.子集.cpp), [javascript](./algorithms/js/78.子集.js)                                                                                                | Medium     |
+| 78   | [Subsets](https://leetcode-cn.com/problems/subsets)                                                                                                     | [C++](./algorithms/cpp/78.子集.cpp), [javascript](./algorithms/js/78.子集.js), [golang](./algorithms/golang/78.子集.go)                                                      | Medium     |
 | 79   | [Word Search](https://leetcode-cn.com/problems/word-search)                                                                                             | [C++](./algorithms/cpp/79.单词搜索.cpp), [javascript](./algorithms/js/79.单词搜索.js)                                                                                        | Medium     |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)                                       | [javascript](./algorithms/js/80.删除排序数组中的重复项-ii.js)                                                                                                                | Medium     |
 | 84   | [Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram)                                                       | [golang](./algorithms/golang/84.柱状图中最大的矩形.go)                                                                                                                       | Hard       |
