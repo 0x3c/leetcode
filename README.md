@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>32</td><td rowspan=3>59</td>
+	<td>33</td><td rowspan=3>60</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -206,6 +206,7 @@ Leetcode solutions
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                               | [javascript](./algorithms/js/575.分糖果.js)                                                                                                                                  | Easy       |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)                                                         | [golang](./algorithms/golang/589.n-叉树的前序遍历.go)                                                                                                                        | Easy       |
 | 590  | [N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)                                                       | [golang](./algorithms/golang/590.n-叉树的后序遍历.go)                                                                                                                        | Easy       |
+| 599  | [Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)                                                       | [golang](./algorithms/golang/599.两个列表的最小索引总和.go)                                                                                                                  | Easy       |
 | 622  | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue)                                                                         | [javascript](./algorithms/js/622.设计循环队列.js)                                                                                                                            | Medium     |
 | 628  | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)                                                   | [golang](./algorithms/golang/628.三个数的最大乘积.go)                                                                                                                        | Easy       |
 | 633  | [Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)                                                                         | [javascript](./algorithms/js/633.平方数之和.js)                                                                                                                              | Medium     |
