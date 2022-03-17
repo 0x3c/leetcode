@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>33</td><td rowspan=3>60</td>
+	<td>34</td><td rowspan=3>61</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -152,7 +152,7 @@ Leetcode solutions
 | 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                   | [C++](./algorithms/cpp/152.乘积最大子数组.cpp)                                                                                                                               | Medium     |
 | 155  | [Min Stack](https://leetcode-cn.com/problems/min-stack)                                                                                                 | [golang](./algorithms/golang/155.最小栈.go), [rust](./algorithms/rs/155.最小栈.rs)                                                                                           | Easy       |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                                 | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                                                                                                                | Medium     |
-| 169  | [Majority Element](https://leetcode-cn.com/problems/majority-element)                                                                                   | [C++](./algorithms/cpp/169.多数元素.cpp), [javascript](./algorithms/js/169.求众数.js)                                                                                        | Easy       |
+| 169  | [Majority Element](https://leetcode-cn.com/problems/majority-element)                                                                                   | [C++](./algorithms/cpp/169.多数元素.cpp), [javascript](./algorithms/js/169.求众数.js), [golang](./algorithms/golang/169.多数元素.go)                                         | Easy       |
 | 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                                       | [javascript](./algorithms/js/179.最大数.js)                                                                                                                                  | Medium     |
 | 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array)                                                                                           | [C++](./algorithms/cpp/189.旋转数组.cpp), [javascript](./algorithms/js/189.旋转数组.js), [golang](./algorithms/golang/189.轮转数组.go)                                       | Medium     |
 | 190  | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits)                                                                                           | [C++](./algorithms/cpp/190.颠倒二进制位.cpp), [javascript](./algorithms/js/190.颠倒二进制位.js)                                                                              | Easy       |
