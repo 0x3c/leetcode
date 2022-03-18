@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>34</td><td rowspan=3>61</td>
+	<td>34</td><td rowspan=3>62</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>24</td>
+	<td>25</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -82,7 +82,7 @@ Leetcode solutions
 | 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix)                                                                         | [C++](./algorithms/cpp/14.最长公共前缀.cpp), [javascript](./algorithms/js/14.最长公共前缀.js)                                                                                | Easy       |
 | 15   | [3Sum](https://leetcode-cn.com/problems/3sum)                                                                                                           | [javascript](./algorithms/js/15.三数之和.js), [golang](./algorithms/golang/15.三数之和.go)                                                                                   | Medium     |
 | 16   | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest)                                                                                           | [javascript](./algorithms/js/16.最接近的三数之和.js)                                                                                                                         | Medium     |
-| 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)                                         | [C++](./algorithms/cpp/17.电话号码的字母组合.cpp), [javascript](./algorithms/js/17.电话号码的字母组合.js)                                                                    | Medium     |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)                                         | [C++](./algorithms/cpp/17.电话号码的字母组合.cpp), [javascript](./algorithms/js/17.电话号码的字母组合.js), [golang](./algorithms/golang/17.电话号码的字母组合.go)            | Medium     |
 | 18   | [4Sum](https://leetcode-cn.com/problems/4sum)                                                                                                           | [C++](./algorithms/cpp/18.四数之和.cpp)                                                                                                                                      | Medium     |
 | 20   | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)                                                                                 | [javascript](./algorithms/js/20.有效的括号.js), [golang](./algorithms/golang/20.有效的括号.go), [rust](./algorithms/rs/20.有效的括号.rs)                                     | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)                                                                       | [C++](./algorithms/cpp/21.合并两个有序链表.cpp), [javascript](./algorithms/js/21.合并两个有序链表.js), [golang](./algorithms/golang/21.合并两个有序链表.go)                  | Easy       |
