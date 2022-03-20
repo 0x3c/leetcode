@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>34</td><td rowspan=3>64</td>
+	<td>34</td><td rowspan=3>65</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>26</td>
+	<td>27</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -200,6 +200,7 @@ Leetcode solutions
 | 491  | [Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences)                                                                     | [C++](./algorithms/cpp/491.递增子序列.cpp)                                                                                                                                   | Medium     |
 | 504  | [Base 7](https://leetcode-cn.com/problems/base-7)                                                                                                       | [javascript](./algorithms/js/504.七进制数.js)                                                                                                                                | Easy       |
 | 509  | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number)                                                                                   | [javascript](./algorithms/js/509.斐波那契数.js)                                                                                                                              | Easy       |
+| 515  | [Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)                                             | [golang](./algorithms/golang/515.在每个树行中找最大值.go)                                                                                                                    | Medium     |
 | 528  | [Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight)                                                                     | [golang](./algorithms/golang/528.按权重随机选择.go)                                                                                                                          | Medium     |
 | 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                             | [C++](./algorithms/cpp/529.扫雷游戏.cpp)                                                                                                                                     | Medium     |
 | 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                             | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                                                                          | Medium     |
