@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>35</td><td rowspan=3>70</td>
+	<td>35</td><td rowspan=3>71</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>29</td>
+	<td>30</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -204,7 +204,7 @@ Leetcode solutions
 | 509  | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number)                                                                                     | [javascript](./algorithms/js/509.斐波那契数.js)                                                                                                                              | Easy       |
 | 515  | [Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)                                               | [golang](./algorithms/golang/515.在每个树行中找最大值.go)                                                                                                                    | Medium     |
 | 528  | [Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight)                                                                       | [golang](./algorithms/golang/528.按权重随机选择.go)                                                                                                                          | Medium     |
-| 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                               | [C++](./algorithms/cpp/529.扫雷游戏.cpp)                                                                                                                                     | Medium     |
+| 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                               | [C++](./algorithms/cpp/529.扫雷游戏.cpp), [golang](./algorithms/golang/529.扫雷游戏.go)                                                                                      | Medium     |
 | 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                               | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js)                                                                                          | Medium     |
 | 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                           | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp), [golang](./algorithms/golang/557.反转字符串中的单词-iii.go)                                                          | Easy       |
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                                 | [javascript](./algorithms/js/575.分糖果.js)                                                                                                                                  | Easy       |
