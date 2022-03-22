@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>35</td><td rowspan=3>68</td>
+	<td>35</td><td rowspan=3>69</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -46,7 +46,7 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>5</td>
+	<td>6</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>rust</td>
@@ -140,6 +140,7 @@ Leetcode solutions
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)                                                       | [C++](./algorithms/cpp/121.买卖股票的最佳时机.cpp)                                                                                                                           | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)                                                 | [C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp), [javascript](./algorithms/js/122.买卖股票的最佳时机-ii.js)                                                            | Medium     |
 | 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                                     | [javascript](./algorithms/js/125.验证回文串.js)                                                                                                                              | Easy       |
+| 126  | [Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii)                                                                                         | [golang](./algorithms/golang/126.单词接龙-ii.go)                                                                                                                             | Hard       |
 | 127  | [Word Ladder](https://leetcode-cn.com/problems/word-ladder)                                                                                               | [C++](./algorithms/cpp/127.单词接龙.cpp), [golang](./algorithms/golang/127.单词接龙.go)                                                                                      | Hard       |
 | 139  | [Word Break](https://leetcode-cn.com/problems/word-break)                                                                                                 | [javascript](./algorithms/js/139.单词拆分.js)                                                                                                                                | Medium     |
 | 141  | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)                                                                                   | [C++](./algorithms/cpp/141.环形链表.cpp), [javascript](./algorithms/js/141.环形链表.js), [golang](./algorithms/golang/141.环形链表.go)                                       | Easy       |
