@@ -1,3 +1,4 @@
+
 /*
  * @lc app=leetcode.cn id=433 lang=golang
  *
@@ -5,7 +6,10 @@
  */
 
 // @lc code=start
-func minMutation(start string, end string, bank []string) int {
+/**
+ * BFS
+ */
+func minMutation_1(start string, end string, bank []string) int {
 	st := make([]string, 0)
 	st = append(st, start)
 	bank = append(bank, start)
@@ -49,6 +53,53 @@ func bfs(st []string, ed string, dst []string, visited map[string]bool) int {
 		index++
 	}
 	return -1
+}
+
+/**
+ * DFS
+ */
+func minMutation(start string, end string, bank []string) int {
+
+	visited := make(map[string]bool)
+	dict := make(map[string]bool)
+	for _, wd := range bank {
+		dict[wd] = true
+	}
+	if !dict[end] {
+		return -1
+	}
+	ret := len(bank) + 1
+	gens := []byte{'A', 'C', 'G', 'T'}
+	var dfs func(word string, level int)
+	dfs = func(word string, level int) {
+		if word == end {
+			if level < ret {
+				ret = level
+			}
+			return
+		}
+		visited[word] = true
+		for i := 0; i < 8; i++ {
+			for _, ch := range gens {
+				bytes := []byte(word)
+				if bytes[i] == ch {
+					continue
+				} else {
+					bytes[i] = ch
+					temp := string(bytes)
+					if !visited[temp] && dict[temp] {
+						dfs(temp, level+1)
+					}
+				}
+			}
+		}
+	}
+	dfs(start, 0)
+	if ret > len(bank) {
+		return -1
+	} else {
+		return ret
+	}
 }
 
 // @lc code=end
