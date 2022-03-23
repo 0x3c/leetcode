@@ -19,7 +19,7 @@
  * 时间复杂度：O(n)
  * 空间复杂度：O(n)
  */
-func levelOrder(root *TreeNode) [][]int {
+func levelOrder_1(root *TreeNode) [][]int {
 	ans := [][]int{}
 	if root == nil {
 		return ans
@@ -42,6 +42,34 @@ func levelOrder(root *TreeNode) [][]int {
 		queue = queue[size:]
 		ans = append(ans, ret)
 	}
+	return ans
+}
+
+/**
+ * DFS
+ */
+func levelOrder(root *TreeNode) [][]int {
+	ans := [][]int{}
+	if root == nil {
+		return ans
+	}
+	var dfs func(node *TreeNode, level int)
+	dfs = func(node *TreeNode, level int) {
+		if node == nil {
+			return
+		}
+		if len(ans) <= level {
+			ans = append(ans, []int{})
+		}
+		ans[level] = append(ans[level], node.Val)
+		if node.Left != nil {
+			dfs(node.Left, level+1)
+		}
+		if node.Right != nil {
+			dfs(node.Right, level+1)
+		}
+	}
+	dfs(root, 0)
 	return ans
 }
 
