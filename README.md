@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>35</td><td rowspan=3>71</td>
+	<td>36</td><td rowspan=3>72</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -218,6 +218,7 @@ Leetcode solutions
 | 646  | [Maximum Length of Pair Chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain)                                                             | [C++](./algorithms/cpp/646.最长数对链.cpp), [javascript](./algorithms/js/646.最长数对链.js)                                                                                  | Medium     |
 | 654  | [Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree)                                                                               | [javascript](./algorithms/js/654.最大二叉树.js)                                                                                                                              | Medium     |
 | 657  | [Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin)                                                                         | [C++](./algorithms/cpp/657.机器人能否返回原点.cpp)                                                                                                                           | Easy       |
+| 661  | [Image Smoother](https://leetcode-cn.com/problems/image-smoother)                                                                                         | [golang](./algorithms/golang/661.图片平滑器.go)                                                                                                                              | Easy       |
 | 665  | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array)                                                                             | [golang](./algorithms/golang/665.非递减数列.go)                                                                                                                              | Medium     |
 | 673  | [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)                                     | [C++](./algorithms/cpp/673.最长递增子序列的个数.cpp), [javascript](./algorithms/js/673.最长递增子序列的个数.js)                                                              | Medium     |
 | 692  | [Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words)                                                                             | [javascript](./algorithms/js/692.前k个高频单词.js)                                                                                                                           | Medium     |
