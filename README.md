@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>38</td><td rowspan=3>74</td>
+	<td>39</td><td rowspan=3>75</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -236,7 +236,7 @@ Leetcode solutions
 | 771  | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones)                                                                                   | [golang](./algorithms/golang/771.宝石与石头.go)                                                                                                                              | Easy       |
 | 841  | [Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms)                                                                                         | [C++](./algorithms/cpp/841.钥匙和房间.cpp)                                                                                                                                   | Medium     |
 | 859  | [Buddy Strings](https://leetcode-cn.com/problems/buddy-strings)                                                                                           | [javascript](./algorithms/js/859.亲密字符串.js)                                                                                                                              | Easy       |
-| 860  | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change)                                                                                       | [C++](./algorithms/cpp/860.柠檬水找零.cpp), [javascript](./algorithms/js/860.柠檬水找零.js)                                                                                  | Easy       |
+| 860  | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change)                                                                                       | [C++](./algorithms/cpp/860.柠檬水找零.cpp), [javascript](./algorithms/js/860.柠檬水找零.js), [golang](./algorithms/golang/860.柠檬水找零.go)                                 | Easy       |
 | 866  | [Prime Palindrome](https://leetcode-cn.com/problems/prime-palindrome)                                                                                     | [C++](./algorithms/cpp/866.回文素数.cpp)                                                                                                                                     | Medium     |
 | 868  | [Binary Gap](https://leetcode-cn.com/problems/binary-gap)                                                                                                 | [javascript](./algorithms/js/868.二进制间距.js)                                                                                                                              | Easy       |
 | 872  | [Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees)                                                                                 | [javascript](./algorithms/js/872.叶子相似的树.js)                                                                                                                            | Easy       |
