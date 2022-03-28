@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>40</td><td rowspan=3>77</td>
+	<td>40</td><td rowspan=3>78</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>31</td>
+	<td>32</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -241,7 +241,7 @@ Leetcode solutions
 | 866  | [Prime Palindrome](https://leetcode-cn.com/problems/prime-palindrome)                                                                                     | [C++](./algorithms/cpp/866.回文素数.cpp)                                                                                                                                      | Medium     |
 | 868  | [Binary Gap](https://leetcode-cn.com/problems/binary-gap)                                                                                                 | [javascript](./algorithms/js/868.二进制间距.js)                                                                                                                               | Easy       |
 | 872  | [Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees)                                                                                 | [javascript](./algorithms/js/872.叶子相似的树.js)                                                                                                                             | Easy       |
-| 874  | [Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation)                                                                     | [C++](./algorithms/cpp/874.模拟行走机器人.cpp)                                                                                                                                | Medium     |
+| 874  | [Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation)                                                                     | [C++](./algorithms/cpp/874.模拟行走机器人.cpp), [golang](./algorithms/golang/874.模拟行走机器人.go)                                                                           | Medium     |
 | 888  | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap)                                                                                       | [golang](./algorithms/golang/888.公平的糖果交换.go)                                                                                                                           | Easy       |
 | 892  | [Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)                                                                   | [javascript](./algorithms/js/892.三维形体的表面积.js)                                                                                                                         | Easy       |
 | 897  | [Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree)                                                             | [javascript](./algorithms/js/897.递增顺序查找树.js)                                                                                                                           | Easy       |
