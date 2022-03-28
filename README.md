@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>37</td><td rowspan=3>73</td>
+	<td>38</td><td rowspan=3>74</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -223,7 +223,7 @@ Leetcode solutions
 | 673  | [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)                                     | [C++](./algorithms/cpp/673.最长递增子序列的个数.cpp), [javascript](./algorithms/js/673.最长递增子序列的个数.js)                                                              | Medium     |
 | 682  | [Baseball Game](https://leetcode-cn.com/problems/baseball-game)                                                                                           | [golang](./algorithms/golang/682.棒球比赛.go)                                                                                                                                | Easy       |
 | 692  | [Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words)                                                                             | [javascript](./algorithms/js/692.前k个高频单词.js)                                                                                                                           | Medium     |
-| 693  | [Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)                                               | [javascript](./algorithms/js/693.交替位二进制数.js)                                                                                                                          | Easy       |
+| 693  | [Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)                                               | [javascript](./algorithms/js/693.交替位二进制数.js), [golang](./algorithms/golang/693.交替位二进制数.go)                                                                     | Easy       |
 | 696  | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings)                                                                       | [C++](./algorithms/cpp/696.计数二进制子串.cpp), [javascript](./algorithms/js/696.计数二进制子串.js)                                                                          | Easy       |
 | 701  | [Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)                                                     | [javascript](./algorithms/js/701.二叉搜索树中的插入操作.js)                                                                                                                  | Medium     |
 | 704  | [Binary Search](https://leetcode-cn.com/problems/binary-search)                                                                                           | [javascript](./algorithms/js/704.二分查找.js)                                                                                                                                | Easy       |
