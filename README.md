@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>40</td><td rowspan=3>78</td>
+	<td>40</td><td rowspan=3>79</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>32</td>
+	<td>33</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -105,7 +105,7 @@ Leetcode solutions
 | 50   | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)                                                                                                      | [golang](./algorithms/golang/50.pow-x-n.go)                                                                                                                                   | Medium     |
 | 51   | [N-Queens](https://leetcode-cn.com/problems/n-queens)                                                                                                     | [C++](./algorithms/cpp/51.n-皇后.cpp), [C++](./algorithms/cpp/51.n皇后.cpp), [javascript](./algorithms/js/51.n皇后.js), [golang](./algorithms/golang/51.n-皇后.go)            | Hard       |
 | 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                                     | [C++](./algorithms/cpp/53.最大子序和.cpp), [javascript](./algorithms/js/53.最大子序和.js)                                                                                     | Easy       |
-| 55   | [Jump Game](https://leetcode-cn.com/problems/jump-game)                                                                                                   | [C++](./algorithms/cpp/55.跳跃游戏.cpp), [javascript](./algorithms/js/55.跳跃游戏.js)                                                                                         | Medium     |
+| 55   | [Jump Game](https://leetcode-cn.com/problems/jump-game)                                                                                                   | [C++](./algorithms/cpp/55.跳跃游戏.cpp), [javascript](./algorithms/js/55.跳跃游戏.js), [golang](./algorithms/golang/55.跳跃游戏.go)                                           | Medium     |
 | 56   | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals)                                                                                       | [javascript](./algorithms/js/56.合并区间.js)                                                                                                                                  | Medium     |
 | 60   | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence)                                                                             | [javascript](./algorithms/js/60.第k个排列.js)                                                                                                                                 | Hard       |
 | 62   | [Unique Paths](https://leetcode-cn.com/problems/unique-paths)                                                                                             | [C++](./algorithms/cpp/62.不同路径.cpp), [javascript](./algorithms/js/62.不同路径.js)                                                                                         | Medium     |
