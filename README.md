@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>40</td><td rowspan=3>79</td>
+	<td>40</td><td rowspan=3>80</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>33</td>
+	<td>34</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -98,7 +98,7 @@ Leetcode solutions
 | 37   | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver)                                                                                           | [C++](./algorithms/cpp/37.解数独.cpp), [javascript](./algorithms/js/37.解数独.js)                                                                                             | Hard       |
 | 39   | [Combination Sum](https://leetcode-cn.com/problems/combination-sum)                                                                                       | [javascript](./algorithms/js/39.组合总和.js)                                                                                                                                  | Medium     |
 | 40   | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii)                                                                                 | [javascript](./algorithms/js/40.组合总和-ii.js)                                                                                                                               | Medium     |
-| 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                             | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp)                                                                                                                                    | Medium     |
+| 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                             | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp), [golang](./algorithms/golang/45.跳跃游戏-ii.go)                                                                                   | Medium     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations)                                                                                             | [javascript](./algorithms/js/46.全排列.js)                                                                                                                                    | Medium     |
 | 47   | [Permutations II](https://leetcode-cn.com/problems/permutations-ii)                                                                                       | [javascript](./algorithms/js/47.全排列-ii.js)                                                                                                                                 | Medium     |
 | 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams)                                                                                         | [golang](./algorithms/golang/49.字母异位词分组.go), [rust](./algorithms/rs/49.字母异位词分组.rs)                                                                              | Medium     |
