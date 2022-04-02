@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>41</td><td rowspan=3>81</td>
+	<td>42</td><td rowspan=3>82</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -185,7 +185,7 @@ Leetcode solutions
 | 347  | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements)                                                                       | [C++](./algorithms/cpp/347.前K个高频元素.cpp), [javascript](./algorithms/js/347.前-k-个高频元素.js)                                                                           | Medium     |
 | 349  | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays)                                                                 | [javascript](./algorithms/js/349.两个数组的交集.js)                                                                                                                           | Easy       |
 | 350  | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)                                                           | [javascript](./algorithms/js/350.两个数组的交集-ii.js)                                                                                                                        | Easy       |
-| 367  | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square)                                                                             | [C++](./algorithms/cpp/367.有效的完全平方数.cpp)                                                                                                                              | Easy       |
+| 367  | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square)                                                                             | [C++](./algorithms/cpp/367.有效的完全平方数.cpp), [golang](./algorithms/golang/367.有效的完全平方数.go)                                                                       | Easy       |
 | 376  | [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence)                                                                                 | [C++](./algorithms/cpp/376.摆动序列.cpp)                                                                                                                                      | Medium     |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)                                                               | [golang](./algorithms/golang/380.常数时间插入、删除和获取随机元素.go)                                                                                                         | Medium     |
 | 387  | [First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string)                                                 | [C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp)                                                                                                                      | Easy       |
