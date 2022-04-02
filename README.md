@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>40</td><td rowspan=3>80</td>
+	<td>41</td><td rowspan=3>81</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -113,6 +113,7 @@ Leetcode solutions
 | 64   | [Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum)                                                                                     | [C++](./algorithms/cpp/64.最小路径和.cpp)                                                                                                                                     | Medium     |
 | 66   | [Plus One](https://leetcode-cn.com/problems/plus-one)                                                                                                     | [C++](./algorithms/cpp/66.加一.cpp), [javascript](./algorithms/js/66.加一.js), [golang](./algorithms/golang/66.加一.go), [rust](./algorithms/rs/66.加一.rs)                   | Easy       |
 | 67   | [Add Binary](https://leetcode-cn.com/problems/add-binary)                                                                                                 | [javascript](./algorithms/js/67.二进制求和.js)                                                                                                                                | Easy       |
+| 69   | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx)                                                                                                         | [golang](./algorithms/golang/69.x-的平方根.go)                                                                                                                                | Easy       |
 | 70   | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs)                                                                                       | [C++](./algorithms/cpp/70.爬楼梯.cpp), [javascript](./algorithms/js/70.爬楼梯.js), [golang](./algorithms/golang/70.爬楼梯.go), [rust](./algorithms/rs/70.爬楼梯.rs)           | Easy       |
 | 75   | [Sort Colors](https://leetcode-cn.com/problems/sort-colors)                                                                                               | [javascript](./algorithms/js/75.颜色分类.js)                                                                                                                                  | Medium     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                                             | [C++](./algorithms/cpp/77.组合.cpp), [javascript](./algorithms/js/77.组合.js), [golang](./algorithms/golang/77.组合.go)                                                       | Medium     |
