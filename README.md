@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>42</td><td rowspan=3>82</td>
+	<td>42</td><td rowspan=3>83</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>34</td>
+	<td>35</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -93,6 +93,7 @@ Leetcode solutions
 | 27   | [Remove Element](https://leetcode-cn.com/problems/remove-element)                                                                                         | [javascript](./algorithms/js/27.移除元素.js)                                                                                                                                  | Easy       |
 | 28   | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr)                                                                                   | [javascript](./algorithms/js/28.实现-str-str.js)                                                                                                                              | Easy       |
 | 32   | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)                                                                   | [javascript](./algorithms/js/32.最长有效括号.js)                                                                                                                              | Hard       |
+| 33   | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)                                                         | [golang](./algorithms/golang/33.搜索旋转排序数组.go)                                                                                                                          | Medium     |
 | 35   | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position)                                                                         | [javascript](./algorithms/js/35.搜索插入位置.js)                                                                                                                              | Easy       |
 | 36   | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku)                                                                                             | [javascript](./algorithms/js/36.有效的数独.js)                                                                                                                                | Medium     |
 | 37   | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver)                                                                                           | [C++](./algorithms/cpp/37.解数独.cpp), [javascript](./algorithms/js/37.解数独.js)                                                                                             | Hard       |
