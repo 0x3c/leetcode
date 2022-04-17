@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>44</td><td rowspan=3>88</td>
+	<td>44</td><td rowspan=3>89</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>38</td>
+	<td>39</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -272,7 +272,7 @@ Leetcode solutions
 | 1094 | [Car Pooling](https://leetcode-cn.com/problems/car-pooling)                                                                                               | [javascript](./algorithms/js/1094.拼车.js)                                                                                                                                    | Medium     |
 | 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array)                                                                               | [javascript](./algorithms/js/1122.数组的相对排序.js)                                                                                                                          | Easy       |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs)                                                   | [golang](./algorithms/golang/1128.等价多米诺骨牌对的数量.go)                                                                                                                  | Easy       |
-| 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)                                                                 | [C++](./algorithms/cpp/1143.最长公共子序列.cpp), [javascript](./algorithms/js/1143.最长公共子序列.js)                                                                         | Medium     |
+| 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)                                                                 | [C++](./algorithms/cpp/1143.最长公共子序列.cpp), [javascript](./algorithms/js/1143.最长公共子序列.js), [golang](./algorithms/golang/1143.最长公共子序列.go)                   | Medium     |
 | 1232 | [Check If It Is a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)                                                         | [golang](./algorithms/golang/1232.缀点成线.go)                                                                                                                                | Easy       |
 | 1405 | [Longest Happy String](https://leetcode-cn.com/problems/longest-happy-string)                                                                             | [golang](./algorithms/golang/1405.最长快乐字符串.go)                                                                                                                          | Medium     |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)   | [golang](./algorithms/golang/1984.学生分数的最小差值.go)                                                                                                                      | Easy       |
