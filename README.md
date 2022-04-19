@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>44</td><td rowspan=3>89</td>
+	<td>44</td><td rowspan=3>90</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>39</td>
+	<td>40</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -139,7 +139,7 @@ Leetcode solutions
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)                                                 | [C++](./algorithms/cpp/114.二叉树展开为链表.cpp), [javascript](./algorithms/js/114.二叉树展开为链表.js)                                                                       | Medium     |
 | 118  | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle)                                                                                    | [javascript](./algorithms/js/118.杨辉三角.js)                                                                                                                                 | Easy       |
 | 119  | [Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii)                                                                              | [javascript](./algorithms/js/119.杨辉三角-ii.js)                                                                                                                              | Easy       |
-| 120  | [Triangle](https://leetcode-cn.com/problems/triangle)                                                                                                     | [javascript](./algorithms/js/120.三角形最小路径和.js)                                                                                                                         | Medium     |
+| 120  | [Triangle](https://leetcode-cn.com/problems/triangle)                                                                                                     | [javascript](./algorithms/js/120.三角形最小路径和.js), [golang](./algorithms/golang/120.三角形最小路径和.go)                                                                  | Medium     |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)                                                       | [C++](./algorithms/cpp/121.买卖股票的最佳时机.cpp)                                                                                                                            | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)                                                 | [C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp), [javascript](./algorithms/js/122.买卖股票的最佳时机-ii.js), [golang](./algorithms/golang/122.买卖股票的最佳时机-ii.go) | Medium     |
 | 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                                     | [javascript](./algorithms/js/125.验证回文串.js)                                                                                                                               | Easy       |
