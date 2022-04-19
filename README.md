@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>44</td><td rowspan=3>90</td>
+	<td>45</td><td rowspan=3>91</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -105,7 +105,7 @@ Leetcode solutions
 | 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams)                                                                                         | [golang](./algorithms/golang/49.字母异位词分组.go), [rust](./algorithms/rs/49.字母异位词分组.rs)                                                                              | Medium     |
 | 50   | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)                                                                                                      | [golang](./algorithms/golang/50.pow-x-n.go)                                                                                                                                   | Medium     |
 | 51   | [N-Queens](https://leetcode-cn.com/problems/n-queens)                                                                                                     | [C++](./algorithms/cpp/51.n-皇后.cpp), [C++](./algorithms/cpp/51.n皇后.cpp), [javascript](./algorithms/js/51.n皇后.js), [golang](./algorithms/golang/51.n-皇后.go)            | Hard       |
-| 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                                     | [C++](./algorithms/cpp/53.最大子序和.cpp), [javascript](./algorithms/js/53.最大子序和.js)                                                                                     | Easy       |
+| 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                                     | [C++](./algorithms/cpp/53.最大子序和.cpp), [javascript](./algorithms/js/53.最大子序和.js), [golang](./algorithms/golang/53.最大子数组和.go)                                   | Easy       |
 | 55   | [Jump Game](https://leetcode-cn.com/problems/jump-game)                                                                                                   | [C++](./algorithms/cpp/55.跳跃游戏.cpp), [javascript](./algorithms/js/55.跳跃游戏.js), [golang](./algorithms/golang/55.跳跃游戏.go)                                           | Medium     |
 | 56   | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals)                                                                                       | [javascript](./algorithms/js/56.合并区间.js)                                                                                                                                  | Medium     |
 | 60   | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence)                                                                             | [javascript](./algorithms/js/60.第k个排列.js)                                                                                                                                 | Hard       |
