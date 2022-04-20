@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>45</td><td rowspan=3>92</td>
+	<td>45</td><td rowspan=3>93</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>41</td>
+	<td>42</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -181,7 +181,7 @@ Leetcode solutions
 | 299  | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows)                                                                                         | [C++](./algorithms/cpp/299.猜数字游戏.cpp), [javascript](./algorithms/js/299.猜数字游戏.js), [golang](./algorithms/golang/299.猜数字游戏.go)                                  | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence)                                                         | [C++](./algorithms/cpp/300.最长上升子序列.cpp), [javascript](./algorithms/js/300.最长上升子序列.js)                                                                           | Medium     |
 | 312  | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons)                                                                                         | [javascript](./algorithms/js/312.戳气球.js)                                                                                                                                   | Hard       |
-| 322  | [Coin Change](https://leetcode-cn.com/problems/coin-change)                                                                                               | [C++](./algorithms/cpp/322.零钱兑换.cpp)                                                                                                                                      | Medium     |
+| 322  | [Coin Change](https://leetcode-cn.com/problems/coin-change)                                                                                               | [C++](./algorithms/cpp/322.零钱兑换.cpp), [golang](./algorithms/golang/322.零钱兑换.go)                                                                                       | Medium     |
 | 334  | [Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence)                                                         | [C++](./algorithms/cpp/334.递增的三元子序列.cpp)                                                                                                                              | Medium     |
 | 343  | [Integer Break](https://leetcode-cn.com/problems/integer-break)                                                                                           | [golang](./algorithms/golang/343.整数拆分.go)                                                                                                                                 | Medium     |
 | 345  | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)                                                                 | [javascript](./algorithms/js/345.反转字符串中的元音字母.js)                                                                                                                   | Easy       |
