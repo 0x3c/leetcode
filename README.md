@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>45</td><td rowspan=3>91</td>
+	<td>45</td><td rowspan=3>92</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>40</td>
+	<td>41</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -153,7 +153,7 @@ Leetcode solutions
 | 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)                                                       | [javascript](./algorithms/js/145.二叉树的后序遍历.js)                                                                                                                         | Easy       |
 | 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                                               | [javascript](./algorithms/js/147.对链表进行插入排序.js)                                                                                                                       | Medium     |
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                   | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                                 | Medium     |
-| 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                     | [C++](./algorithms/cpp/152.乘积最大子数组.cpp)                                                                                                                                | Medium     |
+| 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                     | [C++](./algorithms/cpp/152.乘积最大子数组.cpp), [golang](./algorithms/golang/152.乘积最大子数组.go)                                                                           | Medium     |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)                                             | [golang](./algorithms/golang/153.寻找旋转排序数组中的最小值.go)                                                                                                               | Medium     |
 | 155  | [Min Stack](https://leetcode-cn.com/problems/min-stack)                                                                                                   | [golang](./algorithms/golang/155.最小栈.go), [rust](./algorithms/rs/155.最小栈.rs)                                                                                            | Easy       |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)                                                   | [javascript](./algorithms/js/167.两数之和-ii-输入有序数组.js)                                                                                                                 | Medium     |
