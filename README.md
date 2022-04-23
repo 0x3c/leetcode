@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>45</td><td rowspan=3>95</td>
+	<td>45</td><td rowspan=3>96</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>44</td>
+	<td>45</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -165,7 +165,7 @@ Leetcode solutions
 | 200  | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands)                                                                                   | [javascript](./algorithms/js/200.岛屿数量.js), [golang](./algorithms/golang/200.岛屿数量.go)                                                                                  | Medium     |
 | 203  | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements)                                                               | [golang](./algorithms/golang/203.移除链表元素.go)                                                                                                                             | Easy       |
 | 206  | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list)                                                                               | [C++](./algorithms/cpp/206.反转链表.cpp), [javascript](./algorithms/js/206.反转链表.js), [golang](./algorithms/golang/206.反转链表.go)                                        | Easy       |
-| 208  | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)                                                               | [C++](./algorithms/cpp/208.实现-trie-前缀树.cpp), [javascript](./algorithms/js/208.实现-trie-前缀树.js)                                                                       | Medium     |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)                                                               | [C++](./algorithms/cpp/208.实现-trie-前缀树.cpp), [javascript](./algorithms/js/208.实现-trie-前缀树.js), [golang](./algorithms/golang/208.实现-trie-前缀树.go)                | Medium     |
 | 209  | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)                                                                   | [javascript](./algorithms/js/209.长度最小的子数组.js)                                                                                                                         | Medium     |
 | 211  | [Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure)                                 | [javascript](./algorithms/js/211.添加与搜索单词-数据结构设计.js)                                                                                                              | Medium     |
 | 212  | [Word Search II](https://leetcode-cn.com/problems/word-search-ii)                                                                                         | [C++](./algorithms/cpp/212.单词搜索-ii.cpp)                                                                                                                                   | Hard       |
