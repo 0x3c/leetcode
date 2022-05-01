@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>45</td><td rowspan=3>100</td>
+	<td>45</td><td rowspan=3>101</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -46,7 +46,7 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>7</td>
+	<td>8</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>rust</td>
@@ -96,7 +96,7 @@ Leetcode solutions
 | 33   | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)                                                         | [golang](./algorithms/golang/33.搜索旋转排序数组.go)                                                                                                                          | Medium     |
 | 35   | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position)                                                                         | [javascript](./algorithms/js/35.搜索插入位置.js)                                                                                                                              | Easy       |
 | 36   | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku)                                                                                             | [javascript](./algorithms/js/36.有效的数独.js), [golang](./algorithms/golang/36.有效的数独.go)                                                                                | Medium     |
-| 37   | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver)                                                                                           | [C++](./algorithms/cpp/37.解数独.cpp), [javascript](./algorithms/js/37.解数独.js)                                                                                             | Hard       |
+| 37   | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver)                                                                                           | [C++](./algorithms/cpp/37.解数独.cpp), [javascript](./algorithms/js/37.解数独.js), [golang](./algorithms/golang/37.解数独.go)                                                 | Hard       |
 | 39   | [Combination Sum](https://leetcode-cn.com/problems/combination-sum)                                                                                       | [javascript](./algorithms/js/39.组合总和.js)                                                                                                                                  | Medium     |
 | 40   | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii)                                                                                 | [javascript](./algorithms/js/40.组合总和-ii.js)                                                                                                                               | Medium     |
 | 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                             | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp), [golang](./algorithms/golang/45.跳跃游戏-ii.go)                                                                                   | Medium     |
