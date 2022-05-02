@@ -7,64 +7,45 @@
 // @lc code=start
 
 /*
- * BFS
+ * 单向BFS
  */
-func includes(dist []string, target string) bool {
-	for _, str := range dist {
-		if str == target {
-			return true
-		}
-	}
-	return false
-}
-func findRelatedWords(target string, wordDist map[string]bool, visited map[string]bool) []string {
-	ans := []string{}
-	bytes := []rune(target)
-	for i := 0; i < len(bytes); i++ {
-		for j := 'a'; j <= 'z'; j++ {
-			if bytes[i] == j {
-				continue
-			}
-			old := bytes[i]
-			bytes[i] = j
-			str := string(bytes)
-			if wordDist[str] && !visited[str] {
-				ans = append(ans, str)
-			}
-			bytes[i] = old
-		}
-	}
-	return ans
-}
 func ladderLength(beginWord string, endWord string, wordList []string) int {
-	ans := 0
-	if !includes(wordList, endWord) {
-		return ans
+	ret := 0
+	wordDict := map[string]bool{}
+	for _, str := range wordList {
+		wordDict[str] = true
+	}
+	if !wordDict[endWord] {
+		return ret
 	}
 	q := []string{beginWord}
-	visited := make(map[string]bool)
+	visited := map[string]bool{}
 	visited[beginWord] = true
-	wordDist := make(map[string]bool)
-	for _, str := range wordList {
-		wordDist[str] = true
-	}
-	for len(q) > 0 {
-		ans++
+	for len(q) != 0 {
 		size := len(q)
+		ret++
 		for i := 0; i < size; i++ {
-			if q[i] == endWord {
-				return ans
+			word := q[i]
+			if word == endWord {
+				return ret
 			}
-			words := findRelatedWords(q[i], wordDist, visited)
-			for _, str := range words {
-				visited[str] = true
+			wordBytes := []byte(word)
+			for j := 0; j < len(word); j++ {
+				old := wordBytes[j]
+				for k := byte('a'); k <= 'z'; k++ {
+					wordBytes[j] = k
+					str2 := string(wordBytes)
+					if wordDict[str2] && !visited[str2] {
+						visited[str2] = true
+						q = append(q, str2)
+					}
+				}
+				wordBytes[j] = old
 			}
-			q = append(q, words...)
 		}
-		q = q[size:]
+		q = append(q[size:])
 	}
 	return 0
 }
 
 // @lc code=end
-
