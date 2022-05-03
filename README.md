@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>45</td><td rowspan=3>103</td>
+	<td>46</td><td rowspan=3>104</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -162,6 +162,7 @@ Leetcode solutions
 | 179  | [Largest Number](https://leetcode-cn.com/problems/largest-number)                                                                                         | [javascript](./algorithms/js/179.最大数.js)                                                                                                                                   | Medium     |
 | 189  | [Rotate Array](https://leetcode-cn.com/problems/rotate-array)                                                                                             | [C++](./algorithms/cpp/189.旋转数组.cpp), [javascript](./algorithms/js/189.旋转数组.js), [golang](./algorithms/golang/189.轮转数组.go)                                        | Medium     |
 | 190  | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits)                                                                                             | [C++](./algorithms/cpp/190.颠倒二进制位.cpp), [javascript](./algorithms/js/190.颠倒二进制位.js)                                                                               | Easy       |
+| 191  | [Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits)                                                                                     | [golang](./algorithms/golang/191.位-1-的个数.go)                                                                                                                              | Easy       |
 | 198  | [House Robber](https://leetcode-cn.com/problems/house-robber)                                                                                             | [C++](./algorithms/cpp/198.打家劫舍.cpp), [javascript](./algorithms/js/198.打家劫舍.js), [golang](./algorithms/golang/198.打家劫舍.go)                                        | Medium     |
 | 200  | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands)                                                                                   | [javascript](./algorithms/js/200.岛屿数量.js), [golang](./algorithms/golang/200.岛屿数量.go)                                                                                  | Medium     |
 | 203  | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements)                                                               | [golang](./algorithms/golang/203.移除链表元素.go)                                                                                                                             | Easy       |
