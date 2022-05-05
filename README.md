@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>49</td><td rowspan=3>107</td>
+	<td>49</td><td rowspan=3>108</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>49</td>
+	<td>50</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -152,6 +152,7 @@ Leetcode solutions
 | 143  | [Reorder List](https://leetcode-cn.com/problems/reorder-list)                                                                                             | [javascript](./algorithms/js/143.重排链表.js)                                                                                                                                 | Medium     |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)                                                         | [javascript](./algorithms/js/144.二叉树的前序遍历.js), [golang](./algorithms/golang/144.二叉树的前序遍历.go)                                                                  | Easy       |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)                                                       | [javascript](./algorithms/js/145.二叉树的后序遍历.js)                                                                                                                         | Easy       |
+| 146  | [LRU Cache](https://leetcode-cn.com/problems/lru-cache)                                                                                                   | [golang](./algorithms/golang/146.lru-缓存.go)                                                                                                                                 | Medium     |
 | 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                                               | [javascript](./algorithms/js/147.对链表进行插入排序.js)                                                                                                                       | Medium     |
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                   | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                                 | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                     | [C++](./algorithms/cpp/152.乘积最大子数组.cpp), [golang](./algorithms/golang/152.乘积最大子数组.go)                                                                           | Medium     |
