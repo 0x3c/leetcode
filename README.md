@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>50</td><td rowspan=3>110</td>
+	<td>50</td><td rowspan=3>111</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -46,7 +46,7 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>9</td>
+	<td>10</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>rust</td>
@@ -210,6 +210,7 @@ Leetcode solutions
 | 459  | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern)                                                                 | [C++](./algorithms/cpp/459.重复的子字符串.cpp), [javascript](./algorithms/js/459.重复的子字符串.js)                                                                           | Easy       |
 | 463  | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter)                                                                                     | [golang](./algorithms/golang/463.岛屿的周长.go)                                                                                                                               | Easy       |
 | 491  | [Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences)                                                                       | [C++](./algorithms/cpp/491.递增子序列.cpp)                                                                                                                                    | Medium     |
+| 493  | [Reverse Pairs](https://leetcode-cn.com/problems/reverse-pairs)                                                                                           | [golang](./algorithms/golang/493.翻转对.go)                                                                                                                                   | Hard       |
 | 504  | [Base 7](https://leetcode-cn.com/problems/base-7)                                                                                                         | [javascript](./algorithms/js/504.七进制数.js)                                                                                                                                 | Easy       |
 | 509  | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number)                                                                                     | [javascript](./algorithms/js/509.斐波那契数.js), [golang](./algorithms/golang/509.斐波那契数.go)                                                                              | Easy       |
 | 515  | [Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)                                               | [golang](./algorithms/golang/515.在每个树行中找最大值.go)                                                                                                                     | Medium     |
