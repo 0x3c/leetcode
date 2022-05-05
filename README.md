@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>49</td><td rowspan=3>108</td>
+	<td>50</td><td rowspan=3>109</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -276,7 +276,7 @@ Leetcode solutions
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)                               | [C++](./algorithms/cpp/1081.不同字符的最小子序列.cpp)                                                                                                                         | Medium     |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix)                                                         | [C++](./algorithms/cpp/1091.二进制矩阵中的最短路径.cpp), [golang](./algorithms/golang/1091.二进制矩阵中的最短路径.go)                                                         | Medium     |
 | 1094 | [Car Pooling](https://leetcode-cn.com/problems/car-pooling)                                                                                               | [javascript](./algorithms/js/1094.拼车.js)                                                                                                                                    | Medium     |
-| 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array)                                                                               | [javascript](./algorithms/js/1122.数组的相对排序.js)                                                                                                                          | Easy       |
+| 1122 | [Relative Sort Array](https://leetcode-cn.com/problems/relative-sort-array)                                                                               | [javascript](./algorithms/js/1122.数组的相对排序.js), [golang](./algorithms/golang/1122.数组的相对排序.go)                                                                    | Easy       |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs)                                                   | [golang](./algorithms/golang/1128.等价多米诺骨牌对的数量.go)                                                                                                                  | Easy       |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)                                                                 | [C++](./algorithms/cpp/1143.最长公共子序列.cpp), [javascript](./algorithms/js/1143.最长公共子序列.js), [golang](./algorithms/golang/1143.最长公共子序列.go)                   | Medium     |
 | 1232 | [Check If It Is a Straight Line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)                                                         | [golang](./algorithms/golang/1232.缀点成线.go)                                                                                                                                | Easy       |
