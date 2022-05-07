@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>54</td><td rowspan=3>116</td>
+	<td>55</td><td rowspan=3>117</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -190,6 +190,7 @@ Leetcode solutions
 | 334  | [Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence)                                                         | [C++](./algorithms/cpp/334.递增的三元子序列.cpp)                                                                                                                              | Medium     |
 | 338  | [Counting Bits](https://leetcode-cn.com/problems/counting-bits)                                                                                           | [golang](./algorithms/golang/338.比特位计数.go)                                                                                                                               | Easy       |
 | 343  | [Integer Break](https://leetcode-cn.com/problems/integer-break)                                                                                           | [golang](./algorithms/golang/343.整数拆分.go)                                                                                                                                 | Medium     |
+| 344  | [Reverse String](https://leetcode-cn.com/problems/reverse-string)                                                                                         | [golang](./algorithms/golang/344.反转字符串.go)                                                                                                                               | Easy       |
 | 345  | [Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)                                                                 | [javascript](./algorithms/js/345.反转字符串中的元音字母.js)                                                                                                                   | Easy       |
 | 347  | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements)                                                                       | [C++](./algorithms/cpp/347.前K个高频元素.cpp), [javascript](./algorithms/js/347.前-k-个高频元素.js)                                                                           | Medium     |
 | 349  | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays)                                                                 | [javascript](./algorithms/js/349.两个数组的交集.js)                                                                                                                           | Easy       |
