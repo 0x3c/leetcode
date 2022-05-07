@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>52</td><td rowspan=3>113</td>
+	<td>53</td><td rowspan=3>114</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -197,7 +197,7 @@ Leetcode solutions
 | 367  | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square)                                                                             | [C++](./algorithms/cpp/367.有效的完全平方数.cpp), [golang](./algorithms/golang/367.有效的完全平方数.go)                                                                       | Easy       |
 | 376  | [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence)                                                                                 | [C++](./algorithms/cpp/376.摆动序列.cpp)                                                                                                                                      | Medium     |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)                                                               | [golang](./algorithms/golang/380.常数时间插入、删除和获取随机元素.go)                                                                                                         | Medium     |
-| 387  | [First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string)                                                 | [C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp)                                                                                                                      | Easy       |
+| 387  | [First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string)                                                 | [C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp), [golang](./algorithms/golang/387.字符串中的第一个唯一字符.go)                                                       | Easy       |
 | 389  | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference)                                                                               | [C++](./algorithms/cpp/389.找不同.cpp)                                                                                                                                        | Easy       |
 | 392  | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence)                                                                                         | [C++](./algorithms/cpp/392.判断子序列.cpp)                                                                                                                                    | Easy       |
 | 401  | [Binary Watch](https://leetcode-cn.com/problems/binary-watch)                                                                                             | [javascript](./algorithms/js/401.二进制手表.js)                                                                                                                               | Easy       |
