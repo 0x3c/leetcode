@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>51</td><td rowspan=3>112</td>
+	<td>52</td><td rowspan=3>113</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -108,6 +108,7 @@ Leetcode solutions
 | 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                                     | [C++](./algorithms/cpp/53.最大子序和.cpp), [javascript](./algorithms/js/53.最大子序和.js), [golang](./algorithms/golang/53.最大子数组和.go)                                   | Easy       |
 | 55   | [Jump Game](https://leetcode-cn.com/problems/jump-game)                                                                                                   | [C++](./algorithms/cpp/55.跳跃游戏.cpp), [javascript](./algorithms/js/55.跳跃游戏.js), [golang](./algorithms/golang/55.跳跃游戏.go)                                           | Medium     |
 | 56   | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals)                                                                                       | [javascript](./algorithms/js/56.合并区间.js), [golang](./algorithms/golang/56.合并区间.go)                                                                                    | Medium     |
+| 58   | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word)                                                                               | [golang](./algorithms/golang/58.最后一个单词的长度.go)                                                                                                                        | Easy       |
 | 60   | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence)                                                                             | [javascript](./algorithms/js/60.第k个排列.js)                                                                                                                                 | Hard       |
 | 62   | [Unique Paths](https://leetcode-cn.com/problems/unique-paths)                                                                                             | [C++](./algorithms/cpp/62.不同路径.cpp), [javascript](./algorithms/js/62.不同路径.js)                                                                                         | Medium     |
 | 63   | [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii)                                                                                       | [javascript](./algorithms/js/63.不同路径-ii.js), [golang](./algorithms/golang/63.不同路径-ii.go)                                                                              | Medium     |
