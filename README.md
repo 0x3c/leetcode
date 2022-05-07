@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>53</td><td rowspan=3>115</td>
+	<td>54</td><td rowspan=3>116</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -79,7 +79,7 @@ Leetcode solutions
 | 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                                       | [javascript](./algorithms/js/8.字符串转换整数-atoi.js), [golang](./algorithms/golang/8.字符串转换整数-atoi.go)                                                                | Medium     |
 | 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)                                                                                   | [javascript](./algorithms/js/9.回文数.js)                                                                                                                                     | Easy       |
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water)                                                                   | [C++](./algorithms/cpp/11.盛最多水的容器.cpp), [javascript](./algorithms/js/11.盛最多水的容器.js), [golang](./algorithms/golang/11.盛最多水的容器.go)                         | Medium     |
-| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix)                                                                           | [C++](./algorithms/cpp/14.最长公共前缀.cpp), [javascript](./algorithms/js/14.最长公共前缀.js)                                                                                 | Easy       |
+| 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix)                                                                           | [C++](./algorithms/cpp/14.最长公共前缀.cpp), [javascript](./algorithms/js/14.最长公共前缀.js), [golang](./algorithms/golang/14.最长公共前缀.go)                               | Easy       |
 | 15   | [3Sum](https://leetcode-cn.com/problems/3sum)                                                                                                             | [javascript](./algorithms/js/15.三数之和.js), [golang](./algorithms/golang/15.三数之和.go)                                                                                    | Medium     |
 | 16   | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest)                                                                                             | [javascript](./algorithms/js/16.最接近的三数之和.js)                                                                                                                          | Medium     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)                                           | [C++](./algorithms/cpp/17.电话号码的字母组合.cpp), [javascript](./algorithms/js/17.电话号码的字母组合.js), [golang](./algorithms/golang/17.电话号码的字母组合.go)             | Medium     |
