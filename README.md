@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>50</td><td rowspan=3>111</td>
+	<td>51</td><td rowspan=3>112</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -238,7 +238,7 @@ Leetcode solutions
 | 696  | [Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings)                                                                       | [C++](./algorithms/cpp/696.计数二进制子串.cpp), [javascript](./algorithms/js/696.计数二进制子串.js)                                                                           | Easy       |
 | 701  | [Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)                                                     | [javascript](./algorithms/js/701.二叉搜索树中的插入操作.js)                                                                                                                   | Medium     |
 | 704  | [Binary Search](https://leetcode-cn.com/problems/binary-search)                                                                                           | [javascript](./algorithms/js/704.二分查找.js)                                                                                                                                 | Easy       |
-| 709  | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case)                                                                                           | [javascript](./algorithms/js/709.转换成小写字母.js)                                                                                                                           | Easy       |
+| 709  | [To Lower Case](https://leetcode-cn.com/problems/to-lower-case)                                                                                           | [javascript](./algorithms/js/709.转换成小写字母.js), [golang](./algorithms/golang/709.转换成小写字母.go)                                                                      | Easy       |
 | 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings)                                     | [C++](./algorithms/cpp/712.两个字符串的最小ascii删除和.cpp)                                                                                                                   | Medium     |
 | 717  | [1-bit and 2-bit Characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)                                                                 | [golang](./algorithms/golang/717.1-比特与-2-比特字符.go)                                                                                                                      | Easy       |
 | 724  | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index)                                                                                     | [golang](./algorithms/golang/724.寻找数组的中心索引.go)                                                                                                                       | Easy       |
