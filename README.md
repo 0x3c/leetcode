@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>53</td><td rowspan=3>114</td>
+	<td>53</td><td rowspan=3>115</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>51</td>
+	<td>52</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -76,7 +76,7 @@ Leetcode solutions
 | 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)                                                           | [javascript](./algorithms/js/5.最长回文子串.js)                                                                                                                               | Medium     |
 | 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)                                                                                   | [javascript](./algorithms/js/6.z-字形变换.js), [golang](./algorithms/golang/6.z-字形变换.go)                                                                                  | Medium     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)                                                                                       | [javascript](./algorithms/js/7.整数反转.js)                                                                                                                                   | Medium     |
-| 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                                       | [javascript](./algorithms/js/8.字符串转换整数-atoi.js)                                                                                                                        | Medium     |
+| 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                                       | [javascript](./algorithms/js/8.字符串转换整数-atoi.js), [golang](./algorithms/golang/8.字符串转换整数-atoi.go)                                                                | Medium     |
 | 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)                                                                                   | [javascript](./algorithms/js/9.回文数.js)                                                                                                                                     | Easy       |
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water)                                                                   | [C++](./algorithms/cpp/11.盛最多水的容器.cpp), [javascript](./algorithms/js/11.盛最多水的容器.js), [golang](./algorithms/golang/11.盛最多水的容器.go)                         | Medium     |
 | 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix)                                                                           | [C++](./algorithms/cpp/14.最长公共前缀.cpp), [javascript](./algorithms/js/14.最长公共前缀.js)                                                                                 | Easy       |
