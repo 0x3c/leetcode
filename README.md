@@ -25,11 +25,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>58</td><td rowspan=3>137</td>
+	<td>58</td><td rowspan=3>138</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>72</td>
+	<td>73</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -102,7 +102,7 @@ Leetcode solutions
 | 45   | [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii)                                                                                             | [C++](./algorithms/cpp/45.跳跃游戏-ii.cpp), [golang](./algorithms/golang/45.跳跃游戏-ii.go)                                                                                   | Medium     |
 | 46   | [Permutations](https://leetcode-cn.com/problems/permutations)                                                                                             | [javascript](./algorithms/js/46.全排列.js)                                                                                                                                    | Medium     |
 | 47   | [Permutations II](https://leetcode-cn.com/problems/permutations-ii)                                                                                       | [javascript](./algorithms/js/47.全排列-ii.js)                                                                                                                                 | Medium     |
-| 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams)                                                                                         | [golang](./algorithms/golang/49.字母异位词分组.go), [rust](./algorithms/rs/49.字母异位词分组.rs)                                                                              | Medium     |
+| 49   | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams)                                                                                         | [javascript](./algorithms/js/49.字母异位词分组.js), [golang](./algorithms/golang/49.字母异位词分组.go), [rust](./algorithms/rs/49.字母异位词分组.rs)                          | Medium     |
 | 50   | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)                                                                                                      | [golang](./algorithms/golang/50.pow-x-n.go)                                                                                                                                   | Medium     |
 | 51   | [N-Queens](https://leetcode-cn.com/problems/n-queens)                                                                                                     | [C++](./algorithms/cpp/51.n-皇后.cpp), [C++](./algorithms/cpp/51.n皇后.cpp), [javascript](./algorithms/js/51.n皇后.js), [golang](./algorithms/golang/51.n-皇后.go)            | Hard       |
 | 53   | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray)                                                                                     | [C++](./algorithms/cpp/53.最大子序和.cpp), [javascript](./algorithms/js/53.最大子序和.js), [golang](./algorithms/golang/53.最大子数组和.go)                                   | Easy       |
