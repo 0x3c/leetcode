@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>58</td><td rowspan=3>122</td>
+	<td>59</td><td rowspan=3>123</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -237,6 +237,7 @@ Leetcode solutions
 | 661  | [Image Smoother](https://leetcode-cn.com/problems/image-smoother)                                                                                         | [golang](./algorithms/golang/661.图片平滑器.go)                                                                                                                               | Easy       |
 | 665  | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array)                                                                             | [golang](./algorithms/golang/665.非递减数列.go)                                                                                                                               | Medium     |
 | 673  | [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)                                     | [C++](./algorithms/cpp/673.最长递增子序列的个数.cpp), [javascript](./algorithms/js/673.最长递增子序列的个数.js)                                                               | Medium     |
+| 680  | [Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii)                                                                               | [golang](./algorithms/golang/680.验证回文字符串-ⅱ.go)                                                                                                                         | Easy       |
 | 682  | [Baseball Game](https://leetcode-cn.com/problems/baseball-game)                                                                                           | [golang](./algorithms/golang/682.棒球比赛.go)                                                                                                                                 | Easy       |
 | 692  | [Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words)                                                                             | [javascript](./algorithms/js/692.前k个高频单词.js)                                                                                                                            | Medium     |
 | 693  | [Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)                                               | [javascript](./algorithms/js/693.交替位二进制数.js), [golang](./algorithms/golang/693.交替位二进制数.go)                                                                      | Easy       |
