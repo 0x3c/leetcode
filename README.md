@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>57</td><td rowspan=3>121</td>
+	<td>58</td><td rowspan=3>122</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -143,7 +143,7 @@ Leetcode solutions
 | 120  | [Triangle](https://leetcode-cn.com/problems/triangle)                                                                                                     | [javascript](./algorithms/js/120.三角形最小路径和.js), [golang](./algorithms/golang/120.三角形最小路径和.go)                                                                  | Medium     |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)                                                       | [C++](./algorithms/cpp/121.买卖股票的最佳时机.cpp)                                                                                                                            | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)                                                 | [C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp), [javascript](./algorithms/js/122.买卖股票的最佳时机-ii.js), [golang](./algorithms/golang/122.买卖股票的最佳时机-ii.go) | Medium     |
-| 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                                     | [javascript](./algorithms/js/125.验证回文串.js)                                                                                                                               | Easy       |
+| 125  | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome)                                                                                     | [javascript](./algorithms/js/125.验证回文串.js), [golang](./algorithms/golang/125.验证回文串.go)                                                                              | Easy       |
 | 126  | [Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii)                                                                                         | [golang](./algorithms/golang/126.单词接龙-ii.go)                                                                                                                              | Hard       |
 | 127  | [Word Ladder](https://leetcode-cn.com/problems/word-ladder)                                                                                               | [C++](./algorithms/cpp/127.单词接龙.cpp), [golang](./algorithms/golang/127.单词接龙.go)                                                                                       | Hard       |
 | 130  | [Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions)                                                                                 | [golang](./algorithms/golang/130.被围绕的区域.go)                                                                                                                             | Medium     |
