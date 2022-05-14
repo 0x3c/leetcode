@@ -2,47 +2,38 @@
  * @lc app=leetcode.cn id=125 lang=javascript
  *
  * [125] 验证回文串
- *
- * https://leetcode-cn.com/problems/valid-palindrome/description/
- *
- * algorithms
- * Easy (40.65%)
- * Likes:    101
- * Dislikes: 0
- * Total Accepted:    47.2K
- * Total Submissions: 116K
- * Testcase Example:  '"A man, a plan, a canal: Panama"'
- *
- * 给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。
- *
- * 说明：本题中，我们将空字符串定义为有效的回文串。
- *
- * 示例 1:
- *
- * 输入: "A man, a plan, a canal: Panama"
- * 输出: true
- *
- *
- * 示例 2:
- *
- * 输入: "race a car"
- * 输出: false
- *
- *
  */
+
+// @lc code=start
 /**
  * @param {string} s
  * @return {boolean}
  */
+function isValidLetter(s) {
+  s = s.toLocaleLowerCase();
+  if ((s[0] >= "0" && s[0] <= "9") || (s[0] >= "a" && s[0] <= "z")) {
+    return true;
+  }
+  return false;
+}
 var isPalindrome = function(s) {
-  s = s.toLowerCase();
-  s = s.replace(/\W/g, "");
-  let lp = -1,
-    rp = s.length;
-  while (++lp < --rp) {
-    if (s[lp] !== s[rp]) {
+  let l = 0,
+    r = s.length - 1;
+
+  while (l < r) {
+    while (l < r && !isValidLetter(s[l])) {
+      l++;
+    }
+    while (l < r && !isValidLetter(s[r])) {
+      r--;
+    }
+    if (s[l].toLocaleLowerCase() !== s[r].toLocaleLowerCase()) {
       return false;
     }
+
+    l++;
+    r--;
   }
   return true;
 };
+// @lc code=end
