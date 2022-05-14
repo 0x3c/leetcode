@@ -38,11 +38,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>59</td><td rowspan=3>123</td>
+	<td>59</td><td rowspan=3>124</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>54</td>
+	<td>55</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -73,7 +73,7 @@ Leetcode solutions
 | 2    | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers)                                                                                       | [C++](./algorithms/cpp/2.两数相加.cpp), [javascript](./algorithms/js/2.两数相加.js)                                                                                           | Medium     |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)                         | [C++](./algorithms/cpp/3.无重复字符的最长子串.cpp), [javascript](./algorithms/js/3.无重复字符的最长子串.js)                                                                   | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)                                                               | [javascript](./algorithms/js/4.寻找两个有序数组的中位数.js)                                                                                                                   | Hard       |
-| 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)                                                           | [javascript](./algorithms/js/5.最长回文子串.js)                                                                                                                               | Medium     |
+| 5    | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring)                                                           | [javascript](./algorithms/js/5.最长回文子串.js), [golang](./algorithms/golang/5.最长回文子串.go)                                                                              | Medium     |
 | 6    | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)                                                                                   | [javascript](./algorithms/js/6.z-字形变换.js), [golang](./algorithms/golang/6.z-字形变换.go)                                                                                  | Medium     |
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)                                                                                       | [javascript](./algorithms/js/7.整数反转.js)                                                                                                                                   | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                                       | [javascript](./algorithms/js/8.字符串转换整数-atoi.js), [golang](./algorithms/golang/8.字符串转换整数-atoi.go)                                                                | Medium     |
