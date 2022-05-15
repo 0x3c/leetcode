@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>59</td><td rowspan=3>124</td>
+	<td>59</td><td rowspan=3>125</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -46,7 +46,7 @@ Leetcode solutions
 </tr>
 <tr>
 	<td>Hard</td>
-	<td>10</td>
+	<td>11</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>rust</td>
@@ -117,6 +117,7 @@ Leetcode solutions
 | 67   | [Add Binary](https://leetcode-cn.com/problems/add-binary)                                                                                                 | [javascript](./algorithms/js/67.二进制求和.js)                                                                                                                                | Easy       |
 | 69   | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx)                                                                                                         | [golang](./algorithms/golang/69.x-的平方根.go)                                                                                                                                | Easy       |
 | 70   | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs)                                                                                       | [C++](./algorithms/cpp/70.爬楼梯.cpp), [javascript](./algorithms/js/70.爬楼梯.js), [golang](./algorithms/golang/70.爬楼梯.go), [rust](./algorithms/rs/70.爬楼梯.rs)           | Easy       |
+| 72   | [Edit Distance](https://leetcode-cn.com/problems/edit-distance)                                                                                           | [golang](./algorithms/golang/72.编辑距离.go)                                                                                                                                  | Hard       |
 | 74   | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix)                                                                                 | [golang](./algorithms/golang/74.搜索二维矩阵.go)                                                                                                                              | Medium     |
 | 75   | [Sort Colors](https://leetcode-cn.com/problems/sort-colors)                                                                                               | [javascript](./algorithms/js/75.颜色分类.js)                                                                                                                                  | Medium     |
 | 77   | [Combinations](https://leetcode-cn.com/problems/combinations)                                                                                             | [C++](./algorithms/cpp/77.组合.cpp), [javascript](./algorithms/js/77.组合.js), [golang](./algorithms/golang/77.组合.go)                                                       | Medium     |
