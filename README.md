@@ -38,15 +38,15 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>59</td><td rowspan=3>125</td>
+	<td>59</td><td rowspan=3>126</td>
+</tr>
+<tr>
+	<td>Hard</td>
+	<td>12</td>
 </tr>
 <tr>
 	<td>Medium</td>
 	<td>55</td>
-</tr>
-<tr>
-	<td>Hard</td>
-	<td>11</td>
 </tr>
 </tr><tr>
 	<td rowspan=3>rust</td>
@@ -78,6 +78,7 @@ Leetcode solutions
 | 7    | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)                                                                                       | [javascript](./algorithms/js/7.整数反转.js)                                                                                                                                   | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)                                                                       | [javascript](./algorithms/js/8.字符串转换整数-atoi.js), [golang](./algorithms/golang/8.字符串转换整数-atoi.go)                                                                | Medium     |
 | 9    | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)                                                                                   | [javascript](./algorithms/js/9.回文数.js)                                                                                                                                     | Easy       |
+| 10   | [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching)                                                               | [golang](./algorithms/golang/10.正则表达式匹配.go)                                                                                                                            | Hard       |
 | 11   | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water)                                                                   | [C++](./algorithms/cpp/11.盛最多水的容器.cpp), [javascript](./algorithms/js/11.盛最多水的容器.js), [golang](./algorithms/golang/11.盛最多水的容器.go)                         | Medium     |
 | 14   | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix)                                                                           | [C++](./algorithms/cpp/14.最长公共前缀.cpp), [javascript](./algorithms/js/14.最长公共前缀.js), [golang](./algorithms/golang/14.最长公共前缀.go)                               | Easy       |
 | 15   | [3Sum](https://leetcode-cn.com/problems/3sum)                                                                                                             | [javascript](./algorithms/js/15.三数之和.js), [golang](./algorithms/golang/15.三数之和.go)                                                                                    | Medium     |
