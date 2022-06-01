@@ -38,7 +38,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>golang</td>
 	<td>Easy</td>
-	<td>59</td><td rowspan=3>127</td>
+	<td>60</td><td rowspan=3>128</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -172,6 +172,7 @@ Leetcode solutions
 | 198  | [House Robber](https://leetcode-cn.com/problems/house-robber)                                                                                             | [C++](./algorithms/cpp/198.打家劫舍.cpp), [javascript](./algorithms/js/198.打家劫舍.js), [golang](./algorithms/golang/198.打家劫舍.go)                                        | Medium     |
 | 200  | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands)                                                                                   | [javascript](./algorithms/js/200.岛屿数量.js), [golang](./algorithms/golang/200.岛屿数量.go)                                                                                  | Medium     |
 | 203  | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements)                                                               | [golang](./algorithms/golang/203.移除链表元素.go)                                                                                                                             | Easy       |
+| 205  | [Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings)                                                                                 | [golang](./algorithms/golang/205.同构字符串.go)                                                                                                                               | Easy       |
 | 206  | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list)                                                                               | [C++](./algorithms/cpp/206.反转链表.cpp), [javascript](./algorithms/js/206.反转链表.js), [golang](./algorithms/golang/206.反转链表.go)                                        | Easy       |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)                                                               | [C++](./algorithms/cpp/208.实现-trie-前缀树.cpp), [javascript](./algorithms/js/208.实现-trie-前缀树.js), [golang](./algorithms/golang/208.实现-trie-前缀树.go)                | Medium     |
 | 209  | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum)                                                                   | [javascript](./algorithms/js/209.长度最小的子数组.js)                                                                                                                         | Medium     |
