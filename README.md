@@ -25,11 +25,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>60</td><td rowspan=3>140</td>
+	<td>60</td><td rowspan=3>141</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>73</td>
+	<td>74</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -159,7 +159,7 @@ Leetcode solutions
 | 146  | [LRU Cache](https://leetcode-cn.com/problems/lru-cache)                                                                                                   | [golang](./algorithms/golang/146.lru-缓存.go)                                                                                                                                          | Medium     |
 | 147  | [Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list)                                                                               | [javascript](./algorithms/js/147.对链表进行插入排序.js)                                                                                                                                | Medium     |
 | 148  | [Sort List](https://leetcode-cn.com/problems/sort-list)                                                                                                   | [javascript](./algorithms/js/148.排序链表.js)                                                                                                                                          | Medium     |
-| 151  | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string)                                                                   | [golang](./algorithms/golang/151.颠倒字符串中的单词.go)                                                                                                                                | Medium     |
+| 151  | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string)                                                                   | [javascript](./algorithms/js/151.颠倒字符串中的单词.js), [golang](./algorithms/golang/151.颠倒字符串中的单词.go)                                                                       | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray)                                                                     | [C++](./algorithms/cpp/152.乘积最大子数组.cpp), [golang](./algorithms/golang/152.乘积最大子数组.go)                                                                                    | Medium     |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)                                             | [golang](./algorithms/golang/153.寻找旋转排序数组中的最小值.go)                                                                                                                        | Medium     |
 | 155  | [Min Stack](https://leetcode-cn.com/problems/min-stack)                                                                                                   | [golang](./algorithms/golang/155.最小栈.go), [rust](./algorithms/rs/155.最小栈.rs)                                                                                                     | Easy       |
