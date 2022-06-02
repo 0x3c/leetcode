@@ -25,7 +25,7 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>60</td><td rowspan=3>141</td>
+	<td>61</td><td rowspan=3>142</td>
 </tr>
 <tr>
 	<td>Medium</td>
@@ -226,7 +226,7 @@ Leetcode solutions
 | 529  | [Minesweeper](https://leetcode-cn.com/problems/minesweeper)                                                                                               | [C++](./algorithms/cpp/529.扫雷游戏.cpp), [golang](./algorithms/golang/529.扫雷游戏.go)                                                                                                | Medium     |
 | 541  | [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii)                                                                                   | [javascript](./algorithms/js/541.反转字符串-ii.js), [golang](./algorithms/golang/541.反转字符串-ii.go)                                                                                 | Easy       |
 | 547  | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces)                                                                               | [C++](./algorithms/cpp/547.朋友圈.cpp), [javascript](./algorithms/js/547.朋友圈.js), [golang](./algorithms/golang/547.省份数量.go)                                                     | Medium     |
-| 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                           | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp), [golang](./algorithms/golang/557.反转字符串中的单词-iii.go)                                                                    | Easy       |
+| 557  | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)                                                           | [C++](./algorithms/cpp/557.反转字符串中的单词-iii.cpp), [javascript](./algorithms/js/557.反转字符串中的单词-iii.js), [golang](./algorithms/golang/557.反转字符串中的单词-iii.go)       | Easy       |
 | 575  | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies)                                                                                 | [javascript](./algorithms/js/575.分糖果.js)                                                                                                                                            | Easy       |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)                                                           | [golang](./algorithms/golang/589.n-叉树的前序遍历.go)                                                                                                                                  | Easy       |
 | 590  | [N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)                                                         | [golang](./algorithms/golang/590.n-叉树的后序遍历.go)                                                                                                                                  | Easy       |
