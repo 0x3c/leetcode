@@ -25,11 +25,11 @@ Leetcode solutions
 </tr><tr>
 	<td rowspan=3>javascript</td>
 	<td>Easy</td>
-	<td>62</td><td rowspan=3>143</td>
+	<td>62</td><td rowspan=3>144</td>
 </tr>
 <tr>
 	<td>Medium</td>
-	<td>74</td>
+	<td>75</td>
 </tr>
 <tr>
 	<td>Hard</td>
@@ -212,7 +212,7 @@ Leetcode solutions
 | 415  | [Add Strings](https://leetcode-cn.com/problems/add-strings)                                                                                               | [javascript](./algorithms/js/415.字符串相加.js)                                                                                                                                        | Easy       |
 | 429  | [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)                                                     | [C++](./algorithms/cpp/429.n叉树的层序遍历.cpp), [javascript](./algorithms/js/429.n叉树的层序遍历.js), [golang](./algorithms/golang/429.n-叉树的层序遍历.go)                           | Medium     |
 | 433  | [Minimum Genetic Mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation)                                                                     | [javascript](./algorithms/js/433.最小基因变化.js), [golang](./algorithms/golang/433.最小基因变化.go)                                                                                   | Medium     |
-| 438  | [Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)                                                           | [golang](./algorithms/golang/438.找到字符串中所有字母异位词.go)                                                                                                                        | Medium     |
+| 438  | [Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)                                                           | [javascript](./algorithms/js/438.找到字符串中所有字母异位词.js), [golang](./algorithms/golang/438.找到字符串中所有字母异位词.go)                                                       | Medium     |
 | 441  | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins)                                                                                       | [javascript](./algorithms/js/441.排列硬币.js)                                                                                                                                          | Easy       |
 | 455  | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies)                                                                                         | [golang](./algorithms/golang/455.分发饼干.go)                                                                                                                                          | Easy       |
 | 459  | [Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern)                                                                 | [C++](./algorithms/cpp/459.重复的子字符串.cpp), [javascript](./algorithms/js/459.重复的子字符串.js)                                                                                    | Easy       |
